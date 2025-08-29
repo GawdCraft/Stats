@@ -1,0 +1,27 @@
+---
+layout: default
+title: GawdScape Stats
+description: Stats Top List
+---
+
+{%- assign img_dir = site.ImgStats -%}
+
+<table id="[stat.id]" class="top-players">
+  <thead>
+    <tr class="head-stat">
+      <td class="stat-icon"><img src="{{ img_dir }}{{ stat.icon }}" alt="Stat"></td>
+      <td class="stat-name">[stat.name]</td>
+    </tr>
+  </thead>
+
+  <tr name="[player.id]" class="row-player">
+    <td class="player-icon"><img src="{{ img_dir }}{{ player.icon }}" alt="Player"></td>
+    <td class="player-name">[player..name]</td>
+  </tr>
+
+  <tfoot>
+    <tr colspan="2" id="" class="foot-stata">
+      <td class="stats-updated">Updated: [date]</td>
+    </tr>
+  </tfoot>
+</table>
