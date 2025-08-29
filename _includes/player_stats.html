@@ -1,0 +1,17 @@
+<table name="[player.id]" class="player">
+  <thead>
+    <tr>
+      <td><span class="player-icon"></span><span class="player-name">[player.name]</span></td>
+    </tr>
+  </thead>
+{% for stat in site.data.stats %}
+  <tr>
+    <td><span name="{{ stat.id }}" class="stat-level">[level]</span></td>
+  </tr>
+{% endfor %}
+  <tfoot>
+    <tr>
+      <td>Updated: <span class="player-updated">[date]</span></td>
+    </tr>
+  </tfoot>
+</table>
