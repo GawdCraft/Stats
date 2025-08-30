@@ -1,62 +1,31 @@
-/* GawsStats Stylesheet */
-
-html {
-  
+* {
+  box-sizing: border-box;
 }
 
-body {
-  
+.row {
+  --col: 1;
 }
 
-#page {
-  
+.column {
+  float: left;
+  width: calc(100% / var(--col));
+  padding: 10px;
 }
 
-#content {
-  
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-#sidebar {
-  
+@media screen and (max-width: 900px) {
+  .column  {
+    width: calc(100% / (var(--col) * 0.5 ) );
+  }
 }
 
-#header {
-  
-}
-
-#footer {
-  
-}
-
-.container {
-  
-}
-
-.stats {
-  
-}
-
-.stats > img {
-  
-}
-
-.title {
-  
-}
-
-.navbar {
-  
-}
-
-.navbar > a {
-  
-}
-
-
-.sidenav {
-  
-}
-
-.sidenav > a {
-  
+@media screen and (max-width: 600px) {
+  .column  {
+    width: calc(100% / (var(--col) * 0.25 ) );
+  }
 }
