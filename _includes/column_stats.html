@@ -1,0 +1,8 @@
+{% for stat in site.data.stats %}
+<div id="stats" class="row">
+   <div id="{{ stat.id }}" class="column">
+     <span class="stat-icon">{{ stat.icon }}</span>
+     <span class="stat-name">{{ stat.name }}</span>
+   </div>
+</div>
+{% endfor %}
