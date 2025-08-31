@@ -1,8 +1,25 @@
-{% for stat in site.data.stats %}
-<div id="stats" class="row">
-   <div data-stat="{{ stat.id }}" class="column">
-     <span class="stat-icon">{{ stat.icon }}</span>
-     <span class="stat-name">{{ stat.name }}</span>
+<div data-player="[[ player.id ]]" class="column">
+   <div class="row row-title">
+      <div class="column col-title">
+<!-- Title -->
+      </div>
    </div>
-</div>
+   <div class="row row-label">
+      <div class="column col-icon">
+<!-- Icon -->
+      </div>
+      <div class="column col-stat">
+<b>Stat</b>
+      </div>
+   </div>
+{% for stat in site.data.stats %}
+   <div data-stat="{{ stat.id }}" class="row row-stat">
+      <div class="column col-icon">
+         <img src="{{ stat.icon }}" alt="Stat" class="icon-stat">
+      </div>
+      <div class="column col-stat">
+         <span class="name-stat">{{ stat.name }}</span>
+      </div>
+   </div>
 {% endfor %}
+</div>
