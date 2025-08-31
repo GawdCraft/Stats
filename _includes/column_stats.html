@@ -1,6 +1,9 @@
-<div data-player="[[ player.id ]]" class="column">
+<div data-player="[[ player.id ]]" class="column col-stats">
    <div class="row row-title">
-      <div class="column col-title">
+      <div class="column col-icon">
+<!-- Icon -->
+      </div>
+      <div class="column col-name">
 <!-- Title -->
       </div>
    </div>
@@ -8,17 +11,17 @@
       <div class="column col-icon">
 <!-- Icon -->
       </div>
-      <div class="column col-stat">
-<b>Stat</b>
+      <div class="column col-name">
+Stat
       </div>
    </div>
 {% for stat in site.data.stats %}
    <div data-stat="{{ stat.id }}" class="row row-stat">
       <div class="column col-icon">
-         <img src="{{ stat.icon }}" alt="Stat" class="icon-stat">
+<img src="{{ stat.icon }}" alt=" Stat Icon">
       </div>
-      <div class="column col-stat">
-         <span class="name-stat">{{ stat.name }}</span>
+      <div class="column col-name">
+{{ stat.name }}
       </div>
    </div>
 {% endfor %}
