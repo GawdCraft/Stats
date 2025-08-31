@@ -1,27 +1,27 @@
 <div data-player="[[ player.id ]]" class="column col-player">
    <div class="row row-title">
       <div class="column col-icon">
-<img src="[[ player.icon ]]" alt="Player">
+<img src="[[ player.icon ]]" alt="Player Icon">
       </div>
       <div class="column col-name">
-<h1>[[ player.name ]]</h1>
+[[ player.name ]]
       </div>
    </div>
    <div class="row row-label">
       <div class="column col-level">
-<b>Level</b>
+Level
       </div>
    <div class="column col-rank">
-<b>Rank</b>
+Rank
       </div>
    </div>
 {% for stat in site.data.stats %}
-   <div class="row row-stat" data-stat="{{ stat.id }}">
+   <div data-stat="{{ stat.id }}" class="row row-stat">
       <div class="column col-level">
-[[ player.level ]]
+[[ player.level[stat] ]]
       </div>
      <div class="column col-rank">
-[[ player.rank ]]
+[[ player.rank[stat] ]]
       </div>
    </div>
 {% endfor %}
