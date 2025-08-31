@@ -1,0 +1,7 @@
+{% for stat in site.data.stats %}
+<div data-player="[[ player.id ]]" class="row">
+   <div data-stat="{{ stat.id }}" class="column">
+     <span class="stat-level">[[ player.level ]]</span>
+   </div>
+</div>
+{% endfor %}
