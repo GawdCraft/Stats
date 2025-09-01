@@ -6,18 +6,18 @@ description: Player Stats
 category: achievement
 players:
 - CoolV1994
-- Gawd
 
 ---
 
 {%- assign imgDir = "/assets/img" | prepend: site.baseurl -%}
 
-{% for category in site.data.stats %}
+{% for cat_hash in site.data.stats %}
 <pre>
-Cat ID: {{ category.name }}
-Cat Data: {{ category }}
+Cat ID: {{ cat_hash[0] }}
+Cat Data: {{ cat_hash[1] }}
 </pre>
 <br><br><br>
+{% for category in cat_hash[1] %}
 
 <div class="container">
 
@@ -72,4 +72,5 @@ Cat Data: {{ category }}
 {% endfor %}
 
 </div>
+{% endfor %}
 {% endfor %}
