@@ -1,0 +1,28 @@
+leaveGame: Games Quit
+playOneMinute: Minutes Played (In Ticks)
+timeSinceDeath: Since Last Death
+walkOneCm: Distance Walked
+crouchOneCm: Distance Crouched
+sprintOneCm: Distance Sprinted
+swimOneCm: Distance Swum
+fallOneCm: Distance Fallen
+climbOneCm: Distance Climbed
+flyOneCm: Distance Flown
+diveOneCm: Distance Dove
+minecartOneCm: Distance by Minecart
+boatOneCm: Distance by Boat
+pigOneCm: Distance by Pig
+horseOneCm: Distance by Horse
+jump: Jumps
+drop: Items Dropped
+damageDealt: Damage Dealt
+damageTaken: Damage Taken
+deaths: Number of Deaths
+mobKills: Mob Kills
+animalsBred: Animals Bred
+playerKills: Player Kills
+fishCaught: Fish Caught
+junkFished: Junk Fished
+treasureFished: Treasure Fished
+talkedToVillager: Talked to Villager
+tradedWithVillager: Traded with Villager
