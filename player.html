@@ -56,8 +56,9 @@ players:
     <br>
   {%- assign playerStats = site.data[playerUUID] -%}
   {% for section in category.sections %}
+    {%- assign statID = category | append: '.' | append: section -%}
     <hr>
-    <span data-stat="{{ section }}">{{ playerStats[section] }}</span>
+    <span data-stat="{{ statID }}">{{ playerStats[statID] }}</span>
   {% endfor %}
   </div>
 {% endfor %}
