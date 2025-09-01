@@ -61,7 +61,7 @@ Cat Data: {{ category[1] }}
     <br>
   {%- assign playerStats = site.data[playerUUID] -%}
     <pre>{{ playerStats }}</pre><br><br>
-  {% for section in category.sections %}
+  {% for section in category[1].sections %}
     {%- assign statID = category[0] | append: '.' | append: section[0] -%}
     <pre>[{{ statID }}] {{ section[1] }}</pre>
     <hr>
