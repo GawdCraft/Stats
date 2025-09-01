@@ -1,0 +1,8 @@
+achievement: Achievements
+stat: General Stats
+stat.entityKilledBy: Mobs Killed By
+stat.killEntity: Mobs Killed
+stat.mineBlock: Blocks Mined
+stat.useItem: Items Used
+stat.breakItem: Items Broke
+stat.craftItem: Items Crafted
