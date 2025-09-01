@@ -11,8 +11,8 @@ players:
 ---
 
 {%- assign imgDir = "/assets/img" | prepend: site.baseurl -%}
-{%- assign category = site.data.stats[page.category] -%}
 
+{% for category in site.data.stats %}
 <pre>
 Cat ID: {{ page.category }}
 Cat Data: {{ category }}
@@ -72,3 +72,4 @@ Cat Data: {{ category }}
 {% endfor %}
 
 </div>
+{% endfor %}
