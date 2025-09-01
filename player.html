@@ -23,7 +23,7 @@ Cat Data: {{ category[1] }}
   <div class="column column-main">
     <span class="title">
       <a href="{{ site.baseurl }}/"><img src='{{ imgDir }}/logo.png'></a>
-      <b>{{ category.name }}</b>
+      <b>{{ category[1].name }}</b>
     </span>
     <br>
 {% unless category[0] == "stat" %}
@@ -35,7 +35,7 @@ Cat Data: {{ category[1] }}
 {% for section in category[1].sections %}
     <hr>
     <span>
-      <img src="{{ imgDir }}/{{ category.iconDir }}/{{ section[0] }}.png" class="img">
+      <img src="{{ imgDir }}/{{ category[1].iconDir }}/{{ section[0] }}.png" class="img">
       {{ section }}
     </span>
 {% endfor %}
@@ -62,8 +62,8 @@ Cat Data: {{ category[1] }}
   {%- assign playerStats = site.data[playerUUID] -%}
     <pre>{{ playerStats }}</pre><br><br>
   {% for section in category.sections %}
-    {%- assign statID = category | append: '.' | append: section -%}
-    <pre>[{{ statID }}] {{ section }}</pre>
+    {%- assign statID = category[0] | append: '.' | append: section[0] -%}
+    <pre>[{{ statID }}] {{ section[1] }}</pre>
     <hr>
     <span data-stat="{{ statID }}">{{ playerStats[statID] }}</span>
   {% endfor %}
