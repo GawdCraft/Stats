@@ -2,16 +2,64 @@
 layout: default
 title: Player Stats
 description: Player Stats
+
+category: stat
+players:
+- CoolV1994
+- Gawd
+
 ---
 
-<h1>(Player)</h1>
-<p>Stats</p>
+{%- assign imgDir = "/assets/img" | prepend: site.baseurl -%}
+{%- assign category = site.data.stats[page.category] -%}
 
+<div class="container">
 
-<div class="row" style="--col:2">
+  <div class="column column-main">
+    <span class="title">
+      <a href="{{ site.baseurl }}/"><img src='{{ imgDir }}/logo.png'></a>
+      <b>{{ category.name }}</b>
+    </span>
+    <br>
+{% unless category %}
+    <span>
+      <img src="{{ imgDir }}/cat/total.png" class="img">
+      Total:
+    </span>
+{% endunless %}
+{% for section in category.sections %}
+    <hr>
+    <span>
+      <img src="{{ imgDir }}/{{ category.iconDir }}/{{ section[0] }}.png" class="img">
+      {{ section[1] }}
+    </span>
+{% endfor %}
+  </div>
 
-{% include column_stats.html %}
-
-{% include column_player.html player=player %}
+{% for player in page.players %}
+  {% if site.data.players[player] %}
+    {%- assign playerUUID = player -%}
+    {%- assign playerName = site.data.players[player] -%}
+  {% else %}
+    {% for pid in site.data.players %}
+      {% if pid[1] == player %}
+        {%- assign playerName = player -%}
+        {%- assign playerUUID = pid[0] -%}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  <div class='column column-{{ forloop.index }}'>
+    <span class='title'>
+      <img src="https://minotar.net/helm/{{ playerUUID }}/32.png" alt="{{ playerName }}">
+      <b>{{ playerName }}</b>
+    </span>
+    <br>
+  {%- assign playerStats = site.data[playerUUID] -%}
+  {% for section in category.sections %}
+    <hr>
+    <span data-stat="{{ section }}">{{ playerStats[section] }}</span>
+  {% endfor %}
+  </div>
+{% endfor %}
 
 </div>
