@@ -14,7 +14,7 @@ players:
 
 {% for category in site.data.stats %}
 <pre>
-Cat ID: {{ page.category }}
+Cat ID: {{ category.name }}
 Cat Data: {{ category }}
 </pre>
 <br><br><br>
@@ -37,7 +37,7 @@ Cat Data: {{ category }}
     <hr>
     <span>
       <img src="{{ imgDir }}/{{ category.iconDir }}/{{ section[0] }}.png" class="img">
-      {{ section[1] }}
+      {{ section }}
     </span>
 {% endfor %}
   </div>
