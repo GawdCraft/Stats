@@ -26,13 +26,13 @@ Cat Data: {{ category[1] }}
       <b>{{ category.name }}</b>
     </span>
     <br>
-{% unless category %}
+{% unless category[0] == "stat" %}
     <span>
       <img src="{{ imgDir }}/cat/total.png" class="img">
       Total:
     </span>
 {% endunless %}
-{% for section in category.sections %}
+{% for section in category[1].sections %}
     <hr>
     <span>
       <img src="{{ imgDir }}/{{ category.iconDir }}/{{ section[0] }}.png" class="img">
