@@ -3,7 +3,7 @@ layout: default
 title: Player Stats
 description: Player Stats
 
-category: stat
+category: achievement
 players:
 - CoolV1994
 - Gawd
@@ -12,6 +12,12 @@ players:
 
 {%- assign imgDir = "/assets/img" | prepend: site.baseurl -%}
 {%- assign category = site.data.stats[page.category] -%}
+
+<pre>
+Cat ID: {{ page.category }}
+Cat Data: {{ category }}
+</pre>
+<br><br><br>
 
 <div class="container">
 
@@ -55,8 +61,10 @@ players:
     </span>
     <br>
   {%- assign playerStats = site.data[playerUUID] -%}
+    <pre>{{ playerStats }}</pre><br><br>
   {% for section in category.sections %}
     {%- assign statID = category | append: '.' | append: section -%}
+    <pre>[{{ statID }}] {{ section }}</pre>
     <hr>
     <span data-stat="{{ statID }}">{{ playerStats[statID] }}</span>
   {% endfor %}
