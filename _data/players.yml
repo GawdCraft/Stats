@@ -1,0 +1,32 @@
+- uuid: 1
+  name: CoolV1994
+  data:
+    stat:
+      leaveGame: 69
+      playOneMinute: 9001
+      timeSinceDeath: 9000
+      walkOneCm: 1000000
+      crouchOneCm: 100000
+      sprintOneCm: 500000
+      swimOneCm: 300000
+      fallOneCm: 5000
+      climbOneCm: 20000
+      flyOneCm: 700000
+      diveOneCm: 3000
+      minecartOneCm: 69000
+      boatOneCm: 420000
+      pigOneCm: 100
+      horseOneCm: 80000
+      jump: 690000
+      drop: 7777
+      damageDealt: 8008
+      damageTaken: 1134
+      deaths: 0
+      mobKills: 6666
+      animalsBred: 4444
+      playerKills: 69
+      fishCaught: 420
+      junkFished: 74
+      treasureFished: 11
+      talkedToVillager: 555
+      tradedWithVillager: 111
