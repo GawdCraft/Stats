@@ -1,0 +1,11 @@
+# Site settings
+title: GawdStats
+author: CoolV1994
+description: >
+  Minecraft Player Stats and Ranks
+#baseurl: "/GawdStats"
+#url: "https://gawdscape.github.io"
+
+
+# Build Settings
+markdown: kramdown
