@@ -53,7 +53,7 @@ achievements:
 
 
 
-stats:
+stat:
   name: Stats
   description: General Stats
   iconDir: stats
