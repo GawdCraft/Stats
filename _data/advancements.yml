@@ -1,6 +1,6 @@
-name: Achievements
+name: Advancements
 description: Advancements
-iconDir: achievements
+iconDir: advancements
 
 sections:
   acquireIron: Acquire Hardware
