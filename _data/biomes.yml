@@ -1,62 +1,62 @@
-beaches: beaches
-birch_forest: birch forest
-birch_forest_hills: birch forest hills
-cold_beach: cold beach
-deep_ocean: deep ocean
-desert: desert
-desert_hills: desert hills
-extreme_hills: extreme hills
-extreme_hills_with_trees: extreme hills with trees
-forest: forest
-forest_hills: forest hills
-frozen_ocean: frozen ocean
-frozen_river: frozen river
-hell: hell
-ice_flats: ice flats
-ice_mountains: ice mountains
-jungle: jungle
-jungle_edge: jungle edge
-jungle_hills: jungle hills
-mesa: mesa
-mesa_clear_rock: mesa clear rock
-mesa_rock: mesa rock
-mushroom_island: mushroom island
-mushroom_island_shore: mushroom island shore
-mutated_birch_forest: mutated birch forest
-mutated_birch_forest_hills: mutated birch forest hills
-mutated_desert: mutated desert
-mutated_extreme_hills: mutated extreme hills
-mutated_extreme_hills_with_trees: mutated extreme hills with trees
-mutated_forest: mutated forest
-mutated_ice_flats: mutated ice flats
-mutated_jungle: mutated jungle
-mutated_jungle_edge: mutated jungle edge
-mutated_mesa: mutated mesa
-mutated_mesa_clear_rock: mutated mesa clear rock
-mutated_mesa_rock: mutated mesa rock
-mutated_plains: mutated plains
-mutated_redwood_taiga: mutated redwood taiga
-mutated_redwood_taiga_hills: mutated redwood taiga hills
-mutated_roofed_forest: mutated roofed forest
-mutated_savanna: mutated savanna
-mutated_savanna_rock: mutated savanna rock
-mutated_swampland: mutated swampland
-mutated_taiga: mutated taiga
-mutated_taiga_cold: mutated taiga cold
-ocean: ocean
-plains: plains
-redwood_taiga: redwood taiga
-redwood_taiga_hills: redwood taiga hills
-river: river
-roofed_forest: roofed forest
-savanna: savanna
-savanna_rock: savanna rock
-sky: sky
-smaller_extreme_hills: smaller extreme hills
-stone_beach: stone beach
-swampland: swampland
-taiga: taiga
-taiga_cold: taiga cold
-taiga_cold_hills: taiga cold hills
-taiga_hills: taiga hills
-void: void
+beaches: Beaches
+birch_forest: Birch Forest
+birch_forest_hills: Birch Forest Hills
+cold_beach: Cold Beach
+deep_ocean: Deep Ocean
+desert: Desert
+desert_hills: Desert Hills
+extreme_hills: Extreme Hills
+extreme_hills_with_trees: Extreme Hills with Trees
+forest: Forest
+forest_hills: Forest Hills
+frozen_ocean: Frozen Ocean
+frozen_river: Frozen River
+hell: Hell
+ice_flats: Ice Flats
+ice_mountains: Ice Mountains
+jungle: Jungle
+jungle_edge: Jungle Edge
+jungle_hills: Jungle Hills
+mesa: Mesa
+mesa_clear_rock: Mesa Clear Rock
+mesa_rock: Mesa Rock
+mushroom_island: Mushroom Island
+mushroom_island_shore: Mushroom Island Shore
+mutated_birch_forest: Mutated Birch Forest
+mutated_birch_forest_hills: Mutated Birch Forest Hills
+mutated_desert: Mutated Desert
+mutated_extreme_hills: Mutated Extreme Hills
+mutated_extreme_hills_with_trees: Mutated Extreme Hills with Trees
+mutated_forest: Mutated Forest
+mutated_ice_flats: Mutated Ice Flats
+mutated_jungle: Mutated Jungle
+mutated_jungle_edge: Mutated Jungle Edge
+mutated_mesa: Mutated Mesa
+mutated_mesa_clear_rock: Mutated Mesa Clear Rock
+mutated_mesa_rock: Mutated Mesa Rock
+mutated_plains: Mutated Plains
+mutated_redwood_taiga: Mutated Redwood Taiga
+mutated_redwood_taiga_hills: Mutated Redwood Taiga Hills
+mutated_roofed_forest: Mutated Roofed Forest
+mutated_savanna: Mutated Savanna
+mutated_savanna_rock: Mutated Savanna Rock
+mutated_swampland: Mutated Swampland
+mutated_taiga: Mutated Taiga
+mutated_taiga_cold: Mutated Taiga Cold
+ocean: Ocean
+plains: Plains
+redwood_taiga: Redwood Taiga
+redwood_taiga_hills: Redwood Taiga Hills
+river: River
+roofed_forest: Roofed Forest
+savanna: Savanna
+savanna_rock: Savanna Rock
+sky: Sky
+smaller_extreme_hills: Smaller Extreme Hills
+stone_beach: Stone Beach
+swampland: Swampland
+taiga: Taiga
+taiga_cold: Taiga Cold
+taiga_cold_hills: Taiga Cold Hills
+taiga_hills: Taiga Hills
+void: Void
