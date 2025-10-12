@@ -1,9 +1,0 @@
-54559dbf-57c7-49fd-9e58-79ebd1f18b76:
-  title: Administrator
-  prefix: '<img src="img/rank/admin.png" alt="[Admin]"> <font color="#FF0000">'
-  suffix: '</font>'
-
-6407ab36-1240-3451-ab94-8520e076035f:
-  title: Administrator
-  prefix: '<font color="#FF0000">[Admin]</font> '
-  suffix: ''
