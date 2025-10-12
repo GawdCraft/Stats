@@ -1,0 +1,11 @@
+Survival:
+  advancements: true
+  stats: true
+
+Hardcore:
+  advancements: true
+  stats: true
+
+PvP:
+  advancements: true
+  stats: true
