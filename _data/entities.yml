@@ -1,32 +1,152 @@
-Creeper: Creeper
-Skeleton: Skeleton
-Spider: Spider
-Giant: Giant
-Zombie: Zombie
-Slime: Slime
-Ghast: Ghast
-PigZombie: Zombie Pigman
-Enderman: Enderman
-CaveSpider: Cave Spider
-Silverfish: Silverfish
-Blaze: Blaze
-LavaSlime: Magma Cube
-EnderDragon: Ender Dragon
-WitherBoss: Wither
-Witch: Witch
-Endermite: Endermite
-Guardian: Guardian
-Bat: Bat
-Pig: Pig
-Sheep: Sheep
-Cow: Cow
-Chicken: Chicken
-Squid: Squid
-Wolf: Wolf
-MushroomCow: Mooshroom
-SnowMan: Snow Golem
-Ozelot: Ozelot
-VillagerGolem: Iron Golem
-EntityHorse: Horse
-Rabbit: Rabbit
-Villager: Villager
+acacia_boat: acacia boat
+acacia_chest_boat: acacia chest boat
+allay: allay
+area_effect_cloud: area effect cloud
+armadillo: armadillo
+armor_stand: armor stand
+arrow: arrow
+axolotl: axolotl
+bamboo_chest_raft: bamboo chest raft
+bamboo_raft: bamboo raft
+bat: bat
+bee: bee
+birch_boat: birch boat
+birch_chest_boat: birch chest boat
+blaze: blaze
+block_display: block display
+bogged: bogged
+breeze: breeze
+breeze_wind_charge: breeze wind charge
+camel: camel
+cat: cat
+cave_spider: cave spider
+cherry_boat: cherry boat
+cherry_chest_boat: cherry chest boat
+chest_minecart: chest minecart
+chicken: chicken
+cod: cod
+command_block_minecart: command block minecart
+cow: cow
+creaking: creaking
+creeper: creeper
+dark_oak_boat: dark oak boat
+dark_oak_chest_boat: dark oak chest boat
+dolphin: dolphin
+donkey: donkey
+dragon_fireball: dragon fireball
+drowned: drowned
+egg: egg
+elder_guardian: elder guardian
+end_crystal: end crystal
+ender_dragon: ender dragon
+ender_pearl: ender pearl
+enderman: enderman
+endermite: endermite
+evoker: evoker
+evoker_fangs: evoker fangs
+experience_bottle: experience bottle
+experience_orb: experience orb
+eye_of_ender: eye of ender
+falling_block: falling block
+fireball: fireball
+firework_rocket: firework rocket
+fishing_bobber: fishing bobber
+fox: fox
+frog: frog
+furnace_minecart: furnace minecart
+ghast: ghast
+giant: giant
+glow_item_frame: glow item frame
+glow_squid: glow squid
+goat: goat
+guardian: guardian
+happy_ghast: happy ghast
+hoglin: hoglin
+hopper_minecart: hopper minecart
+horse: horse
+husk: husk
+illusioner: illusioner
+interaction: interaction
+iron_golem: iron golem
+item: item
+item_display: item display
+item_frame: item frame
+jungle_boat: jungle boat
+jungle_chest_boat: jungle chest boat
+leash_knot: leash knot
+lightning_bolt: lightning bolt
+lingering_potion: lingering potion
+llama: llama
+llama_spit: llama spit
+magma_cube: magma cube
+mangrove_boat: mangrove boat
+mangrove_chest_boat: mangrove chest boat
+marker: marker
+minecart: minecart
+mooshroom: mooshroom
+mule: mule
+oak_boat: oak boat
+oak_chest_boat: oak chest boat
+ocelot: ocelot
+ominous_item_spawner: ominous item spawner
+painting: painting
+pale_oak_boat: pale oak boat
+pale_oak_chest_boat: pale oak chest boat
+panda: panda
+parrot: parrot
+phantom: phantom
+pig: pig
+piglin: piglin
+piglin_brute: piglin brute
+pillager: pillager
+player: player
+polar_bear: polar bear
+pufferfish: pufferfish
+rabbit: rabbit
+ravager: ravager
+salmon: salmon
+sheep: sheep
+shulker: shulker
+shulker_bullet: shulker bullet
+silverfish: silverfish
+skeleton: skeleton
+skeleton_horse: skeleton horse
+slime: slime
+small_fireball: small fireball
+sniffer: sniffer
+snow_golem: snow golem
+snowball: snowball
+spawner_minecart: spawner minecart
+spectral_arrow: spectral arrow
+spider: spider
+splash_potion: splash potion
+spruce_boat: spruce boat
+spruce_chest_boat: spruce chest boat
+squid: squid
+stray: stray
+strider: strider
+tadpole: tadpole
+text_display: text display
+tnt: tnt
+tnt_minecart: tnt minecart
+trader_llama: trader llama
+trident: trident
+tropical_fish: tropical fish
+turtle: turtle
+unknown: unknown
+vex: vex
+villager: villager
+vindicator: vindicator
+wandering_trader: wandering trader
+warden: warden
+wind_charge: wind charge
+witch: witch
+wither: wither
+wither_skeleton: wither skeleton
+wither_skull: wither skull
+wolf: wolf
+zoglin: zoglin
+zombie: zombie
+zombie_horse: zombie horse
+zombie_villager: zombie villager
+zombified_piglin: zombified piglin
