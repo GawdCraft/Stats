@@ -1,152 +1,152 @@
-acacia_boat: acacia boat
-acacia_chest_boat: acacia chest boat
-allay: allay
-area_effect_cloud: area effect cloud
-armadillo: armadillo
-armor_stand: armor stand
-arrow: arrow
-axolotl: axolotl
-bamboo_chest_raft: bamboo chest raft
-bamboo_raft: bamboo raft
-bat: bat
-bee: bee
-birch_boat: birch boat
-birch_chest_boat: birch chest boat
-blaze: blaze
-block_display: block display
-bogged: bogged
-breeze: breeze
-breeze_wind_charge: breeze wind charge
-camel: camel
-cat: cat
-cave_spider: cave spider
-cherry_boat: cherry boat
-cherry_chest_boat: cherry chest boat
-chest_minecart: chest minecart
-chicken: chicken
-cod: cod
-command_block_minecart: command block minecart
-cow: cow
-creaking: creaking
-creeper: creeper
-dark_oak_boat: dark oak boat
-dark_oak_chest_boat: dark oak chest boat
-dolphin: dolphin
-donkey: donkey
-dragon_fireball: dragon fireball
-drowned: drowned
-egg: egg
-elder_guardian: elder guardian
-end_crystal: end crystal
-ender_dragon: ender dragon
-ender_pearl: ender pearl
-enderman: enderman
-endermite: endermite
-evoker: evoker
-evoker_fangs: evoker fangs
-experience_bottle: experience bottle
-experience_orb: experience orb
-eye_of_ender: eye of ender
-falling_block: falling block
-fireball: fireball
-firework_rocket: firework rocket
-fishing_bobber: fishing bobber
-fox: fox
-frog: frog
-furnace_minecart: furnace minecart
-ghast: ghast
-giant: giant
-glow_item_frame: glow item frame
-glow_squid: glow squid
-goat: goat
-guardian: guardian
-happy_ghast: happy ghast
-hoglin: hoglin
-hopper_minecart: hopper minecart
-horse: horse
-husk: husk
-illusioner: illusioner
-interaction: interaction
-iron_golem: iron golem
-item: item
-item_display: item display
-item_frame: item frame
-jungle_boat: jungle boat
-jungle_chest_boat: jungle chest boat
-leash_knot: leash knot
-lightning_bolt: lightning bolt
-lingering_potion: lingering potion
-llama: llama
-llama_spit: llama spit
-magma_cube: magma cube
-mangrove_boat: mangrove boat
-mangrove_chest_boat: mangrove chest boat
-marker: marker
-minecart: minecart
-mooshroom: mooshroom
-mule: mule
-oak_boat: oak boat
-oak_chest_boat: oak chest boat
-ocelot: ocelot
-ominous_item_spawner: ominous item spawner
-painting: painting
-pale_oak_boat: pale oak boat
-pale_oak_chest_boat: pale oak chest boat
-panda: panda
-parrot: parrot
-phantom: phantom
-pig: pig
-piglin: piglin
-piglin_brute: piglin brute
-pillager: pillager
-player: player
-polar_bear: polar bear
-pufferfish: pufferfish
-rabbit: rabbit
-ravager: ravager
-salmon: salmon
-sheep: sheep
-shulker: shulker
-shulker_bullet: shulker bullet
-silverfish: silverfish
-skeleton: skeleton
-skeleton_horse: skeleton horse
-slime: slime
-small_fireball: small fireball
-sniffer: sniffer
-snow_golem: snow golem
-snowball: snowball
-spawner_minecart: spawner minecart
-spectral_arrow: spectral arrow
-spider: spider
-splash_potion: splash potion
-spruce_boat: spruce boat
-spruce_chest_boat: spruce chest boat
-squid: squid
-stray: stray
-strider: strider
-tadpole: tadpole
-text_display: text display
-tnt: tnt
-tnt_minecart: tnt minecart
-trader_llama: trader llama
-trident: trident
-tropical_fish: tropical fish
-turtle: turtle
-unknown: unknown
-vex: vex
-villager: villager
-vindicator: vindicator
-wandering_trader: wandering trader
-warden: warden
-wind_charge: wind charge
-witch: witch
-wither: wither
-wither_skeleton: wither skeleton
-wither_skull: wither skull
-wolf: wolf
-zoglin: zoglin
-zombie: zombie
-zombie_horse: zombie horse
-zombie_villager: zombie villager
-zombified_piglin: zombified piglin
+acacia_boat: Acacia Boat
+acacia_chest_boat: Acacia Chest Boat
+allay: Allay
+area_effect_cloud: Area Effect Cloud
+armadillo: Armadillo
+armor_stand: Aarmor Stand
+arrow: Arrow
+axolotl: Axolotl
+bamboo_chest_raft: Bamboo Chest Raft
+bamboo_raft: Bamboo Raft
+bat: Bat
+bee: Bee
+birch_boat: Birch Boat
+birch_chest_boat: Birch Chest Boat
+blaze: Blaze
+block_display: Block Display
+bogged: Bogged
+breeze: Breeze
+breeze_wind_charge: Breeze Wind Charge
+camel: Camel
+cat: Cat
+cave_spider: Cave Spider
+cherry_boat: Cherry Boat
+cherry_chest_boat: Cherry Chest Boat
+chest_minecart: Chest Minecart
+chicken: Chicken
+cod: Cod
+command_block_minecart: Command Block Minecart
+cow: Cow
+creaking: Creaking
+creeper: Creeper
+dark_oak_boat: Dark Oak Boat
+dark_oak_chest_boat: Dark Oak Chest Boat
+dolphin: Dolphin
+donkey: Donkey
+dragon_fireball: Dragon Fireball
+drowned: Drowned
+egg: Egg
+elder_guardian: Elder Guardian
+end_crystal: End Crystal
+ender_dragon: Ender Dragon
+ender_pearl: Ender Pearl
+enderman: Enderman
+endermite: Endermite
+evoker: Evoker
+evoker_fangs: Evoker Fangs
+experience_bottle: Experience Bottle
+experience_orb: Experience Orb
+eye_of_ender: Eye of Ender
+falling_block: Falling Block
+fireball: Fireball
+firework_rocket: Firework Rocket
+fishing_bobber: Fishing Bobber
+fox: Fox
+frog: Frog
+furnace_minecart: Furnace Minecart
+ghast: Ghast
+giant: Giant
+glow_item_frame: Glow Item Frame
+glow_squid: Glow Squid
+goat: Goat
+guardian: Guardian
+happy_ghast: Happy Ghast
+hoglin: Hoglin
+hopper_minecart: Hopper Minecart
+horse: Horse
+husk: Husk
+illusioner: Illusioner
+interaction: Interaction
+iron_golem: Iron Golem
+item: Item
+item_display: Item Display
+item_frame: Item Frame
+jungle_boat: Jungle Boat
+jungle_chest_boat: Jungle Chest Boat
+leash_knot: Leash Knot
+lightning_bolt: Lightning Bolt
+lingering_potion: Lingering Potion
+llama: Llama
+llama_spit: Llama Spit
+magma_cube: Magma Cube
+mangrove_boat: Mangrove Boat
+mangrove_chest_boat: Mangrove Chest Boat
+marker: Marker
+minecart: Minecart
+mooshroom: Mooshroom
+mule: Mule
+oak_boat: Oak Boat
+oak_chest_boat: Oak Chest Boat
+ocelot: Ocelot
+ominous_item_spawner: Ominous Item Spawner
+painting: Painting
+pale_oak_boat: Pale Oak Boat
+pale_oak_chest_boat: Pale Oak Chest Boat
+panda: Panda
+parrot: Parrot
+phantom: Phantom
+pig: Pig
+piglin: Piglin
+piglin_brute: Piglin Brute
+pillager: Pillager
+player: Player
+polar_bear: Polar Bear
+pufferfish: Pufferfish
+rabbit: Rabbit
+ravager: Ravager
+salmon: Salmon
+sheep: Sheep
+shulker: Shulker
+shulker_bullet: Shulker Bullet
+silverfish: Silverfish
+skeleton: Skeleton
+skeleton_horse: Skeleton Horse
+slime: Slime
+small_fireball: Small Fireball
+sniffer: Sniffer
+snow_golem: Snow Golem
+snowball: Snowball
+spawner_minecart: Spawner Minecart
+spectral_arrow: Spectral Arrow
+spider: Spider
+splash_potion: Splash Potion
+spruce_boat: Spruce Boat
+spruce_chest_boat: Spruce Chest Boat
+squid: Squid
+stray: Stray
+strider: Strider
+tadpole: Tadpole
+text_display: Text Display
+tnt: TNT
+tnt_minecart: TNT Minecart
+trader_llama: Trader Llama
+trident: Trident
+tropical_fish: Tropical Fish
+turtle: Turtle
+unknown: Unknown
+vex: Vex
+villager: Villager
+vindicator: Vindicator
+wandering_trader: Wandering Trader
+warden: Warden
+wind_charge: Wind Charge
+witch: Witch
+wither: Wither
+wither_skeleton: Wither Skeleton
+wither_skull: Wither Skull
+wolf: Wolf
+zoglin: Zoglin
+zombie: Zombie
+zombie_horse: Zombie Horse
+zombie_villager: Zombie Villager
+zombified_piglin: Zombified Piglin
