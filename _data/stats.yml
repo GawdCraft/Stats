@@ -181,156 +181,156 @@ stat.mineBlock:
   iconDir: blocks
 
   sections:
-    stone: 
-    grass: 
-    dirt: 
-    cobblestone: 
-    planks: 
-    sapling: 
-    bedrock: 
-    sand: 
-    gravel: 
-    gold_ore: 
-    iron_ore: 
-    coal_ore: 
-    log: 
-    leaves: 
-    sponge: 
-    glass: 
-    lapis_ore: 
-    lapis_block: 
-    dispenser: 
-    sandstone: 
-    noteblock: 
-    golden_rail: 
-    detector_rail: 
-    sticky_piston: 
-    web: 
-    tallgrass: 
-    deadbush: 
-    piston: 
-    wool: 
-    yellow_flower: 
-    red_flower: 
-    brown_mushroom: 
-    red_mushroom: 
-    gold_block: 
-    iron_block: 
-    stone_slab: 
-    brick_block: 
-    tnt: 
-    bookshelf: 
-    mossy_cobblestone: 
-    obsidian: 
-    torch: 
-    mob_spawner: 
-    oak_stairs: 
-    chest: 
-    diamond_ore: 
-    diamond_block: 
-    crafting_table: 
-    farmland: 
-    furnace: 
-    lit_furnace: 
-    ladder: 
-    rail: 
-    stone_stairs: 
-    lever: 
-    stone_pressure_plate: 
-    wooden_pressure_plate: 
-    redstone_ore: 
-    redstone_torch: 
-    stone_button: 
-    snow_layer: 
-    ice: 
-    snow: 
-    cactus: 
-    clay: 
-    jukebox: 
-    fence: 
-    pumpkin: 
-    netherrack: 
-    soul_sand: 
-    glowstone: 
-    lit_pumpkin: 
-    stained_glass: 
-    trapdoor: 
-    monster_egg: 
-    stonebrick: 
-    brown_mushroom_block: 
-    red_mushroom_block: 
-    iron_bars: 
-    glass_pane: 
-    melon_block: 
-    vine: 
-    fence_gate: 
-    brick_stairs: 
-    stone_brick_stairs: 
-    mycelium: 
-    waterlily: 
-    nether_brick: 
-    nether_brick_fence: 
-    nether_brick_stairs: 
-    enchanting_table: 
-    end_portal_frame: 
-    end_stone: 
-    dragon_egg: 
-    redstone_lamp: 
-    wooden_slab: 
-    sandstone_stairs: 
-    emerald_ore: 
-    ender_chest: 
-    tripwire_hook: 
-    emerald_block: 
-    spruce_stairs: 
-    birch_stairs: 
-    jungle_stairs: 
-    command_block: 
-    beacon: 
-    cobblestone_wall: 
-    wooden_button: 
-    anvil: 
-    trapped_chest: 
-    light_weighted_pressure_plate: 
-    heavy_weighted_pressure_plate: 
-    daylight_detector: 
-    redstone_block: 
-    quartz_ore: 
-    hopper: 
-    quartz_block: 
-    quartz_stairs: 
-    activator_rail: 
-    dropper: 
-    stained_hardened_clay: 
-    stained_glass_pane: 
-    leaves2: 
-    log2: 
-    acacia_stairs: 
-    dark_oak_stairs: 
-    slime: 
-    barrier: 
-    iron_trapdoor: 
-    prismarine: 
-    sea_lantern: 
-    hay_block: 
-    carpet: 
-    hardened_clay: 
-    coal_block: 
-    packed_ice: 
-    double_plant: 
-    red_sandstone: 
-    red_sandstone_stairs: 
-    stone_slab2: 
-    spruce_fence_gate: 
-    birch_fence_gate: 
-    jungle_fence_gate: 
-    dark_oak_fence_gate: 
-    acacia_fence_gate: 
-    spruce_fence: 
-    birch_fence: 
-    jungle_fence: 
-    dark_oak_fence: 
-    acacia_fence: 
+    stone: stone
+    grass: grass
+    dirt: dirt
+    cobblestone: cobblestone
+    planks: planks
+    sapling: sapling
+    bedrock: bedrock
+    sand: sand
+    gravel: gravel
+    gold_ore: gold ore
+    iron_ore: iron ore
+    coal_ore: coal ore
+    log: log
+    leaves: leaves
+    sponge: sponge
+    glass: glass
+    lapis_ore: lapis ore
+    lapis_block: lapis block
+    dispenser: dispenser
+    sandstone: sandstone
+    noteblock: noteblock
+    golden_rail: golden rail
+    detector_rail: detector rail
+    sticky_piston: sticky piston
+    web: web
+    tallgrass: tallgrass
+    deadbush: deadbush
+    piston: piston
+    wool: wool
+    yellow_flower: yellow flower
+    red_flower: red flower
+    brown_mushroom: brown mushroom
+    red_mushroom: red mushroom
+    gold_block: gold block
+    iron_block: iron block
+    stone_slab: stone slab
+    brick_block: brick block
+    tnt: tnt
+    bookshelf: bookshelf
+    mossy_cobblestone: mossy cobblestone
+    obsidian: obsidian
+    torch: torch
+    mob_spawner: mob spawner
+    oak_stairs: oak stairs
+    chest: chest
+    diamond_ore: diamond ore
+    diamond_block: diamond block
+    crafting_table: crafting table
+    farmland: farmland
+    furnace: furnace
+    lit_furnace: lit furnace
+    ladder: ladder
+    rail: rail
+    stone_stairs: stone stairs
+    lever: lever
+    stone_pressure_plate: stone pressure plate
+    wooden_pressure_plate: wooden pressure plate
+    redstone_ore: redstone ore
+    redstone_torch: redstone torch
+    stone_button: stone button
+    snow_layer: snow layer
+    ice: ice
+    snow: snow
+    cactus: cactus
+    clay: clay
+    jukebox: jukebox
+    fence: fence
+    pumpkin: pumpkin
+    netherrack: netherrack
+    soul_sand: soul sand
+    glowstone: glowstone
+    lit_pumpkin: lit pumpkin
+    stained_glass: stained glass
+    trapdoor: trapdoor
+    monster_egg: monster egg
+    stonebrick: stonebrick
+    brown_mushroom_block: brown mushroom block
+    red_mushroom_block: red mushroom block
+    iron_bars: iron bars
+    glass_pane: glass pane
+    melon_block: melon block
+    vine: vine
+    fence_gate: fence gate
+    brick_stairs: brick stairs
+    stone_brick_stairs: stone brick stairs
+    mycelium: mycelium
+    waterlily: waterlily
+    nether_brick: nether brick
+    nether_brick_fence: nether brick fence
+    nether_brick_stairs: nether brick stairs
+    enchanting_table: enchanting table
+    end_portal_frame: end portal frame
+    end_stone: end stone
+    dragon_egg: dragon egg
+    redstone_lamp: redstone lamp
+    wooden_slab: wooden slab
+    sandstone_stairs: sandstone stairs
+    emerald_ore: emerald ore
+    ender_chest: ender chest
+    tripwire_hook: tripwire hook
+    emerald_block: emerald block
+    spruce_stairs: spruce stairs
+    birch_stairs: birch stairs
+    jungle_stairs: jungle stairs
+    command_block: command block
+    beacon: beacon
+    cobblestone_wall: cobblestone wall
+    wooden_button: wooden button
+    anvil: anvil
+    trapped_chest: trapped chest
+    light_weighted_pressure_plate: light weighted pressure plate
+    heavy_weighted_pressure_plate: heavy weighted pressure plate
+    daylight_detector: daylight detector
+    redstone_block: redstone block
+    quartz_ore: quartz ore
+    hopper: hopper
+    quartz_block: quartz block
+    quartz_stairs: quartz stairs
+    activator_rail: activator rail
+    dropper: dropper
+    stained_hardened_clay: stained hardened clay
+    stained_glass_pane: stained glass pane
+    leaves2: leaves2
+    log2: log2
+    acacia_stairs: acacia stairs
+    dark_oak_stairs: dark oak stairs
+    slime: slime
+    barrier: barrier
+    iron_trapdoor: iron trapdoor
+    prismarine: prismarine
+    sea_lantern: sea lantern
+    hay_block: hay block
+    carpet: carpet
+    hardened_clay: hardened clay
+    coal_block: coal block
+    packed_ice: packed ice
+    double_plant: double plant
+    red_sandstone: red sandstone
+    red_sandstone_stairs: red sandstone stairs
+    stone_slab2: stone slab2
+    spruce_fence_gate: spruce fence gate
+    birch_fence_gate: birch fence gate
+    jungle_fence_gate: jungle fence gate
+    dark_oak_fence_gate: dark oak fence gate
+    acacia_fence_gate: acacia fence gate
+    spruce_fence: spruce fence
+    birch_fence: birch fence
+    jungle_fence: jungle fence
+    dark_oak_fence: dark oak fence
+    acacia_fence: acacia fence
 
 
 
@@ -341,343 +341,227 @@ stat.useItem:
   iconDir: items
 
   sections:
-    stone: 
-    grass: 
-    dirt: 
-    cobblestone: 
-    planks: 
-    sapling: 
-    bedrock: 
-    sand: 
-    gravel: 
-    gold_ore: 
-    iron_ore: 
-    coal_ore: 
-    log: 
-    leaves: 
-    sponge: 
-    glass: 
-    lapis_ore: 
-    lapis_block: 
-    dispenser: 
-    sandstone: 
-    noteblock: 
-    golden_rail: 
-    detector_rail: 
-    sticky_piston: 
-    web: 
-    tallgrass: 
-    deadbush: 
-    piston: 
-    wool: 
-    yellow_flower: 
-    red_flower: 
-    brown_mushroom: 
-    red_mushroom: 
-    gold_block: 
-    iron_block: 
-    stone_slab: 
-    brick_block: 
-    tnt: 
-    bookshelf: 
-    mossy_cobblestone: 
-    obsidian: 
-    torch: 
-    mob_spawner: 
-    oak_stairs: 
-    chest: 
-    diamond_ore: 
-    diamond_block: 
-    crafting_table: 
-    farmland: 
-    furnace: 
-    lit_furnace: 
-    ladder: 
-    rail: 
-    stone_stairs: 
-    lever: 
-    stone_pressure_plate: 
-    wooden_pressure_plate: 
-    redstone_ore: 
-    redstone_torch: 
-    stone_button: 
-    snow_layer: 
-    ice: 
-    snow: 
-    cactus: 
-    clay: 
-    jukebox: 
-    fence: 
-    pumpkin: 
-    netherrack: 
-    soul_sand: 
-    glowstone: 
-    lit_pumpkin: 
-    stained_glass: 
-    trapdoor: 
-    monster_egg: 
-    stonebrick: 
-    brown_mushroom_block: 
-    red_mushroom_block: 
-    iron_bars: 
-    glass_pane: 
-    melon_block: 
-    vine: 
-    fence_gate: 
-    brick_stairs: 
-    stone_brick_stairs: 
-    mycelium: 
-    waterlily: 
-    nether_brick: 
-    nether_brick_fence: 
-    nether_brick_stairs: 
-    enchanting_table: 
-    end_portal_frame: 
-    end_stone: 
-    dragon_egg: 
-    redstone_lamp: 
-    wooden_slab: 
-    sandstone_stairs: 
-    emerald_ore: 
-    ender_chest: 
-    tripwire_hook: 
-    emerald_block: 
-    spruce_stairs: 
-    birch_stairs: 
-    jungle_stairs: 
-    command_block: 
-    beacon: 
-    cobblestone_wall: 
-    wooden_button: 
-    anvil: 
-    trapped_chest: 
-    light_weighted_pressure_plate: 
-    heavy_weighted_pressure_plate: 
-    daylight_detector: 
-    redstone_block: 
-    quartz_ore: 
-    hopper: 
-    quartz_block: 
-    quartz_stairs: 
-    activator_rail: 
-    dropper: 
-    stained_hardened_clay: 
-    stained_glass_pane: 
-    leaves2: 
-    log2: 
-    acacia_stairs: 
-    dark_oak_stairs: 
-    slime: 
-    barrier: 
-    iron_trapdoor: 
-    prismarine: 
-    sea_lantern: 
-    hay_block: 
-    carpet: 
-    hardened_clay: 
-    coal_block: 
-    packed_ice: 
-    double_plant: 
-    red_sandstone: 
-    red_sandstone_stairs: 
-    stone_slab2: 
-    spruce_fence_gate: 
-    birch_fence_gate: 
-    jungle_fence_gate: 
-    dark_oak_fence_gate: 
-    acacia_fence_gate: 
-    spruce_fence: 
-    birch_fence: 
-    jungle_fence: 
-    dark_oak_fence: 
-    acacia_fence: 
-    iron_shovel: 
-    iron_pickaxe: 
-    iron_axe: 
-    flint_and_steel: 
-    apple: 
-    bow: 
-    arrow: 
-    coal: 
-    diamond: 
-    iron_ingot: 
-    gold_ingot: 
-    iron_sword: 
-    wooden_sword: 
-    wooden_shovel: 
-    wooden_pickaxe: 
-    wooden_axe: 
-    stone_sword: 
-    stone_shovel: 
-    stone_pickaxe: 
-    stone_axe: 
-    diamond_sword: 
-    diamond_shovel: 
-    diamond_pickaxe: 
-    diamond_axe: 
-    stick: 
-    bowl: 
-    mushroom_stew: 
-    golden_sword: 
-    golden_shovel: 
-    golden_pickaxe: 
-    golden_axe: 
-    string: 
-    feather: 
-    gunpowder: 
-    wooden_hoe: 
-    stone_hoe: 
-    iron_hoe: 
-    diamond_hoe: 
-    golden_hoe: 
-    wheat_seeds: 
-    wheat: 
-    bread: 
-    leather_helmet: 
-    leather_chestplate: 
-    leather_leggings: 
-    leather_boots: 
-    chainmail_helmet: 
-    chainmail_chestplate: 
-    chainmail_leggings: 
-    chainmail_boots: 
-    iron_helmet: 
-    iron_chestplate: 
-    iron_leggings: 
-    iron_boots: 
-    diamond_helmet: 
-    diamond_chestplate: 
-    diamond_leggings: 
-    diamond_boots: 
-    golden_helmet: 
-    golden_chestplate: 
-    golden_leggings: 
-    golden_boots: 
-    flint: 
-    porkchop: 
-    cooked_porkchop: 
-    painting: 
-    golden_apple: 
-    sign: 
-    wooden_door: 
-    bucket: 
-    water_bucket: 
-    lava_bucket: 
-    minecart: 
-    saddle: 
-    iron_door: 
-    redstone: 
-    snowball: 
-    boat: 
-    leather: 
-    milk_bucket: 
-    brick: 
-    clay_ball: 
-    reeds: 
-    paper: 
-    book: 
-    slime_ball: 
-    chest_minecart: 
-    furnace_minecart: 
-    egg: 
-    compass: 
-    fishing_rod: 
-    clock: 
-    glowstone_dust: 
-    fish: 
-    cooked_fish: 
-    dye: 
-    bone: 
-    sugar: 
-    cake: 
-    bed: 
-    repeater: 
-    cookie: 
-    filled_map: 
-    shears: 
-    melon: 
-    pumpkin_seeds: 
-    melon_seeds: 
-    beef: 
-    cooked_beef: 
-    chicken: 
-    cooked_chicken: 
-    rotten_flesh: 
-    ender_pearl: 
-    blaze_rod: 
-    ghast_tear: 
-    gold_nugget: 
-    nether_wart: 
-    potion: 
-    glass_bottle: 
-    spider_eye: 
-    fermented_spider_eye: 
-    blaze_powder: 
-    magma_cream: 
-    brewing_stand: 
-    cauldron: 
-    ender_eye: 
-    speckled_melon: 
-    spawn_egg: 
-    experience_bottle: 
-    fire_charge: 
-    writable_book: 
-    written_book: 
-    emerald: 
-    item_frame: 
-    flower_pot: 
-    carrot: 
-    potato: 
-    baked_potato: 
-    poisonous_potato: 
-    map: 
-    golden_carrot: 
-    skull: 
-    carrot_on_a_stick: 
-    nether_star: 
-    pumpkin_pie: 
-    fireworks: 
-    firework_charge: 
-    enchanted_book: 
-    comparator: 
-    netherbrick: 
-    quartz: 
-    tnt_minecart: 
-    hopper_minecart: 
-    prismarine_shard: 
-    prismarine_crystals: 
-    rabbit: 
-    cooked_rabbit: 
-    rabbit_stew: 
-    rabbit_foot: 
-    rabbit_hide: 
-    armor_stand: 
-    iron_horse_armor: 
-    golden_horse_armor: 
-    diamond_horse_armor: 
-    lead: 
-    name_tag: 
-    command_block_minecart: 
-    mutton: 
-    cooked_mutton: 
-    banner: 
-    spruce_door: 
-    birch_door: 
-    jungle_door: 
-    acacia_door: 
-    dark_oak_door: 
-    record_13: 
-    record_cat: 
-    record_blocks: 
-    record_chirp: 
-    record_far: 
-    record_mall: 
-    record_mellohi: 
-    record_stal: 
-    record_strad: 
-    record_ward: 
-    record_11: 
-    record_wait: 
+    stone: stone
+    grass: grass
+    dirt: dirt
+    cobblestone: cobblestone
+    planks: planks
+    sapling: sapling
+    bedrock: bedrock
+    sand: sand
+    gravel: gravel
+    gold_ore: gold ore
+    iron_ore: iron ore
+    coal_ore: coal ore
+    log: log
+    leaves: leaves
+    sponge: sponge
+    glass: glass
+    lapis_ore: lapis ore
+    lapis_block: lapis block
+    dispenser: dispenser
+    sandstone: sandstone
+    noteblock: noteblock
+    golden_rail: golden rail
+    detector_rail: detector rail
+    sticky_piston: sticky piston
+    web: web
+    tallgrass: tallgrass
+    deadbush: deadbush
+    piston: piston
+    wool: wool
+    yellow_flower: yellow flower
+    red_flower: red flower
+    brown_mushroom: brown mushroom
+    red_mushroom: red mushroom
+    gold_block: gold block
+    iron_block: iron block
+    stone_slab: stone slab
+    brick_block: brick block
+    tnt: tnt
+    bookshelf: bookshelf
+    mossy_cobblestone: mossy cobblestone
+    obsidian: obsidian
+    torch: torch
+    mob_spawner: mob spawner
+    oak_stairs: oak stairs
+    chest: chest
+    diamond_ore: diamond ore
+    diamond_block: diamond block
+    crafting_table: crafting table
+    farmland: farmland
+    furnace: furnace
+    lit_furnace: lit furnace
+    ladder: ladder
+    rail: rail
+    stone_stairs: stone stairs
+    lever: lever
+    stone_pressure_plate: stone pressure plate
+    wooden_pressure_plate: wooden pressure plate
+    redstone_ore: redstone ore
+    redstone_torch: redstone torch
+    stone_button: stone button
+    snow_layer: snow layer
+    ice: ice
+    snow: snow
+    cactus: cactus
+    clay: clay
+    jukebox: jukebox
+    fence: fence
+    pumpkin: pumpkin
+    netherrack: netherrack
+    soul_sand: soul sand
+    iron_hoe: iron hoe
+    diamond_hoe: diamond hoe
+    golden_hoe: golden hoe
+    wheat_seeds: wheat seeds
+    wheat: wheat
+    bread: bread
+    leather_helmet: leather helmet
+    leather_chestplate: leather chestplate
+    leather_leggings: leather leggings
+    leather_boots: leather boots
+    chainmail_helmet: chainmail helmet
+    chainmail_chestplate: chainmail chestplate
+    chainmail_leggings: chainmail leggings
+    chainmail_boots: chainmail boots
+    iron_helmet: iron helmet
+    iron_chestplate: iron chestplate
+    iron_leggings: iron leggings
+    iron_boots: iron boots
+    diamond_helmet: diamond helmet
+    diamond_chestplate: diamond chestplate
+    diamond_leggings: diamond leggings
+    diamond_boots: diamond boots
+    golden_helmet: golden helmet
+    golden_chestplate: golden chestplate
+    golden_leggings: golden leggings
+    golden_boots: golden boots
+    flint: flint
+    porkchop: porkchop
+    cooked_porkchop: cooked porkchop
+    painting: painting
+    golden_apple: golden apple
+    sign: sign
+    wooden_door: wooden door
+    bucket: bucket
+    water_bucket: water bucket
+    lava_bucket: lava bucket
+    minecart: minecart
+    saddle: saddle
+    iron_door: iron door
+    redstone: redstone
+    snowball: snowball
+    boat: boat
+    leather: leather
+    milk_bucket: milk bucket
+    brick: brick
+    clay_ball: clay ball
+    reeds: reeds
+    paper: paper
+    book: book
+    slime_ball: slime ball
+    chest_minecart: chest minecart
+    furnace_minecart: furnace minecart
+    egg: egg
+    compass: compass
+    fishing_rod: fishing rod
+    clock: clock
+    glowstone_dust: glowstone dust
+    fish: fish
+    cooked_fish: cooked fish
+    dye: dye
+    bone: bone
+    sugar: sugar
+    cake: cake
+    bed: bed
+    repeater: repeater
+    cookie: cookie
+    filled_map: filled map
+    shears: shears
+    melon: melon
+    pumpkin_seeds: pumpkin seeds
+    melon_seeds: melon seeds
+    beef: beef
+    cooked_beef: cooked beef
+    chicken: chicken
+    cooked_chicken: cooked chicken
+    rotten_flesh: rotten flesh
+    ender_pearl: ender pearl
+    blaze_rod: blaze rod
+    ghast_tear: ghast tear
+    gold_nugget: gold nugget
+    nether_wart: nether wart
+    potion: potion
+    glass_bottle: glass bottle
+    spider_eye: spider eye
+    fermented_spider_eye: fermented spider eye
+    blaze_powder: blaze powder
+    magma_cream: magma cream
+    brewing_stand: brewing stand
+    cauldron: cauldron
+    ender_eye: ender eye
+    speckled_melon: speckled melon
+    spawn_egg: spawn egg
+    experience_bottle: experience bottle
+    fire_charge: fire charge
+    writable_book: writable book
+    written_book: written book
+    emerald: emerald
+    item_frame: item frame
+    flower_pot: flower pot
+    carrot: carrot
+    potato: potato
+    baked_potato: baked potato
+    poisonous_potato: poisonous potato
+    map: map
+    golden_carrot: golden carrot
+    skull: skull
+    carrot_on_a_stick: carrot on a stick
+    nether_star: nether star
+    pumpkin_pie: pumpkin pie
+    fireworks: fireworks
+    firework_charge: firework charge
+    enchanted_book: enchanted book
+    comparator: comparator
+    netherbrick: netherbrick
+    quartz: quartz
+    tnt_minecart: tnt minecart
+    hopper_minecart: hopper minecart
+    prismarine_shard: prismarine shard
+    prismarine_crystals: prismarine crystals
+    rabbit: rabbit
+    cooked_rabbit: cooked rabbit
+    rabbit_stew: rabbit stew
+    rabbit_foot: rabbit foot
+    rabbit_hide: rabbit hide
+    armor_stand: armor stand
+    iron_horse_armor: iron horse armor
+    golden_horse_armor: golden horse armor
+    diamond_horse_armor: diamond horse armor
+    lead: lead
+    name_tag: name tag
+    command_block_minecart: command block minecart
+    mutton: mutton
+    cooked_mutton: cooked mutton
+    banner: banner
+    spruce_door: spruce door
+    birch_door: birch door
+    jungle_door: jungle door
+    acacia_door: acacia door
+    dark_oak_door: dark oak door
+    record_13: record 13
+    record_cat: record cat
+    record_blocks: record blocks
+    record_chirp: record chirp
+    record_far: record far
+    record_mall: record mall
+    record_mellohi: record mellohi
+    record_stal: record stal
+    record_strad: record strad
+    record_ward: record ward
+    record_11: record 11
+    record_wait: record wait
 
 
 
@@ -688,56 +572,56 @@ stat.breakItem:
   iconDir: items
 
   sections:
-    iron_shovel: 
-    iron_pickaxe: 
-    iron_axe: 
-    flint_and_steel: 
-    bow: 
-    iron_sword: 
-    wooden_sword: 
-    wooden_shovel: 
-    wooden_pickaxe: 
-    wooden_axe: 
-    stone_sword: 
-    stone_shovel: 
-    stone_pickaxe: 
-    stone_axe: 
-    diamond_sword: 
-    diamond_shovel: 
-    diamond_pickaxe: 
-    diamond_axe: 
-    golden_sword: 
-    golden_shovel: 
-    golden_pickaxe: 
-    golden_axe: 
-    wooden_hoe: 
-    stone_hoe: 
-    iron_hoe: 
-    diamond_hoe: 
-    golden_hoe: 
-    leather_helmet: 
-    leather_chestplate: 
-    leather_leggings: 
-    leather_boots: 
-    chainmail_helmet: 
-    chainmail_chestplate: 
-    chainmail_leggings: 
-    chainmail_boots: 
-    iron_helmet: 
-    iron_chestplate: 
-    iron_leggings: 
-    iron_boots: 
-    diamond_helmet: 
-    diamond_chestplate: 
-    diamond_leggings: 
-    diamond_boots: 
-    golden_helmet: 
-    golden_chestplate: 
-    golden_leggings: 
-    golden_boots: 
-    fishing_rod: 
-    shears: 
-    carrot_on_a_stick: 
+    iron_shovel: Iron Shovel
+    iron_pickaxe: Iron Pickaxe
+    iron_axe: Iron Axe
+    flint_and_steel: Flint and Steel
+    bow: Bow
+    iron_sword: Iron Sword
+    wooden_sword: Wooden Sword
+    wooden_shovel: Wooden Shovel
+    wooden_pickaxe: Wooden Pickaxe
+    wooden_axe: Wooden Axe
+    stone_sword: Stone Sword
+    stone_shovel: Stone Shovel
+    stone_pickaxe: Stone Pickaxe
+    stone_axe: Stone Axe
+    diamond_sword: Diamond Sword
+    diamond_shovel: Diamond Shovel
+    diamond_pickaxe: Diamond Pickaxe
+    diamond_axe: Diamond Axe
+    golden_sword: Golden Sword
+    golden_shovel: Golden Shovel
+    golden_pickaxe: Golden Pickaxe
+    golden_axe: Golden Axe
+    wooden_hoe: Wooden Hoe
+    stone_hoe: Stone Hoe
+    iron_hoe: Iron Hoe
+    diamond_hoe: Diamond Hoe
+    golden_hoe: Golden Hoe
+    leather_helmet: Leather Helmet
+    leather_chestplate: Leather Chestplate
+    leather_leggings: Leather Leggings
+    leather_boots: Leather Boots
+    chainmail_helmet: Chainmail Helmet
+    chainmail_chestplate: Chainmail Chestplate
+    chainmail_leggings: Chainmail Leggings
+    chainmail_boots: Chainmail Boots
+    iron_helmet: Iron Helmet
+    iron_chestplate: Iron Chestplate
+    iron_leggings: Iron Leggings
+    iron_boots: Iron Boots
+    diamond_helmet: Diamond Helmet
+    diamond_chestplate: Diamond Chestplate
+    diamond_leggings: Diamond Leggings
+    diamond_boots: Diamond Boots
+    golden_helmet: Golden Helmet
+    golden_chestplate: Golden Chestplate
+    golden_leggings: Golden Leggings
+    golden_boots: Golden Boots
+    fishing_rod: Fishing Rod
+    shears: Shears
+    carrot_on_a_stick: Carrot on a Stick
 
 
 
@@ -748,228 +632,224 @@ stat.craftItem:
   iconDir: items
 
   sections:
-    cooked_beef: 
-    iron_door: 
-    melon_block: 
-    diamond_shovel: 
-    hopper_minecart: 
-    stone_brick_stairs: 
-    diamond: 
-    mossy_cobblestone: 
-    map: 
-    nether_brick: 
-    quartz_block: 
-    sticky_piston: 
-    golden_pickaxe: 
-    dropper: 
-    golden_boots: 
-    diamond_block: 
-    spruce_fence: 
-    iron_boots: 
-    leather_boots: 
-    brick: 
-    magma_cream: 
-    furnace: 
-    redstone_torch: 
-    bow: 
-    stone_hoe: 
-    shears: 
-    oak_stairs: 
-    sea_lantern: 
-    diamond_pickaxe: 
-    cauldron: 
-    redstone_lamp: 
-    blaze_powder: 
-    trapdoor: 
-    iron_shovel: 
-    planks: 
-    iron_bars: 
-    dark_oak_fence: 
-    bookshelf: 
-    cooked_chicken: 
-    stone_stairs: 
-    stained_hardened_clay: 
-    wheat: 
-    slime_ball: 
-    boat: 
-    golden_axe: 
-    fishing_rod: 
-    golden_chestplate: 
-    iron_helmet: 
-    netherbrick: 
-    speckled_melon: 
-    stone_slab: 
-    stone_button: 
-    dispenser: 
-    flower_pot: 
-    iron_block: 
-    glass: 
-    diamond_helmet: 
-    diamond_axe: 
-    golden_rail: 
-    fire_charge: 
-    iron_chestplate: 
-    bed: 
-    wooden_pressure_plate: 
-    emerald: 
-    fermented_spider_eye: 
-    glass_bottle: 
-    bread: 
-    stone: 
-    stone_slab2: 
-    pumpkin_pie: 
-    piston: 
-    cooked_rabbit: 
-    ladder: 
-    jungle_fence_gate: 
-    cobblestone_wall: 
-    nether_brick_stairs: 
-    stone_pickaxe: 
-    diamond_hoe: 
-    diamond_sword: 
-    spruce_fence_gate: 
-    hay_block: 
-    leather_helmet: 
-    cookie: 
-    baked_potato: 
-    leather: 
-    chest_minecart: 
-    iron_axe: 
-    acacia_door: 
-    hopper: 
-    heavy_weighted_pressure_plate: 
-    anvil: 
-    crafting_table: 
-    detector_rail: 
-    prismarine: 
-    emerald_block: 
-    acacia_fence_gate: 
-    stained_glass_pane: 
-    fence: 
-    cooked_fish: 
-    coal: 
-    redstone_block: 
-    armor_stand: 
-    cake: 
-    brewing_stand: 
-    coal_block: 
-    gold_nugget: 
-    bucket: 
-    leather_leggings: 
-    dark_oak_door: 
-    rail: 
-    ender_eye: 
-    golden_shovel: 
-    iron_pickaxe: 
-    golden_hoe: 
-    glass_pane: 
-    wooden_shovel: 
-    repeater: 
-    rabbit_stew: 
-    acacia_stairs: 
-    arrow: 
-    beacon: 
-    birch_door: 
-    book: 
-    paper: 
-    iron_ingot: 
-    golden_helmet: 
-    stonebrick: 
-    iron_sword: 
-    sandstone: 
-    trapped_chest: 
-    mushroom_stew: 
-    spruce_door: 
-    snow: 
-    iron_leggings: 
-    dye: 
-    lapis_block: 
-    quartz_stairs: 
-    cooked_mutton: 
-    wooden_sword: 
-    nether_brick_fence: 
-    stained_glass: 
-    golden_leggings: 
-    melon_seeds: 
-    item_frame: 
-    diamond_chestplate: 
-    dirt: 
-    jungle_stairs: 
-    wooden_axe: 
-    activator_rail: 
-    gold_block: 
-    iron_trapdoor: 
-    ender_chest: 
-    sponge: 
-    compass: 
-    noteblock: 
-    wooden_pickaxe: 
-    furnace_minecart: 
-    carrot_on_a_stick: 
-    wooden_door: 
-    stone_shovel: 
-    red_sandstone: 
-    fence_gate: 
-    tnt_minecart: 
-    chest: 
-    jukebox: 
-    red_sandstone_stairs: 
-    tnt: 
-    lever: 
-    tripwire_hook: 
-    dark_oak_stairs: 
-    sandstone_stairs: 
-    quartz: 
-    comparator: 
-    clay: 
-    snow_layer: 
-    stone_sword: 
-    hardened_clay: 
-    light_weighted_pressure_plate: 
-    sugar: 
-    stick: 
-    birch_fence_gate: 
-    bowl: 
-    wool: 
-    enchanting_table: 
-    glowstone: 
-    flint_and_steel: 
-    cooked_porkchop: 
-    stone_axe: 
-    gold_ingot: 
-    golden_sword: 
-    leather_chestplate: 
-    golden_carrot: 
-    diamond_leggings: 
-    torch: 
-    iron_hoe: 
-    dark_oak_fence_gate: 
-    daylight_detector: 
-    golden_apple: 
-    diamond_boots: 
-    writable_book: 
-    birch_stairs: 
-    brick_stairs: 
-    minecart: 
-    redstone: 
-    lead: 
-    birch_fence: 
-    slime: 
-    wooden_button: 
-    spruce_stairs: 
-    painting: 
-    sign: 
-    jungle_door: 
-    banner: 
-    brick_block: 
-    jungle_fence: 
-    pumpkin_seeds: 
-    wooden_hoe: 
-    wooden_slab: 
-    acacia_fence: 
-    clock: 
-    carpet: 
-    lit_pumpkin: 
-    stone_pressure_plate: 
-
-
+    cooked_beef: cooked beef
+    iron_door: iron door
+    melon_block: melon block
+    diamond_shovel: diamond shovel
+    hopper_minecart: hopper minecart
+    stone_brick_stairs: stone brick stairs
+    diamond: diamond
+    mossy_cobblestone: mossy cobblestone
+    map: map
+    nether_brick: nether brick
+    quartz_block: quartz block
+    sticky_piston: sticky piston
+    golden_pickaxe: golden pickaxe
+    dropper: dropper
+    golden_boots: golden boots
+    diamond_block: diamond block
+    spruce_fence: spruce fence
+    iron_boots: iron boots
+    leather_boots: leather boots
+    brick: brick
+    magma_cream: magma cream
+    furnace: furnace
+    redstone_torch: redstone torch
+    bow: bow
+    stone_hoe: stone hoe
+    shears: shears
+    oak_stairs: oak stairs
+    sea_lantern: sea lantern
+    diamond_pickaxe: diamond pickaxe
+    cauldron: cauldron
+    redstone_lamp: redstone lamp
+    blaze_powder: blaze powder
+    trapdoor: trapdoor
+    iron_shovel: iron shovel
+    planks: planks
+    iron_bars: iron bars
+    dark_oak_fence: dark oak fence
+    bookshelf: bookshelf
+    cooked_chicken: cooked chicken
+    stone_stairs: stone stairs
+    stained_hardened_clay: stained hardened clay
+    wheat: wheat
+    slime_ball: slime ball
+    boat: boat
+    golden_axe: golden axe
+    fishing_rod: fishing rod
+    golden_chestplate: golden chestplate
+    iron_helmet: iron helmet
+    netherbrick: netherbrick
+    speckled_melon: speckled melon
+    stone_slab: stone slab
+    stone_button: stone button
+    dispenser: dispenser
+    flower_pot: flower pot
+    iron_block: iron block
+    glass: glass
+    diamond_helmet: diamond helmet
+    diamond_axe: diamond axe
+    golden_rail: golden rail
+    fire_charge: fire charge
+    iron_chestplate: iron chestplate
+    bed: bed
+    wooden_pressure_plate: wooden pressure plate
+    emerald: emerald
+    fermented_spider_eye: fermented spider eye
+    glass_bottle: glass bottle
+    bread: bread
+    stone: stone
+    stone_slab2: stone slab2
+    pumpkin_pie: pumpkin pie
+    ladder: ladder
+    jungle_fence_gate: jungle fence gate
+    cobblestone_wall: cobblestone wall
+    nether_brick_stairs: nether brick stairs
+    stone_pickaxe: stone pickaxe
+    diamond_hoe: diamond hoe
+    diamond_sword: diamond sword
+    spruce_fence_gate: spruce fence gate
+    hay_block: hay block
+    leather_helmet: leather helmet
+    cookie: cookie
+    baked_potato: baked potato
+    leather: leather
+    chest_minecart: chest minecart
+    iron_axe: iron axe
+    acacia_door: acacia door
+    hopper: hopper
+    heavy_weighted_pressure_plate: heavy weighted pressure plate
+    anvil: anvil
+    crafting_table: crafting table
+    detector_rail: detector rail
+    prismarine: prismarine
+    emerald_block: emerald block
+    acacia_fence_gate: acacia fence gate
+    stained_glass_pane: stained glass pane
+    fence: fence
+    cooked_fish: cooked fish
+    coal: coal
+    redstone_block: redstone block
+    armor_stand: armor stand
+    cake: cake
+    brewing_stand: brewing stand
+    coal_block: coal block
+    gold_nugget: gold nugget
+    bucket: bucket
+    leather_leggings: leather leggings
+    dark_oak_door: dark oak door
+    rail: rail
+    ender_eye: ender eye
+    golden_shovel: golden shovel
+    iron_pickaxe: iron pickaxe
+    golden_hoe: golden hoe
+    glass_pane: glass pane
+    wooden_shovel: wooden shovel
+    repeater: repeater
+    rabbit_stew: rabbit stew
+    acacia_stairs: acacia stairs
+    arrow: arrow
+    beacon: beacon
+    birch_door: birch door
+    book: book
+    paper: paper
+    iron_ingot: iron ingot
+    golden_helmet: golden helmet
+    stonebrick: stonebrick
+    iron_sword: iron sword
+    sandstone: sandstone
+    trapped_chest: trapped chest
+    mushroom_stew: mushroom stew
+    spruce_door: spruce door
+    snow: snow
+    iron_leggings: iron leggings
+    dye: dye
+    lapis_block: lapis block
+    quartz_stairs: quartz stairs
+    cooked_mutton: cooked mutton
+    wooden_sword: wooden sword
+    nether_brick_fence: nether brick fence
+    stained_glass: stained glass
+    golden_leggings: golden leggings
+    melon_seeds: melon seeds
+    item_frame: item frame
+    diamond_chestplate: diamond chestplate
+    dirt: dirt
+    jungle_stairs: jungle stairs
+    wooden_axe: wooden axe
+    activator_rail: activator rail
+    gold_block: gold block
+    iron_trapdoor: iron trapdoor
+    ender_chest: ender chest
+    sponge: sponge
+    compass: compass
+    noteblock: noteblock
+    wooden_pickaxe: wooden pickaxe
+    furnace_minecart: furnace minecart
+    carrot_on_a_stick: carrot on a stick
+    wooden_door: wooden door
+    stone_shovel: stone shovel
+    red_sandstone: red sandstone
+    fence_gate: fence gate
+    tnt_minecart: tnt minecart
+    chest: chest
+    jukebox: jukebox
+    red_sandstone_stairs: red sandstone stairs
+    tnt: tnt
+    lever: lever
+    tripwire_hook: tripwire hook
+    dark_oak_stairs: dark oak stairs
+    sandstone_stairs: sandstone stairs
+    quartz: quartz
+    comparator: comparator
+    clay: clay
+    snow_layer: snow layer
+    stone_sword: stone sword
+    hardened_clay: hardened clay
+    light_weighted_pressure_plate: light weighted pressure plate
+    sugar: sugar
+    stick: stick
+    birch_fence_gate: birch fence gate
+    bowl: bowl
+    wool: wool
+    enchanting_table: enchanting table
+    glowstone: glowstone
+    flint_and_steel: flint and steel
+    cooked_porkchop: cooked porkchop
+    stone_axe: stone axe
+    gold_ingot: gold ingot
+    golden_sword: golden sword
+    leather_chestplate: leather chestplate
+    golden_carrot: golden carrot
+    diamond_leggings: diamond leggings
+    torch: torch
+    iron_hoe: iron hoe
+    dark_oak_fence_gate: dark oak fence gate
+    daylight_detector: daylight detector
+    golden_apple: golden apple
+    diamond_boots: diamond boots
+    writable_book: writable book
+    birch_stairs: birch stairs
+    brick_stairs: brick stairs
+    minecart: minecart
+    redstone: redstone
+    lead: lead
+    birch_fence: birch fence
+    slime: slime
+    wooden_button: wooden button
+    spruce_stairs: spruce stairs
+    painting: painting
+    sign: sign
+    jungle_door: jungle door
+    banner: banner
+    brick_block: brick block
+    jungle_fence: jungle fence
+    pumpkin_seeds: pumpkin seeds
+    wooden_hoe: wooden hoe
+    wooden_slab: wooden slab
+    acacia_fence: acacia fence
+    clock: clock
+    carpet: carpet
+    lit_pumpkin: lit pumpkin
+    stone_pressure_plate: stone pressure plate
