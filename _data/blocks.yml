@@ -1,150 +1,150 @@
-stone: 
-grass: 
-dirt: 
-cobblestone: 
-planks: 
-sapling: 
-bedrock: 
-sand: 
-gravel: 
-gold_ore: 
-iron_ore: 
-coal_ore: 
-log: 
-leaves: 
-sponge: 
-glass: 
-lapis_ore: 
-lapis_block: 
-dispenser: 
-sandstone: 
-noteblock: 
-golden_rail: 
-detector_rail: 
-sticky_piston: 
-web: 
-tallgrass: 
-deadbush: 
-piston: 
-wool: 
-yellow_flower: 
-red_flower: 
-brown_mushroom: 
-red_mushroom: 
-gold_block: 
-iron_block: 
-stone_slab: 
-brick_block: 
-tnt: 
-bookshelf: 
-mossy_cobblestone: 
-obsidian: 
-torch: 
-mob_spawner: 
-oak_stairs: 
-chest: 
-diamond_ore: 
-diamond_block: 
-crafting_table: 
-farmland: 
-furnace: 
-lit_furnace: 
-ladder: 
-rail: 
-stone_stairs: 
-lever: 
-stone_pressure_plate: 
-wooden_pressure_plate: 
-redstone_ore: 
-redstone_torch: 
-stone_button: 
-snow_layer: 
-ice: 
-snow: 
-cactus: 
-clay: 
-jukebox: 
-fence: 
-pumpkin: 
-netherrack: 
-soul_sand: 
-glowstone: 
-lit_pumpkin: 
-stained_glass: 
-trapdoor: 
-monster_egg: 
-stonebrick: 
-brown_mushroom_block: 
-red_mushroom_block: 
-iron_bars: 
-glass_pane: 
-melon_block: 
-vine: 
-fence_gate: 
-brick_stairs: 
-stone_brick_stairs: 
-mycelium: 
-waterlily: 
-nether_brick: 
-nether_brick_fence: 
-nether_brick_stairs: 
-enchanting_table: 
-end_portal_frame: 
-end_stone: 
-dragon_egg: 
-redstone_lamp: 
-wooden_slab: 
-sandstone_stairs: 
-emerald_ore: 
-ender_chest: 
-tripwire_hook: 
-emerald_block: 
-spruce_stairs: 
-birch_stairs: 
-jungle_stairs: 
-command_block: 
-beacon: 
-cobblestone_wall: 
-wooden_button: 
-anvil: 
-trapped_chest: 
-light_weighted_pressure_plate: 
-heavy_weighted_pressure_plate: 
-daylight_detector: 
-redstone_block: 
-quartz_ore: 
-hopper: 
-quartz_block: 
-quartz_stairs: 
-activator_rail: 
-dropper: 
-stained_hardened_clay: 
-stained_glass_pane: 
-leaves2: 
-log2: 
-acacia_stairs: 
-dark_oak_stairs: 
-slime: 
-barrier: 
-iron_trapdoor: 
-prismarine: 
-sea_lantern: 
-hay_block: 
-carpet: 
-hardened_clay: 
-coal_block: 
-packed_ice: 
-double_plant: 
-red_sandstone: 
-red_sandstone_stairs: 
-stone_slab2: 
-spruce_fence_gate: 
-birch_fence_gate: 
-jungle_fence_gate: 
-dark_oak_fence_gate: 
-acacia_fence_gate: 
-spruce_fence: 
-birch_fence: 
-jungle_fence: 
-dark_oak_fence: 
-acacia_fence: 
+stone: stone
+grass: grass
+dirt: dirt
+cobblestone: cobblestone
+planks: planks
+sapling: sapling
+bedrock: bedrock
+sand: sand
+gravel: gravel
+gold_ore: gold ore
+iron_ore: iron ore
+coal_ore: coal ore
+log: log
+leaves: leaves
+sponge: sponge
+glass: glass
+lapis_ore: lapis ore
+lapis_block: lapis block
+dispenser: dispenser
+sandstone: sandstone
+noteblock: noteblock
+golden_rail: golden rail
+detector_rail: detector rail
+sticky_piston: sticky piston
+web: web
+tallgrass: tallgrass
+deadbush: deadbush
+piston: piston
+wool: wool
+yellow_flower: yellow flower
+red_flower: red flower
+brown_mushroom: brown mushroom
+red_mushroom: red mushroom
+gold_block: gold block
+iron_block: iron block
+stone_slab: stone slab
+brick_block: brick block
+tnt: tnt
+bookshelf: bookshelf
+mossy_cobblestone: mossy cobblestone
+obsidian: obsidian
+torch: torch
+mob_spawner: mob spawner
+oak_stairs: oak stairs
+chest: chest
+diamond_ore: diamond ore
+diamond_block: diamond block
+crafting_table: crafting table
+farmland: farmland
+furnace: furnace
+lit_furnace: lit furnace
+ladder: ladder
+rail: rail
+stone_stairs: stone stairs
+lever: lever
+stone_pressure_plate: stone pressure plate
+wooden_pressure_plate: wooden pressure plate
+redstone_ore: redstone ore
+redstone_torch: redstone torch
+stone_button: stone button
+snow_layer: snow layer
+ice: ice
+snow: snow
+cactus: cactus
+clay: clay
+jukebox: jukebox
+fence: fence
+pumpkin: pumpkin
+netherrack: netherrack
+soul_sand: soul sand
+glowstone: glowstone
+lit_pumpkin: lit pumpkin
+stained_glass: stained glass
+trapdoor: trapdoor
+monster_egg: monster egg
+stonebrick: stonebrick
+brown_mushroom_block: brown mushroom block
+red_mushroom_block: red mushroom block
+iron_bars: iron bars
+glass_pane: glass pane
+melon_block: melon block
+vine: vine
+fence_gate: fence gate
+brick_stairs: brick stairs
+stone_brick_stairs: stone brick stairs
+mycelium: mycelium
+waterlily: waterlily
+nether_brick: nether brick
+nether_brick_fence: nether brick fence
+nether_brick_stairs: nether brick stairs
+enchanting_table: enchanting table
+end_portal_frame: end portal frame
+end_stone: end stone
+dragon_egg: dragon egg
+redstone_lamp: redstone lamp
+wooden_slab: wooden slab
+sandstone_stairs: sandstone stairs
+emerald_ore: emerald ore
+ender_chest: ender chest
+tripwire_hook: tripwire hook
+emerald_block: emerald block
+spruce_stairs: spruce stairs
+birch_stairs: birch stairs
+jungle_stairs: jungle stairs
+command_block: command block
+beacon: beacon
+cobblestone_wall: cobblestone wall
+wooden_button: wooden button
+anvil: anvil
+trapped_chest: trapped chest
+light_weighted_pressure_plate: light weighted pressure plate
+heavy_weighted_pressure_plate: heavy weighted pressure plate
+daylight_detector: daylight detector
+redstone_block: redstone block
+quartz_ore: quartz ore
+hopper: hopper
+quartz_block: quartz block
+quartz_stairs: quartz stairs
+activator_rail: activator rail
+dropper: dropper
+stained_hardened_clay: stained hardened clay
+stained_glass_pane: stained glass pane
+leaves2: leaves2
+log2: log2
+acacia_stairs: acacia stairs
+dark_oak_stairs: dark oak stairs
+slime: slime
+barrier: barrier
+iron_trapdoor: iron trapdoor
+prismarine: prismarine
+sea_lantern: sea lantern
+hay_block: hay block
+carpet: carpet
+hardened_clay: hardened clay
+coal_block: coal block
+packed_ice: packed ice
+double_plant: double plant
+red_sandstone: red sandstone
+red_sandstone_stairs: red sandstone stairs
+stone_slab2: stone slab2
+spruce_fence_gate: spruce fence gate
+birch_fence_gate: birch fence gate
+jungle_fence_gate: jungle fence gate
+dark_oak_fence_gate: dark oak fence gate
+acacia_fence_gate: acacia fence gate
+spruce_fence: spruce fence
+birch_fence: birch fence
+jungle_fence: jungle fence
+dark_oak_fence: dark oak fence
+acacia_fence: acacia fence
