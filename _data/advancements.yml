@@ -11,7 +11,7 @@ story:
 
   mine_stone:
     name: Stone Age
-    parent: Minecraft
+    parent: root
     description: Mine Stone with your new Pickaxe
     requirements: >
       Have one of these 3 stones in the #stone_tool_materials item tag:
@@ -22,7 +22,7 @@ story:
 
   upgrade_tools:
     name: Getting an Upgrade
-    parent: Stone Age
+    parent: mine_stone
     description: >
       Construct a better Pickaxe
     requirements: >
@@ -30,7 +30,7 @@ story:
 
   smelt_iron:
     name: Acquire Hardware
-    parent: Getting an Upgrade
+    parent: upgrade_tools
     description: >
       Smelt an Iron Ingot
     requirements: >
@@ -38,7 +38,7 @@ story:
 
   obtain_armor:
     name: Suit Up
-    parent: Acquire Hardware
+    parent: smelt_iron
     description: >
       Protect yourself with a piece of iron armor
     requirements: >
@@ -46,7 +46,7 @@ story:
 
   lava_bucket:
     name: Hot Stuff
-    parent: Acquire Hardware
+    parent: smelt_iron
     description: >
       Fill a Bucket with lava
     requirements: >
@@ -54,7 +54,7 @@ story:
 
   iron_tools:
     name: Isn't It Iron Pick
-    parent: Acquire Hardware
+    parent: smelt_iron
     description: >
       Upgrade your Pickaxe
     requirements: >
@@ -62,7 +62,7 @@ story:
 
   deflect_arrow:
     name: Not Today, Thank You
-    parent: Suit Up
+    parent: obtain_armor
     description: >
       Deflect a projectile with a Shield
     requirements: >
@@ -70,7 +70,7 @@ story:
 
   form_obsidian:
     name: Ice Bucket Challenge
-    parent: Hot Stuff
+    parent: lava_bucket
     description: >
       Obtain a block of Obsidian
     requirements: >
@@ -78,7 +78,7 @@ story:
 
   mine_diamond:
     name: Diamonds!
-    parent: Isn't It Iron Pick
+    parent: iron_tools
     description: >
       Acquire diamonds
     requirements: >
@@ -86,7 +86,7 @@ story:
 
   enter_the_nether:
     name: We Need to Go Deeper
-    parent: Ice Bucket Challenge
+    parent: form_obsidian
     description: >
       Build, light and enter a Nether Portal
     requirements: >
@@ -94,7 +94,7 @@ story:
 
   shiny_gear:
     name: Cover Me with Diamonds
-    parent: Diamonds!
+    parent: mine_diamond
     description: >
       Diamond armor saves lives
     requirements: >
@@ -102,7 +102,7 @@ story:
 
   enchant_item:
     name: Enchanter
-    parent: Diamonds!
+    parent: mine_diamond
     description: >
       Enchant an item at an Enchanting Table
     requirements: >
@@ -110,7 +110,7 @@ story:
 
   cure_zombie_villager:
     name: Zombie Doctor
-    parent: We Need to Go Deeper
+    parent: enter_the_nether
     description: >
       Weaken and then cure a Zombie Villager
     requirements: >
@@ -119,7 +119,7 @@ story:
 
   follow_ender_eye:
     name: Eye Spy
-    parent: We Need to Go Deeper
+    parent: enter_the_nether
     description: >
       Follow an Eye of Ender
     requirements: >
@@ -127,7 +127,7 @@ story:
 
   enter_the_end:
     name: The End?
-    parent: Eye Spy
+    parent: follow_ender_eye
     description: >
       Enter the End Portal
     requirements: >
