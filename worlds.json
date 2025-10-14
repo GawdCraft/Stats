@@ -1,0 +1,29 @@
+{
+  "Survival": {
+    "advancements": true,
+    "stats": true,
+    "dimensions": [
+      "overworld",
+      "nether",
+      "the_end"
+    ]
+  },
+  "Hardcore": {
+    "advancements": true,
+    "stats": true,
+    "dimensions": [
+      "overworld",
+      "nether",
+      "the_end"
+    ]
+  },
+  "PvP": {
+    "advancements": true,
+    "stats": true,
+    "dimensions": [
+      "overworld",
+      "nether",
+      "the_end"
+    ]
+  }
+}
