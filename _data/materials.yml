@@ -1,2106 +1,2105 @@
---- # Minecraft
-minecraft:
-  acacia_boat: acacia boat
-  acacia_button: acacia button
-  acacia_chest_boat: acacia chest boat
-  acacia_door: acacia door
-  acacia_fence: acacia fence
-  acacia_fence_gate: acacia fence gate
-  acacia_hanging_sign: acacia hanging sign
-  acacia_leaves: acacia leaves
-  acacia_log: acacia log
-  acacia_planks: acacia planks
-  acacia_pressure_plate: acacia pressure plate
-  acacia_sapling: acacia sapling
-  acacia_shelf: acacia shelf
-  acacia_sign: acacia sign
-  acacia_slab: acacia slab
-  acacia_stairs: acacia stairs
-  acacia_trapdoor: acacia trapdoor
-  acacia_wall_hanging_sign: acacia wall hanging sign
-  acacia_wall_sign: acacia wall sign
-  acacia_wood: acacia wood
-  activator_rail: activator rail
-  air: air
-  allay_spawn_egg: allay spawn egg
-  allium: allium
-  amethyst_block: amethyst block
-  amethyst_cluster: amethyst cluster
-  amethyst_shard: amethyst shard
-  ancient_debris: ancient debris
-  andesite: andesite
-  andesite_slab: andesite slab
-  andesite_stairs: andesite stairs
-  andesite_wall: andesite wall
-  angler_pottery_sherd: angler pottery sherd
-  anvil: anvil
-  apple: apple
-  archer_pottery_sherd: archer pottery sherd
-  armadillo_scute: armadillo scute
-  armadillo_spawn_egg: armadillo spawn egg
-  armor_stand: armor stand
-  arms_up_pottery_sherd: arms up pottery sherd
-  arrow: arrow
-  attached_melon_stem: attached melon stem
-  attached_pumpkin_stem: attached pumpkin stem
-  axolotl_bucket: axolotl bucket
-  axolotl_spawn_egg: axolotl spawn egg
-  azalea: azalea
-  azalea_leaves: azalea leaves
-  azure_bluet: azure bluet
-  baked_potato: baked potato
-  bamboo: bamboo
-  bamboo_block: bamboo block
-  bamboo_button: bamboo button
-  bamboo_chest_raft: bamboo chest raft
-  bamboo_door: bamboo door
-  bamboo_fence: bamboo fence
-  bamboo_fence_gate: bamboo fence gate
-  bamboo_hanging_sign: bamboo hanging sign
-  bamboo_mosaic: bamboo mosaic
-  bamboo_mosaic_slab: bamboo mosaic slab
-  bamboo_mosaic_stairs: bamboo mosaic stairs
-  bamboo_planks: bamboo planks
-  bamboo_pressure_plate: bamboo pressure plate
-  bamboo_raft: bamboo raft
-  bamboo_sapling: bamboo sapling
-  bamboo_shelf: bamboo shelf
-  bamboo_sign: bamboo sign
-  bamboo_slab: bamboo slab
-  bamboo_stairs: bamboo stairs
-  bamboo_trapdoor: bamboo trapdoor
-  bamboo_wall_hanging_sign: bamboo wall hanging sign
-  bamboo_wall_sign: bamboo wall sign
-  barrel: barrel
-  barrier: barrier
-  basalt: basalt
-  bat_spawn_egg: bat spawn egg
-  beacon: beacon
-  bedrock: bedrock
-  bee_nest: bee nest
-  bee_spawn_egg: bee spawn egg
-  beef: beef
-  beehive: beehive
-  beetroot: beetroot
-  beetroot_seeds: beetroot seeds
-  beetroot_soup: beetroot soup
-  beetroots: beetroots
-  bell: bell
-  big_dripleaf: big dripleaf
-  big_dripleaf_stem: big dripleaf stem
-  birch_boat: birch boat
-  birch_button: birch button
-  birch_chest_boat: birch chest boat
-  birch_door: birch door
-  birch_fence: birch fence
-  birch_fence_gate: birch fence gate
-  birch_hanging_sign: birch hanging sign
-  birch_leaves: birch leaves
-  birch_log: birch log
-  birch_planks: birch planks
-  birch_pressure_plate: birch pressure plate
-  birch_sapling: birch sapling
-  birch_shelf: birch shelf
-  birch_sign: birch sign
-  birch_slab: birch slab
-  birch_stairs: birch stairs
-  birch_trapdoor: birch trapdoor
-  birch_wall_hanging_sign: birch wall hanging sign
-  birch_wall_sign: birch wall sign
-  birch_wood: birch wood
-  black_banner: black banner
-  black_bed: black bed
-  black_bundle: black bundle
-  black_candle: black candle
-  black_candle_cake: black candle cake
-  black_carpet: black carpet
-  black_concrete: black concrete
-  black_concrete_powder: black concrete powder
-  black_dye: black dye
-  black_glazed_terracotta: black glazed terracotta
-  black_harness: black harness
-  black_shulker_box: black shulker box
-  black_stained_glass: black stained glass
-  black_stained_glass_pane: black stained glass pane
-  black_terracotta: black terracotta
-  black_wall_banner: black wall banner
-  black_wool: black wool
-  blackstone: blackstone
-  blackstone_slab: blackstone slab
-  blackstone_stairs: blackstone stairs
-  blackstone_wall: blackstone wall
-  blade_pottery_sherd: blade pottery sherd
-  blast_furnace: blast furnace
-  blaze_powder: blaze powder
-  blaze_rod: blaze rod
-  blaze_spawn_egg: blaze spawn egg
-  blue_banner: blue banner
-  blue_bed: blue bed
-  blue_bundle: blue bundle
-  blue_candle: blue candle
-  blue_candle_cake: blue candle cake
-  blue_carpet: blue carpet
-  blue_concrete: blue concrete
-  blue_concrete_powder: blue concrete powder
-  blue_dye: blue dye
-  blue_egg: blue egg
-  blue_glazed_terracotta: blue glazed terracotta
-  blue_harness: blue harness
-  blue_ice: blue ice
-  blue_orchid: blue orchid
-  blue_shulker_box: blue shulker box
-  blue_stained_glass: blue stained glass
-  blue_stained_glass_pane: blue stained glass pane
-  blue_terracotta: blue terracotta
-  blue_wall_banner: blue wall banner
-  blue_wool: blue wool
-  bogged_spawn_egg: bogged spawn egg
-  bolt_armor_trim_smithing_template: bolt armor trim smithing template
-  bone: bone
-  bone_block: bone block
-  bone_meal: bone meal
-  book: book
-  bookshelf: bookshelf
-  bordure_indented_banner_pattern: bordure indented banner pattern
-  bow: bow
-  bowl: bowl
-  brain_coral: brain coral
-  brain_coral_block: brain coral block
-  brain_coral_fan: brain coral fan
-  brain_coral_wall_fan: brain coral wall fan
-  bread: bread
-  breeze_rod: breeze rod
-  breeze_spawn_egg: breeze spawn egg
-  brewer_pottery_sherd: brewer pottery sherd
-  brewing_stand: brewing stand
-  brick: brick
-  brick_slab: brick slab
-  brick_stairs: brick stairs
-  brick_wall: brick wall
-  bricks: bricks
-  brown_banner: brown banner
-  brown_bed: brown bed
-  brown_bundle: brown bundle
-  brown_candle: brown candle
-  brown_candle_cake: brown candle cake
-  brown_carpet: brown carpet
-  brown_concrete: brown concrete
-  brown_concrete_powder: brown concrete powder
-  brown_dye: brown dye
-  brown_egg: brown egg
-  brown_glazed_terracotta: brown glazed terracotta
-  brown_harness: brown harness
-  brown_mushroom: brown mushroom
-  brown_mushroom_block: brown mushroom block
-  brown_shulker_box: brown shulker box
-  brown_stained_glass: brown stained glass
-  brown_stained_glass_pane: brown stained glass pane
-  brown_terracotta: brown terracotta
-  brown_wall_banner: brown wall banner
-  brown_wool: brown wool
-  brush: brush
-  bubble_column: bubble column
-  bubble_coral: bubble coral
-  bubble_coral_block: bubble coral block
-  bubble_coral_fan: bubble coral fan
-  bubble_coral_wall_fan: bubble coral wall fan
-  bucket: bucket
-  budding_amethyst: budding amethyst
-  bundle: bundle
-  burn_pottery_sherd: burn pottery sherd
-  bush: bush
-  cactus: cactus
-  cactus_flower: cactus flower
-  cake: cake
-  calcite: calcite
-  calibrated_sculk_sensor: calibrated sculk sensor
-  camel_spawn_egg: camel spawn egg
-  campfire: campfire
-  candle: candle
-  candle_cake: candle cake
-  carrot: carrot
-  carrot_on_a_stick: carrot on a stick
-  carrots: carrots
-  cartography_table: cartography table
-  carved_pumpkin: carved pumpkin
-  cat_spawn_egg: cat spawn egg
-  cauldron: cauldron
-  cave_air: cave air
-  cave_spider_spawn_egg: cave spider spawn egg
-  cave_vines: cave vines
-  cave_vines_plant: cave vines plant
-  chain_command_block: chain command block
-  chainmail_boots: chainmail boots
-  chainmail_chestplate: chainmail chestplate
-  chainmail_helmet: chainmail helmet
-  chainmail_leggings: chainmail leggings
-  charcoal: charcoal
-  cherry_boat: cherry boat
-  cherry_button: cherry button
-  cherry_chest_boat: cherry chest boat
-  cherry_door: cherry door
-  cherry_fence: cherry fence
-  cherry_fence_gate: cherry fence gate
-  cherry_hanging_sign: cherry hanging sign
-  cherry_leaves: cherry leaves
-  cherry_log: cherry log
-  cherry_planks: cherry planks
-  cherry_pressure_plate: cherry pressure plate
-  cherry_sapling: cherry sapling
-  cherry_shelf: cherry shelf
-  cherry_sign: cherry sign
-  cherry_slab: cherry slab
-  cherry_stairs: cherry stairs
-  cherry_trapdoor: cherry trapdoor
-  cherry_wall_hanging_sign: cherry wall hanging sign
-  cherry_wall_sign: cherry wall sign
-  cherry_wood: cherry wood
-  chest: chest
-  chest_minecart: chest minecart
-  chicken: chicken
-  chicken_spawn_egg: chicken spawn egg
-  chipped_anvil: chipped anvil
-  chiseled_bookshelf: chiseled bookshelf
-  chiseled_copper: chiseled copper
-  chiseled_deepslate: chiseled deepslate
-  chiseled_nether_bricks: chiseled nether bricks
-  chiseled_polished_blackstone: chiseled polished blackstone
-  chiseled_quartz_block: chiseled quartz block
-  chiseled_red_sandstone: chiseled red sandstone
-  chiseled_resin_bricks: chiseled resin bricks
-  chiseled_sandstone: chiseled sandstone
-  chiseled_stone_bricks: chiseled stone bricks
-  chiseled_tuff: chiseled tuff
-  chiseled_tuff_bricks: chiseled tuff bricks
-  chorus_flower: chorus flower
-  chorus_fruit: chorus fruit
-  chorus_plant: chorus plant
-  clay: clay
-  clay_ball: clay ball
-  clock: clock
-  closed_eyeblossom: closed eyeblossom
-  coal: coal
-  coal_block: coal block
-  coal_ore: coal ore
-  coarse_dirt: coarse dirt
-  coast_armor_trim_smithing_template: coast armor trim smithing template
-  cobbled_deepslate: cobbled deepslate
-  cobbled_deepslate_slab: cobbled deepslate slab
-  cobbled_deepslate_stairs: cobbled deepslate stairs
-  cobbled_deepslate_wall: cobbled deepslate wall
-  cobblestone: cobblestone
-  cobblestone_slab: cobblestone slab
-  cobblestone_stairs: cobblestone stairs
-  cobblestone_wall: cobblestone wall
-  cobweb: cobweb
-  cocoa: cocoa
-  cocoa_beans: cocoa beans
-  cod: cod
-  cod_bucket: cod bucket
-  cod_spawn_egg: cod spawn egg
-  command_block: command block
-  command_block_minecart: command block minecart
-  comparator: comparator
-  compass: compass
-  composter: composter
-  conduit: conduit
-  cooked_beef: cooked beef
-  cooked_chicken: cooked chicken
-  cooked_cod: cooked cod
-  cooked_mutton: cooked mutton
-  cooked_porkchop: cooked porkchop
-  cooked_rabbit: cooked rabbit
-  cooked_salmon: cooked salmon
-  cookie: cookie
-  copper_axe: copper axe
-  copper_bars: copper bars
-  copper_block: copper block
-  copper_boots: copper boots
-  copper_bulb: copper bulb
-  copper_chain: copper chain
-  copper_chest: copper chest
-  copper_chestplate: copper chestplate
-  copper_door: copper door
-  copper_golem_spawn_egg: copper golem spawn egg
-  copper_golem_statue: copper golem statue
-  copper_grate: copper grate
-  copper_helmet: copper helmet
-  copper_hoe: copper hoe
-  copper_horse_armor: copper horse armor
-  copper_ingot: copper ingot
-  copper_lantern: copper lantern
-  copper_leggings: copper leggings
-  copper_nugget: copper nugget
-  copper_ore: copper ore
-  copper_pickaxe: copper pickaxe
-  copper_shovel: copper shovel
-  copper_sword: copper sword
-  copper_torch: copper torch
-  copper_trapdoor: copper trapdoor
-  copper_wall_torch: copper wall torch
-  cornflower: cornflower
-  cow_spawn_egg: cow spawn egg
-  cracked_deepslate_bricks: cracked deepslate bricks
-  cracked_deepslate_tiles: cracked deepslate tiles
-  cracked_nether_bricks: cracked nether bricks
-  cracked_polished_blackstone_bricks: cracked polished blackstone bricks
-  cracked_stone_bricks: cracked stone bricks
-  crafter: crafter
-  crafting_table: crafting table
-  creaking_heart: creaking heart
-  creaking_spawn_egg: creaking spawn egg
-  creeper_banner_pattern: creeper banner pattern
-  creeper_head: creeper head
-  creeper_spawn_egg: creeper spawn egg
-  creeper_wall_head: creeper wall head
-  crimson_button: crimson button
-  crimson_door: crimson door
-  crimson_fence: crimson fence
-  crimson_fence_gate: crimson fence gate
-  crimson_fungus: crimson fungus
-  crimson_hanging_sign: crimson hanging sign
-  crimson_hyphae: crimson hyphae
-  crimson_nylium: crimson nylium
-  crimson_planks: crimson planks
-  crimson_pressure_plate: crimson pressure plate
-  crimson_roots: crimson roots
-  crimson_shelf: crimson shelf
-  crimson_sign: crimson sign
-  crimson_slab: crimson slab
-  crimson_stairs: crimson stairs
-  crimson_stem: crimson stem
-  crimson_trapdoor: crimson trapdoor
-  crimson_wall_hanging_sign: crimson wall hanging sign
-  crimson_wall_sign: crimson wall sign
-  crossbow: crossbow
-  crying_obsidian: crying obsidian
-  cut_copper: cut copper
-  cut_copper_slab: cut copper slab
-  cut_copper_stairs: cut copper stairs
-  cut_red_sandstone: cut red sandstone
-  cut_red_sandstone_slab: cut red sandstone slab
-  cut_sandstone: cut sandstone
-  cut_sandstone_slab: cut sandstone slab
-  cyan_banner: cyan banner
-  cyan_bed: cyan bed
-  cyan_bundle: cyan bundle
-  cyan_candle: cyan candle
-  cyan_candle_cake: cyan candle cake
-  cyan_carpet: cyan carpet
-  cyan_concrete: cyan concrete
-  cyan_concrete_powder: cyan concrete powder
-  cyan_dye: cyan dye
-  cyan_glazed_terracotta: cyan glazed terracotta
-  cyan_harness: cyan harness
-  cyan_shulker_box: cyan shulker box
-  cyan_stained_glass: cyan stained glass
-  cyan_stained_glass_pane: cyan stained glass pane
-  cyan_terracotta: cyan terracotta
-  cyan_wall_banner: cyan wall banner
-  cyan_wool: cyan wool
-  damaged_anvil: damaged anvil
-  dandelion: dandelion
-  danger_pottery_sherd: danger pottery sherd
-  dark_oak_boat: dark oak boat
-  dark_oak_button: dark oak button
-  dark_oak_chest_boat: dark oak chest boat
-  dark_oak_door: dark oak door
-  dark_oak_fence: dark oak fence
-  dark_oak_fence_gate: dark oak fence gate
-  dark_oak_hanging_sign: dark oak hanging sign
-  dark_oak_leaves: dark oak leaves
-  dark_oak_log: dark oak log
-  dark_oak_planks: dark oak planks
-  dark_oak_pressure_plate: dark oak pressure plate
-  dark_oak_sapling: dark oak sapling
-  dark_oak_shelf: dark oak shelf
-  dark_oak_sign: dark oak sign
-  dark_oak_slab: dark oak slab
-  dark_oak_stairs: dark oak stairs
-  dark_oak_trapdoor: dark oak trapdoor
-  dark_oak_wall_hanging_sign: dark oak wall hanging sign
-  dark_oak_wall_sign: dark oak wall sign
-  dark_oak_wood: dark oak wood
-  dark_prismarine: dark prismarine
-  dark_prismarine_slab: dark prismarine slab
-  dark_prismarine_stairs: dark prismarine stairs
-  daylight_detector: daylight detector
-  dead_brain_coral: dead brain coral
-  dead_brain_coral_block: dead brain coral block
-  dead_brain_coral_fan: dead brain coral fan
-  dead_brain_coral_wall_fan: dead brain coral wall fan
-  dead_bubble_coral: dead bubble coral
-  dead_bubble_coral_block: dead bubble coral block
-  dead_bubble_coral_fan: dead bubble coral fan
-  dead_bubble_coral_wall_fan: dead bubble coral wall fan
-  dead_bush: dead bush
-  dead_fire_coral: dead fire coral
-  dead_fire_coral_block: dead fire coral block
-  dead_fire_coral_fan: dead fire coral fan
-  dead_fire_coral_wall_fan: dead fire coral wall fan
-  dead_horn_coral: dead horn coral
-  dead_horn_coral_block: dead horn coral block
-  dead_horn_coral_fan: dead horn coral fan
-  dead_horn_coral_wall_fan: dead horn coral wall fan
-  dead_tube_coral: dead tube coral
-  dead_tube_coral_block: dead tube coral block
-  dead_tube_coral_fan: dead tube coral fan
-  dead_tube_coral_wall_fan: dead tube coral wall fan
-  debug_stick: debug stick
-  decorated_pot: decorated pot
-  deepslate: deepslate
-  deepslate_brick_slab: deepslate brick slab
-  deepslate_brick_stairs: deepslate brick stairs
-  deepslate_brick_wall: deepslate brick wall
-  deepslate_bricks: deepslate bricks
-  deepslate_coal_ore: deepslate coal ore
-  deepslate_copper_ore: deepslate copper ore
-  deepslate_diamond_ore: deepslate diamond ore
-  deepslate_emerald_ore: deepslate emerald ore
-  deepslate_gold_ore: deepslate gold ore
-  deepslate_iron_ore: deepslate iron ore
-  deepslate_lapis_ore: deepslate lapis ore
-  deepslate_redstone_ore: deepslate redstone ore
-  deepslate_tile_slab: deepslate tile slab
-  deepslate_tile_stairs: deepslate tile stairs
-  deepslate_tile_wall: deepslate tile wall
-  deepslate_tiles: deepslate tiles
-  detector_rail: detector rail
-  diamond: diamond
-  diamond_axe: diamond axe
-  diamond_block: diamond block
-  diamond_boots: diamond boots
-  diamond_chestplate: diamond chestplate
-  diamond_helmet: diamond helmet
-  diamond_hoe: diamond hoe
-  diamond_horse_armor: diamond horse armor
-  diamond_leggings: diamond leggings
-  diamond_ore: diamond ore
-  diamond_pickaxe: diamond pickaxe
-  diamond_shovel: diamond shovel
-  diamond_sword: diamond sword
-  diorite: diorite
-  diorite_slab: diorite slab
-  diorite_stairs: diorite stairs
-  diorite_wall: diorite wall
-  dirt: dirt
-  dirt_path: dirt path
-  disc_fragment_5: disc fragment 5
-  dispenser: dispenser
-  dolphin_spawn_egg: dolphin spawn egg
-  donkey_spawn_egg: donkey spawn egg
-  dragon_breath: dragon breath
-  dragon_egg: dragon egg
-  dragon_head: dragon head
-  dragon_wall_head: dragon wall head
-  dried_ghast: dried ghast
-  dried_kelp: dried kelp
-  dried_kelp_block: dried kelp block
-  dripstone_block: dripstone block
-  dropper: dropper
-  drowned_spawn_egg: drowned spawn egg
-  dune_armor_trim_smithing_template: dune armor trim smithing template
-  echo_shard: echo shard
-  egg: egg
-  elder_guardian_spawn_egg: elder guardian spawn egg
-  elytra: elytra
-  emerald: emerald
-  emerald_block: emerald block
-  emerald_ore: emerald ore
-  enchanted_book: enchanted book
-  enchanted_golden_apple: enchanted golden apple
-  enchanting_table: enchanting table
-  end_crystal: end crystal
-  end_gateway: end gateway
-  end_portal: end portal
-  end_portal_frame: end portal frame
-  end_rod: end rod
-  end_stone: end stone
-  end_stone_brick_slab: end stone brick slab
-  end_stone_brick_stairs: end stone brick stairs
-  end_stone_brick_wall: end stone brick wall
-  end_stone_bricks: end stone bricks
-  ender_chest: ender chest
-  ender_dragon_spawn_egg: ender dragon spawn egg
-  ender_eye: ender eye
-  ender_pearl: ender pearl
-  enderman_spawn_egg: enderman spawn egg
-  endermite_spawn_egg: endermite spawn egg
-  evoker_spawn_egg: evoker spawn egg
-  experience_bottle: experience bottle
-  explorer_pottery_sherd: explorer pottery sherd
-  exposed_chiseled_copper: exposed chiseled copper
-  exposed_copper: exposed copper
-  exposed_copper_bars: exposed copper bars
-  exposed_copper_bulb: exposed copper bulb
-  exposed_copper_chain: exposed copper chain
-  exposed_copper_chest: exposed copper chest
-  exposed_copper_door: exposed copper door
-  exposed_copper_golem_statue: exposed copper golem statue
-  exposed_copper_grate: exposed copper grate
-  exposed_copper_lantern: exposed copper lantern
-  exposed_copper_trapdoor: exposed copper trapdoor
-  exposed_cut_copper: exposed cut copper
-  exposed_cut_copper_slab: exposed cut copper slab
-  exposed_cut_copper_stairs: exposed cut copper stairs
-  exposed_lightning_rod: exposed lightning rod
-  eye_armor_trim_smithing_template: eye armor trim smithing template
-  farmland: farmland
-  feather: feather
-  fermented_spider_eye: fermented spider eye
-  fern: fern
-  field_masoned_banner_pattern: field masoned banner pattern
-  filled_map: filled map
-  fire: fire
-  fire_charge: fire charge
-  fire_coral: fire coral
-  fire_coral_block: fire coral block
-  fire_coral_fan: fire coral fan
-  fire_coral_wall_fan: fire coral wall fan
-  firefly_bush: firefly bush
-  firework_rocket: firework rocket
-  firework_star: firework star
-  fishing_rod: fishing rod
-  fletching_table: fletching table
-  flint: flint
-  flint_and_steel: flint and steel
-  flow_armor_trim_smithing_template: flow armor trim smithing template
-  flow_banner_pattern: flow banner pattern
-  flow_pottery_sherd: flow pottery sherd
-  flower_banner_pattern: flower banner pattern
-  flower_pot: flower pot
-  flowering_azalea: flowering azalea
-  flowering_azalea_leaves: flowering azalea leaves
-  fox_spawn_egg: fox spawn egg
-  friend_pottery_sherd: friend pottery sherd
-  frog_spawn_egg: frog spawn egg
-  frogspawn: frogspawn
-  frosted_ice: frosted ice
-  furnace: furnace
-  furnace_minecart: furnace minecart
-  ghast_spawn_egg: ghast spawn egg
-  ghast_tear: ghast tear
-  gilded_blackstone: gilded blackstone
-  glass: glass
-  glass_bottle: glass bottle
-  glass_pane: glass pane
-  glistering_melon_slice: glistering melon slice
-  globe_banner_pattern: globe banner pattern
-  glow_berries: glow berries
-  glow_ink_sac: glow ink sac
-  glow_item_frame: glow item frame
-  glow_lichen: glow lichen
-  glow_squid_spawn_egg: glow squid spawn egg
-  glowstone: glowstone
-  glowstone_dust: glowstone dust
-  goat_horn: goat horn
-  goat_spawn_egg: goat spawn egg
-  gold_block: gold block
-  gold_ingot: gold ingot
-  gold_nugget: gold nugget
-  gold_ore: gold ore
-  golden_apple: golden apple
-  golden_axe: golden axe
-  golden_boots: golden boots
-  golden_carrot: golden carrot
-  golden_chestplate: golden chestplate
-  golden_helmet: golden helmet
-  golden_hoe: golden hoe
-  golden_horse_armor: golden horse armor
-  golden_leggings: golden leggings
-  golden_pickaxe: golden pickaxe
-  golden_shovel: golden shovel
-  golden_sword: golden sword
-  granite: granite
-  granite_slab: granite slab
-  granite_stairs: granite stairs
-  granite_wall: granite wall
-  grass_block: grass block
-  gravel: gravel
-  gray_banner: gray banner
-  gray_bed: gray bed
-  gray_bundle: gray bundle
-  gray_candle: gray candle
-  gray_candle_cake: gray candle cake
-  gray_carpet: gray carpet
-  gray_concrete: gray concrete
-  gray_concrete_powder: gray concrete powder
-  gray_dye: gray dye
-  gray_glazed_terracotta: gray glazed terracotta
-  gray_harness: gray harness
-  gray_shulker_box: gray shulker box
-  gray_stained_glass: gray stained glass
-  gray_stained_glass_pane: gray stained glass pane
-  gray_terracotta: gray terracotta
-  gray_wall_banner: gray wall banner
-  gray_wool: gray wool
-  green_banner: green banner
-  green_bed: green bed
-  green_bundle: green bundle
-  green_candle: green candle
-  green_candle_cake: green candle cake
-  green_carpet: green carpet
-  green_concrete: green concrete
-  green_concrete_powder: green concrete powder
-  green_dye: green dye
-  green_glazed_terracotta: green glazed terracotta
-  green_harness: green harness
-  green_shulker_box: green shulker box
-  green_stained_glass: green stained glass
-  green_stained_glass_pane: green stained glass pane
-  green_terracotta: green terracotta
-  green_wall_banner: green wall banner
-  green_wool: green wool
-  grindstone: grindstone
-  guardian_spawn_egg: guardian spawn egg
-  gunpowder: gunpowder
-  guster_banner_pattern: guster banner pattern
-  guster_pottery_sherd: guster pottery sherd
-  hanging_roots: hanging roots
-  happy_ghast_spawn_egg: happy ghast spawn egg
-  hay_block: hay block
-  heart_of_the_sea: heart of the sea
-  heart_pottery_sherd: heart pottery sherd
-  heartbreak_pottery_sherd: heartbreak pottery sherd
-  heavy_core: heavy core
-  heavy_weighted_pressure_plate: heavy weighted pressure plate
-  hoglin_spawn_egg: hoglin spawn egg
-  honey_block: honey block
-  honey_bottle: honey bottle
-  honeycomb: honeycomb
-  honeycomb_block: honeycomb block
-  hopper: hopper
-  hopper_minecart: hopper minecart
-  horn_coral: horn coral
-  horn_coral_block: horn coral block
-  horn_coral_fan: horn coral fan
-  horn_coral_wall_fan: horn coral wall fan
-  horse_spawn_egg: horse spawn egg
-  host_armor_trim_smithing_template: host armor trim smithing template
-  howl_pottery_sherd: howl pottery sherd
-  husk_spawn_egg: husk spawn egg
-  ice: ice
-  infested_chiseled_stone_bricks: infested chiseled stone bricks
-  infested_cobblestone: infested cobblestone
-  infested_cracked_stone_bricks: infested cracked stone bricks
-  infested_deepslate: infested deepslate
-  infested_mossy_stone_bricks: infested mossy stone bricks
-  infested_stone: infested stone
-  infested_stone_bricks: infested stone bricks
-  ink_sac: ink sac
-  iron_axe: iron axe
-  iron_bars: iron bars
-  iron_block: iron block
-  iron_boots: iron boots
-  iron_chain: iron chain
-  iron_chestplate: iron chestplate
-  iron_door: iron door
-  iron_golem_spawn_egg: iron golem spawn egg
-  iron_helmet: iron helmet
-  iron_hoe: iron hoe
-  iron_horse_armor: iron horse armor
-  iron_ingot: iron ingot
-  iron_leggings: iron leggings
-  iron_nugget: iron nugget
-  iron_ore: iron ore
-  iron_pickaxe: iron pickaxe
-  iron_shovel: iron shovel
-  iron_sword: iron sword
-  iron_trapdoor: iron trapdoor
-  item_frame: item frame
-  jack_o_lantern: jack o lantern
-  jigsaw: jigsaw
-  jukebox: jukebox
-  jungle_boat: jungle boat
-  jungle_button: jungle button
-  jungle_chest_boat: jungle chest boat
-  jungle_door: jungle door
-  jungle_fence: jungle fence
-  jungle_fence_gate: jungle fence gate
-  jungle_hanging_sign: jungle hanging sign
-  jungle_leaves: jungle leaves
-  jungle_log: jungle log
-  jungle_planks: jungle planks
-  jungle_pressure_plate: jungle pressure plate
-  jungle_sapling: jungle sapling
-  jungle_shelf: jungle shelf
-  jungle_sign: jungle sign
-  jungle_slab: jungle slab
-  jungle_stairs: jungle stairs
-  jungle_trapdoor: jungle trapdoor
-  jungle_wall_hanging_sign: jungle wall hanging sign
-  jungle_wall_sign: jungle wall sign
-  jungle_wood: jungle wood
-  kelp: kelp
-  kelp_plant: kelp plant
-  knowledge_book: knowledge book
-  ladder: ladder
-  lantern: lantern
-  lapis_block: lapis block
-  lapis_lazuli: lapis lazuli
-  lapis_ore: lapis ore
-  large_amethyst_bud: large amethyst bud
-  large_fern: large fern
-  lava: lava
-  lava_bucket: lava bucket
-  lava_cauldron: lava cauldron
-  lead: lead
-  leaf_litter: leaf litter
-  leather: leather
-  leather_boots: leather boots
-  leather_chestplate: leather chestplate
-  leather_helmet: leather helmet
-  leather_horse_armor: leather horse armor
-  leather_leggings: leather leggings
-  lectern: lectern
-  legacy_acacia_door: legacy acacia door
-  legacy_acacia_door_item: legacy acacia door item
-  legacy_acacia_fence: legacy acacia fence
-  legacy_acacia_fence_gate: legacy acacia fence gate
-  legacy_acacia_stairs: legacy acacia stairs
-  legacy_activator_rail: legacy activator rail
-  legacy_air: legacy air
-  legacy_anvil: legacy anvil
-  legacy_apple: legacy apple
-  legacy_armor_stand: legacy armor stand
-  legacy_arrow: legacy arrow
-  legacy_baked_potato: legacy baked potato
-  legacy_banner: legacy banner
-  legacy_barrier: legacy barrier
-  legacy_beacon: legacy beacon
-  legacy_bed: legacy bed
-  legacy_bed_block: legacy bed block
-  legacy_bedrock: legacy bedrock
-  legacy_beetroot: legacy beetroot
-  legacy_beetroot_block: legacy beetroot block
-  legacy_beetroot_seeds: legacy beetroot seeds
-  legacy_beetroot_soup: legacy beetroot soup
-  legacy_birch_door: legacy birch door
-  legacy_birch_door_item: legacy birch door item
-  legacy_birch_fence: legacy birch fence
-  legacy_birch_fence_gate: legacy birch fence gate
-  legacy_birch_wood_stairs: legacy birch wood stairs
-  legacy_black_glazed_terracotta: legacy black glazed terracotta
-  legacy_black_shulker_box: legacy black shulker box
-  legacy_blaze_powder: legacy blaze powder
-  legacy_blaze_rod: legacy blaze rod
-  legacy_blue_glazed_terracotta: legacy blue glazed terracotta
-  legacy_blue_shulker_box: legacy blue shulker box
-  legacy_boat: legacy boat
-  legacy_boat_acacia: legacy boat acacia
-  legacy_boat_birch: legacy boat birch
-  legacy_boat_dark_oak: legacy boat dark oak
-  legacy_boat_jungle: legacy boat jungle
-  legacy_boat_spruce: legacy boat spruce
-  legacy_bone: legacy bone
-  legacy_bone_block: legacy bone block
-  legacy_book: legacy book
-  legacy_book_and_quill: legacy book and quill
-  legacy_bookshelf: legacy bookshelf
-  legacy_bow: legacy bow
-  legacy_bowl: legacy bowl
-  legacy_bread: legacy bread
-  legacy_brewing_stand: legacy brewing stand
-  legacy_brewing_stand_item: legacy brewing stand item
-  legacy_brick: legacy brick
-  legacy_brick_stairs: legacy brick stairs
-  legacy_brown_glazed_terracotta: legacy brown glazed terracotta
-  legacy_brown_mushroom: legacy brown mushroom
-  legacy_brown_shulker_box: legacy brown shulker box
-  legacy_bucket: legacy bucket
-  legacy_burning_furnace: legacy burning furnace
-  legacy_cactus: legacy cactus
-  legacy_cake: legacy cake
-  legacy_cake_block: legacy cake block
-  legacy_carpet: legacy carpet
-  legacy_carrot: legacy carrot
-  legacy_carrot_item: legacy carrot item
-  legacy_carrot_stick: legacy carrot stick
-  legacy_cauldron: legacy cauldron
-  legacy_cauldron_item: legacy cauldron item
-  legacy_chainmail_boots: legacy chainmail boots
-  legacy_chainmail_chestplate: legacy chainmail chestplate
-  legacy_chainmail_helmet: legacy chainmail helmet
-  legacy_chainmail_leggings: legacy chainmail leggings
-  legacy_chest: legacy chest
-  legacy_chorus_flower: legacy chorus flower
-  legacy_chorus_fruit: legacy chorus fruit
-  legacy_chorus_fruit_popped: legacy chorus fruit popped
-  legacy_chorus_plant: legacy chorus plant
-  legacy_clay: legacy clay
-  legacy_clay_ball: legacy clay ball
-  legacy_clay_brick: legacy clay brick
-  legacy_coal: legacy coal
-  legacy_coal_block: legacy coal block
-  legacy_coal_ore: legacy coal ore
-  legacy_cobble_wall: legacy cobble wall
-  legacy_cobblestone: legacy cobblestone
-  legacy_cobblestone_stairs: legacy cobblestone stairs
-  legacy_cocoa: legacy cocoa
-  legacy_command: legacy command
-  legacy_command_chain: legacy command chain
-  legacy_command_minecart: legacy command minecart
-  legacy_command_repeating: legacy command repeating
-  legacy_compass: legacy compass
-  legacy_concrete: legacy concrete
-  legacy_concrete_powder: legacy concrete powder
-  legacy_cooked_beef: legacy cooked beef
-  legacy_cooked_chicken: legacy cooked chicken
-  legacy_cooked_fish: legacy cooked fish
-  legacy_cooked_mutton: legacy cooked mutton
-  legacy_cooked_rabbit: legacy cooked rabbit
-  legacy_cookie: legacy cookie
-  legacy_crops: legacy crops
-  legacy_cyan_glazed_terracotta: legacy cyan glazed terracotta
-  legacy_cyan_shulker_box: legacy cyan shulker box
-  legacy_dark_oak_door: legacy dark oak door
-  legacy_dark_oak_door_item: legacy dark oak door item
-  legacy_dark_oak_fence: legacy dark oak fence
-  legacy_dark_oak_fence_gate: legacy dark oak fence gate
-  legacy_dark_oak_stairs: legacy dark oak stairs
-  legacy_daylight_detector: legacy daylight detector
-  legacy_daylight_detector_inverted: legacy daylight detector inverted
-  legacy_dead_bush: legacy dead bush
-  legacy_detector_rail: legacy detector rail
-  legacy_diamond: legacy diamond
-  legacy_diamond_axe: legacy diamond axe
-  legacy_diamond_barding: legacy diamond barding
-  legacy_diamond_block: legacy diamond block
-  legacy_diamond_boots: legacy diamond boots
-  legacy_diamond_chestplate: legacy diamond chestplate
-  legacy_diamond_helmet: legacy diamond helmet
-  legacy_diamond_hoe: legacy diamond hoe
-  legacy_diamond_leggings: legacy diamond leggings
-  legacy_diamond_ore: legacy diamond ore
-  legacy_diamond_pickaxe: legacy diamond pickaxe
-  legacy_diamond_spade: legacy diamond spade
-  legacy_diamond_sword: legacy diamond sword
-  legacy_diode: legacy diode
-  legacy_diode_block_off: legacy diode block off
-  legacy_diode_block_on: legacy diode block on
-  legacy_dirt: legacy dirt
-  legacy_dispenser: legacy dispenser
-  legacy_double_plant: legacy double plant
-  legacy_double_step: legacy double step
-  legacy_double_stone_slab2: legacy double stone slab2
-  legacy_dragon_egg: legacy dragon egg
-  legacy_dragons_breath: legacy dragons breath
-  legacy_dropper: legacy dropper
-  legacy_egg: legacy egg
-  legacy_elytra: legacy elytra
-  legacy_emerald: legacy emerald
-  legacy_emerald_block: legacy emerald block
-  legacy_emerald_ore: legacy emerald ore
-  legacy_empty_map: legacy empty map
-  legacy_enchanted_book: legacy enchanted book
-  legacy_enchantment_table: legacy enchantment table
-  legacy_end_bricks: legacy end bricks
-  legacy_end_crystal: legacy end crystal
-  legacy_end_gateway: legacy end gateway
-  legacy_end_rod: legacy end rod
-  legacy_ender_chest: legacy ender chest
-  legacy_ender_pearl: legacy ender pearl
-  legacy_ender_portal: legacy ender portal
-  legacy_ender_portal_frame: legacy ender portal frame
-  legacy_ender_stone: legacy ender stone
-  legacy_exp_bottle: legacy exp bottle
-  legacy_explosive_minecart: legacy explosive minecart
-  legacy_eye_of_ender: legacy eye of ender
-  legacy_feather: legacy feather
-  legacy_fence: legacy fence
-  legacy_fence_gate: legacy fence gate
-  legacy_fermented_spider_eye: legacy fermented spider eye
-  legacy_fire: legacy fire
-  legacy_fireball: legacy fireball
-  legacy_firework: legacy firework
-  legacy_firework_charge: legacy firework charge
-  legacy_fishing_rod: legacy fishing rod
-  legacy_flint: legacy flint
-  legacy_flint_and_steel: legacy flint and steel
-  legacy_flower_pot: legacy flower pot
-  legacy_flower_pot_item: legacy flower pot item
-  legacy_frosted_ice: legacy frosted ice
-  legacy_furnace: legacy furnace
-  legacy_ghast_tear: legacy ghast tear
-  legacy_glass: legacy glass
-  legacy_glass_bottle: legacy glass bottle
-  legacy_glowing_redstone_ore: legacy glowing redstone ore
-  legacy_glowstone: legacy glowstone
-  legacy_glowstone_dust: legacy glowstone dust
-  legacy_gold_axe: legacy gold axe
-  legacy_gold_barding: legacy gold barding
-  legacy_gold_block: legacy gold block
-  legacy_gold_boots: legacy gold boots
-  legacy_gold_chestplate: legacy gold chestplate
-  legacy_gold_helmet: legacy gold helmet
-  legacy_gold_hoe: legacy gold hoe
-  legacy_gold_ingot: legacy gold ingot
-  legacy_gold_leggings: legacy gold leggings
-  legacy_gold_nugget: legacy gold nugget
-  legacy_gold_ore: legacy gold ore
-  legacy_gold_pickaxe: legacy gold pickaxe
-  legacy_gold_plate: legacy gold plate
-  legacy_gold_record: legacy gold record
-  legacy_gold_spade: legacy gold spade
-  legacy_gold_sword: legacy gold sword
-  legacy_golden_apple: legacy golden apple
-  legacy_golden_carrot: legacy golden carrot
-  legacy_grass: legacy grass
-  legacy_grass_path: legacy grass path
-  legacy_gravel: legacy gravel
-  legacy_gray_glazed_terracotta: legacy gray glazed terracotta
-  legacy_gray_shulker_box: legacy gray shulker box
-  legacy_green_glazed_terracotta: legacy green glazed terracotta
-  legacy_green_record: legacy green record
-  legacy_green_shulker_box: legacy green shulker box
-  legacy_grilled_pork: legacy grilled pork
-  legacy_hard_clay: legacy hard clay
-  legacy_hay_block: legacy hay block
-  legacy_hopper: legacy hopper
-  legacy_hopper_minecart: legacy hopper minecart
-  legacy_huge_mushroom_1: legacy huge mushroom 1
-  legacy_huge_mushroom_2: legacy huge mushroom 2
-  legacy_ice: legacy ice
-  legacy_ink_sack: legacy ink sack
-  legacy_iron_axe: legacy iron axe
-  legacy_iron_barding: legacy iron barding
-  legacy_iron_block: legacy iron block
-  legacy_iron_boots: legacy iron boots
-  legacy_iron_chestplate: legacy iron chestplate
-  legacy_iron_door: legacy iron door
-  legacy_iron_door_block: legacy iron door block
-  legacy_iron_fence: legacy iron fence
-  legacy_iron_helmet: legacy iron helmet
-  legacy_iron_hoe: legacy iron hoe
-  legacy_iron_ingot: legacy iron ingot
-  legacy_iron_leggings: legacy iron leggings
-  legacy_iron_nugget: legacy iron nugget
-  legacy_iron_ore: legacy iron ore
-  legacy_iron_pickaxe: legacy iron pickaxe
-  legacy_iron_plate: legacy iron plate
-  legacy_iron_spade: legacy iron spade
-  legacy_iron_sword: legacy iron sword
-  legacy_iron_trapdoor: legacy iron trapdoor
-  legacy_item_frame: legacy item frame
-  legacy_jack_o_lantern: legacy jack o lantern
-  legacy_jukebox: legacy jukebox
-  legacy_jungle_door: legacy jungle door
-  legacy_jungle_door_item: legacy jungle door item
-  legacy_jungle_fence: legacy jungle fence
-  legacy_jungle_fence_gate: legacy jungle fence gate
-  legacy_jungle_wood_stairs: legacy jungle wood stairs
-  legacy_knowledge_book: legacy knowledge book
-  legacy_ladder: legacy ladder
-  legacy_lapis_block: legacy lapis block
-  legacy_lapis_ore: legacy lapis ore
-  legacy_lava: legacy lava
-  legacy_lava_bucket: legacy lava bucket
-  legacy_leash: legacy leash
-  legacy_leather: legacy leather
-  legacy_leather_boots: legacy leather boots
-  legacy_leather_chestplate: legacy leather chestplate
-  legacy_leather_helmet: legacy leather helmet
-  legacy_leather_leggings: legacy leather leggings
-  legacy_leaves: legacy leaves
-  legacy_leaves_2: legacy leaves 2
-  legacy_lever: legacy lever
-  legacy_light_blue_glazed_terracotta: legacy light blue glazed terracotta
-  legacy_light_blue_shulker_box: legacy light blue shulker box
-  legacy_lime_glazed_terracotta: legacy lime glazed terracotta
-  legacy_lime_shulker_box: legacy lime shulker box
-  legacy_lingering_potion: legacy lingering potion
-  legacy_log: legacy log
-  legacy_log_2: legacy log 2
-  legacy_long_grass: legacy long grass
-  legacy_magenta_glazed_terracotta: legacy magenta glazed terracotta
-  legacy_magenta_shulker_box: legacy magenta shulker box
-  legacy_magma: legacy magma
-  legacy_magma_cream: legacy magma cream
-  legacy_map: legacy map
-  legacy_melon: legacy melon
-  legacy_melon_block: legacy melon block
-  legacy_melon_seeds: legacy melon seeds
-  legacy_melon_stem: legacy melon stem
-  legacy_milk_bucket: legacy milk bucket
-  legacy_minecart: legacy minecart
-  legacy_mob_spawner: legacy mob spawner
-  legacy_monster_egg: legacy monster egg
-  legacy_monster_eggs: legacy monster eggs
-  legacy_mossy_cobblestone: legacy mossy cobblestone
-  legacy_mushroom_soup: legacy mushroom soup
-  legacy_mutton: legacy mutton
-  legacy_mycel: legacy mycel
-  legacy_name_tag: legacy name tag
-  legacy_nether_brick: legacy nether brick
-  legacy_nether_brick_item: legacy nether brick item
-  legacy_nether_brick_stairs: legacy nether brick stairs
-  legacy_nether_fence: legacy nether fence
-  legacy_nether_stalk: legacy nether stalk
-  legacy_nether_star: legacy nether star
-  legacy_nether_wart_block: legacy nether wart block
-  legacy_nether_warts: legacy nether warts
-  legacy_netherrack: legacy netherrack
-  legacy_note_block: legacy note block
-  legacy_observer: legacy observer
-  legacy_obsidian: legacy obsidian
-  legacy_orange_glazed_terracotta: legacy orange glazed terracotta
-  legacy_orange_shulker_box: legacy orange shulker box
-  legacy_packed_ice: legacy packed ice
-  legacy_painting: legacy painting
-  legacy_paper: legacy paper
-  legacy_pink_glazed_terracotta: legacy pink glazed terracotta
-  legacy_pink_shulker_box: legacy pink shulker box
-  legacy_piston_base: legacy piston base
-  legacy_piston_extension: legacy piston extension
-  legacy_piston_moving_piece: legacy piston moving piece
-  legacy_piston_sticky_base: legacy piston sticky base
-  legacy_poisonous_potato: legacy poisonous potato
-  legacy_pork: legacy pork
-  legacy_portal: legacy portal
-  legacy_potato: legacy potato
-  legacy_potato_item: legacy potato item
-  legacy_potion: legacy potion
-  legacy_powered_minecart: legacy powered minecart
-  legacy_powered_rail: legacy powered rail
-  legacy_prismarine: legacy prismarine
-  legacy_prismarine_crystals: legacy prismarine crystals
-  legacy_prismarine_shard: legacy prismarine shard
-  legacy_pumpkin: legacy pumpkin
-  legacy_pumpkin_pie: legacy pumpkin pie
-  legacy_pumpkin_seeds: legacy pumpkin seeds
-  legacy_pumpkin_stem: legacy pumpkin stem
-  legacy_purple_glazed_terracotta: legacy purple glazed terracotta
-  legacy_purple_shulker_box: legacy purple shulker box
-  legacy_purpur_block: legacy purpur block
-  legacy_purpur_double_slab: legacy purpur double slab
-  legacy_purpur_pillar: legacy purpur pillar
-  legacy_purpur_slab: legacy purpur slab
-  legacy_purpur_stairs: legacy purpur stairs
-  legacy_quartz: legacy quartz
-  legacy_quartz_block: legacy quartz block
-  legacy_quartz_ore: legacy quartz ore
-  legacy_quartz_stairs: legacy quartz stairs
-  legacy_rabbit: legacy rabbit
-  legacy_rabbit_foot: legacy rabbit foot
-  legacy_rabbit_hide: legacy rabbit hide
-  legacy_rabbit_stew: legacy rabbit stew
-  legacy_rails: legacy rails
-  legacy_raw_beef: legacy raw beef
-  legacy_raw_chicken: legacy raw chicken
-  legacy_raw_fish: legacy raw fish
-  legacy_record_10: legacy record 10
-  legacy_record_11: legacy record 11
-  legacy_record_12: legacy record 12
-  legacy_record_3: legacy record 3
-  legacy_record_4: legacy record 4
-  legacy_record_5: legacy record 5
-  legacy_record_6: legacy record 6
-  legacy_record_7: legacy record 7
-  legacy_record_8: legacy record 8
-  legacy_record_9: legacy record 9
-  legacy_red_glazed_terracotta: legacy red glazed terracotta
-  legacy_red_mushroom: legacy red mushroom
-  legacy_red_nether_brick: legacy red nether brick
-  legacy_red_rose: legacy red rose
-  legacy_red_sandstone: legacy red sandstone
-  legacy_red_sandstone_stairs: legacy red sandstone stairs
-  legacy_red_shulker_box: legacy red shulker box
-  legacy_redstone: legacy redstone
-  legacy_redstone_block: legacy redstone block
-  legacy_redstone_comparator: legacy redstone comparator
-  legacy_redstone_comparator_off: legacy redstone comparator off
-  legacy_redstone_comparator_on: legacy redstone comparator on
-  legacy_redstone_lamp_off: legacy redstone lamp off
-  legacy_redstone_lamp_on: legacy redstone lamp on
-  legacy_redstone_ore: legacy redstone ore
-  legacy_redstone_torch_off: legacy redstone torch off
-  legacy_redstone_torch_on: legacy redstone torch on
-  legacy_redstone_wire: legacy redstone wire
-  legacy_rotten_flesh: legacy rotten flesh
-  legacy_saddle: legacy saddle
-  legacy_sand: legacy sand
-  legacy_sandstone: legacy sandstone
-  legacy_sandstone_stairs: legacy sandstone stairs
-  legacy_sapling: legacy sapling
-  legacy_sea_lantern: legacy sea lantern
-  legacy_seeds: legacy seeds
-  legacy_shears: legacy shears
-  legacy_shield: legacy shield
-  legacy_shulker_shell: legacy shulker shell
-  legacy_sign: legacy sign
-  legacy_sign_post: legacy sign post
-  legacy_silver_glazed_terracotta: legacy silver glazed terracotta
-  legacy_silver_shulker_box: legacy silver shulker box
-  legacy_skull: legacy skull
-  legacy_skull_item: legacy skull item
-  legacy_slime_ball: legacy slime ball
-  legacy_slime_block: legacy slime block
-  legacy_smooth_brick: legacy smooth brick
-  legacy_smooth_stairs: legacy smooth stairs
-  legacy_snow: legacy snow
-  legacy_snow_ball: legacy snow ball
-  legacy_snow_block: legacy snow block
-  legacy_soil: legacy soil
-  legacy_soul_sand: legacy soul sand
-  legacy_speckled_melon: legacy speckled melon
-  legacy_spectral_arrow: legacy spectral arrow
-  legacy_spider_eye: legacy spider eye
-  legacy_splash_potion: legacy splash potion
-  legacy_sponge: legacy sponge
-  legacy_spruce_door: legacy spruce door
-  legacy_spruce_door_item: legacy spruce door item
-  legacy_spruce_fence: legacy spruce fence
-  legacy_spruce_fence_gate: legacy spruce fence gate
-  legacy_spruce_wood_stairs: legacy spruce wood stairs
-  legacy_stained_clay: legacy stained clay
-  legacy_stained_glass: legacy stained glass
-  legacy_stained_glass_pane: legacy stained glass pane
-  legacy_standing_banner: legacy standing banner
-  legacy_stationary_lava: legacy stationary lava
-  legacy_stationary_water: legacy stationary water
-  legacy_step: legacy step
-  legacy_stick: legacy stick
-  legacy_stone: legacy stone
-  legacy_stone_axe: legacy stone axe
-  legacy_stone_button: legacy stone button
-  legacy_stone_hoe: legacy stone hoe
-  legacy_stone_pickaxe: legacy stone pickaxe
-  legacy_stone_plate: legacy stone plate
-  legacy_stone_slab2: legacy stone slab2
-  legacy_stone_spade: legacy stone spade
-  legacy_stone_sword: legacy stone sword
-  legacy_storage_minecart: legacy storage minecart
-  legacy_string: legacy string
-  legacy_structure_block: legacy structure block
-  legacy_structure_void: legacy structure void
-  legacy_sugar: legacy sugar
-  legacy_sugar_cane: legacy sugar cane
-  legacy_sugar_cane_block: legacy sugar cane block
-  legacy_sulphur: legacy sulphur
-  legacy_thin_glass: legacy thin glass
-  legacy_tipped_arrow: legacy tipped arrow
-  legacy_tnt: legacy tnt
-  legacy_torch: legacy torch
-  legacy_totem: legacy totem
-  legacy_trap_door: legacy trap door
-  legacy_trapped_chest: legacy trapped chest
-  legacy_tripwire: legacy tripwire
-  legacy_tripwire_hook: legacy tripwire hook
-  legacy_vine: legacy vine
-  legacy_wall_banner: legacy wall banner
-  legacy_wall_sign: legacy wall sign
-  legacy_watch: legacy watch
-  legacy_water: legacy water
-  legacy_water_bucket: legacy water bucket
-  legacy_water_lily: legacy water lily
-  legacy_web: legacy web
-  legacy_wheat: legacy wheat
-  legacy_white_glazed_terracotta: legacy white glazed terracotta
-  legacy_white_shulker_box: legacy white shulker box
-  legacy_wood: legacy wood
-  legacy_wood_axe: legacy wood axe
-  legacy_wood_button: legacy wood button
-  legacy_wood_door: legacy wood door
-  legacy_wood_double_step: legacy wood double step
-  legacy_wood_hoe: legacy wood hoe
-  legacy_wood_pickaxe: legacy wood pickaxe
-  legacy_wood_plate: legacy wood plate
-  legacy_wood_spade: legacy wood spade
-  legacy_wood_stairs: legacy wood stairs
-  legacy_wood_step: legacy wood step
-  legacy_wood_sword: legacy wood sword
-  legacy_wooden_door: legacy wooden door
-  legacy_wool: legacy wool
-  legacy_workbench: legacy workbench
-  legacy_written_book: legacy written book
-  legacy_yellow_flower: legacy yellow flower
-  legacy_yellow_glazed_terracotta: legacy yellow glazed terracotta
-  legacy_yellow_shulker_box: legacy yellow shulker box
-  lever: lever
-  light: light
-  light_blue_banner: light blue banner
-  light_blue_bed: light blue bed
-  light_blue_bundle: light blue bundle
-  light_blue_candle: light blue candle
-  light_blue_candle_cake: light blue candle cake
-  light_blue_carpet: light blue carpet
-  light_blue_concrete: light blue concrete
-  light_blue_concrete_powder: light blue concrete powder
-  light_blue_dye: light blue dye
-  light_blue_glazed_terracotta: light blue glazed terracotta
-  light_blue_harness: light blue harness
-  light_blue_shulker_box: light blue shulker box
-  light_blue_stained_glass: light blue stained glass
-  light_blue_stained_glass_pane: light blue stained glass pane
-  light_blue_terracotta: light blue terracotta
-  light_blue_wall_banner: light blue wall banner
-  light_blue_wool: light blue wool
-  light_gray_banner: light gray banner
-  light_gray_bed: light gray bed
-  light_gray_bundle: light gray bundle
-  light_gray_candle: light gray candle
-  light_gray_candle_cake: light gray candle cake
-  light_gray_carpet: light gray carpet
-  light_gray_concrete: light gray concrete
-  light_gray_concrete_powder: light gray concrete powder
-  light_gray_dye: light gray dye
-  light_gray_glazed_terracotta: light gray glazed terracotta
-  light_gray_harness: light gray harness
-  light_gray_shulker_box: light gray shulker box
-  light_gray_stained_glass: light gray stained glass
-  light_gray_stained_glass_pane: light gray stained glass pane
-  light_gray_terracotta: light gray terracotta
-  light_gray_wall_banner: light gray wall banner
-  light_gray_wool: light gray wool
-  light_weighted_pressure_plate: light weighted pressure plate
-  lightning_rod: lightning rod
-  lilac: lilac
-  lily_of_the_valley: lily of the valley
-  lily_pad: lily pad
-  lime_banner: lime banner
-  lime_bed: lime bed
-  lime_bundle: lime bundle
-  lime_candle: lime candle
-  lime_candle_cake: lime candle cake
-  lime_carpet: lime carpet
-  lime_concrete: lime concrete
-  lime_concrete_powder: lime concrete powder
-  lime_dye: lime dye
-  lime_glazed_terracotta: lime glazed terracotta
-  lime_harness: lime harness
-  lime_shulker_box: lime shulker box
-  lime_stained_glass: lime stained glass
-  lime_stained_glass_pane: lime stained glass pane
-  lime_terracotta: lime terracotta
-  lime_wall_banner: lime wall banner
-  lime_wool: lime wool
-  lingering_potion: lingering potion
-  llama_spawn_egg: llama spawn egg
-  lodestone: lodestone
-  loom: loom
-  mace: mace
-  magenta_banner: magenta banner
-  magenta_bed: magenta bed
-  magenta_bundle: magenta bundle
-  magenta_candle: magenta candle
-  magenta_candle_cake: magenta candle cake
-  magenta_carpet: magenta carpet
-  magenta_concrete: magenta concrete
-  magenta_concrete_powder: magenta concrete powder
-  magenta_dye: magenta dye
-  magenta_glazed_terracotta: magenta glazed terracotta
-  magenta_harness: magenta harness
-  magenta_shulker_box: magenta shulker box
-  magenta_stained_glass: magenta stained glass
-  magenta_stained_glass_pane: magenta stained glass pane
-  magenta_terracotta: magenta terracotta
-  magenta_wall_banner: magenta wall banner
-  magenta_wool: magenta wool
-  magma_block: magma block
-  magma_cream: magma cream
-  magma_cube_spawn_egg: magma cube spawn egg
-  mangrove_boat: mangrove boat
-  mangrove_button: mangrove button
-  mangrove_chest_boat: mangrove chest boat
-  mangrove_door: mangrove door
-  mangrove_fence: mangrove fence
-  mangrove_fence_gate: mangrove fence gate
-  mangrove_hanging_sign: mangrove hanging sign
-  mangrove_leaves: mangrove leaves
-  mangrove_log: mangrove log
-  mangrove_planks: mangrove planks
-  mangrove_pressure_plate: mangrove pressure plate
-  mangrove_propagule: mangrove propagule
-  mangrove_roots: mangrove roots
-  mangrove_shelf: mangrove shelf
-  mangrove_sign: mangrove sign
-  mangrove_slab: mangrove slab
-  mangrove_stairs: mangrove stairs
-  mangrove_trapdoor: mangrove trapdoor
-  mangrove_wall_hanging_sign: mangrove wall hanging sign
-  mangrove_wall_sign: mangrove wall sign
-  mangrove_wood: mangrove wood
-  map: map
-  medium_amethyst_bud: medium amethyst bud
-  melon: melon
-  melon_seeds: melon seeds
-  melon_slice: melon slice
-  melon_stem: melon stem
-  milk_bucket: milk bucket
-  minecart: minecart
-  miner_pottery_sherd: miner pottery sherd
-  mojang_banner_pattern: mojang banner pattern
-  mooshroom_spawn_egg: mooshroom spawn egg
-  moss_block: moss block
-  moss_carpet: moss carpet
-  mossy_cobblestone: mossy cobblestone
-  mossy_cobblestone_slab: mossy cobblestone slab
-  mossy_cobblestone_stairs: mossy cobblestone stairs
-  mossy_cobblestone_wall: mossy cobblestone wall
-  mossy_stone_brick_slab: mossy stone brick slab
-  mossy_stone_brick_stairs: mossy stone brick stairs
-  mossy_stone_brick_wall: mossy stone brick wall
-  mossy_stone_bricks: mossy stone bricks
-  mourner_pottery_sherd: mourner pottery sherd
-  moving_piston: moving piston
-  mud: mud
-  mud_brick_slab: mud brick slab
-  mud_brick_stairs: mud brick stairs
-  mud_brick_wall: mud brick wall
-  mud_bricks: mud bricks
-  muddy_mangrove_roots: muddy mangrove roots
-  mule_spawn_egg: mule spawn egg
-  mushroom_stem: mushroom stem
-  mushroom_stew: mushroom stew
-  music_disc_11: music disc 11
-  music_disc_13: music disc 13
-  music_disc_5: music disc 5
-  music_disc_blocks: music disc blocks
-  music_disc_cat: music disc cat
-  music_disc_chirp: music disc chirp
-  music_disc_creator: music disc creator
-  music_disc_creator_music_box: music disc creator music box
-  music_disc_far: music disc far
-  music_disc_lava_chicken: music disc lava chicken
-  music_disc_mall: music disc mall
-  music_disc_mellohi: music disc mellohi
-  music_disc_otherside: music disc otherside
-  music_disc_pigstep: music disc pigstep
-  music_disc_precipice: music disc precipice
-  music_disc_relic: music disc relic
-  music_disc_stal: music disc stal
-  music_disc_strad: music disc strad
-  music_disc_tears: music disc tears
-  music_disc_wait: music disc wait
-  music_disc_ward: music disc ward
-  mutton: mutton
-  mycelium: mycelium
-  name_tag: name tag
-  nautilus_shell: nautilus shell
-  nether_brick: nether brick
-  nether_brick_fence: nether brick fence
-  nether_brick_slab: nether brick slab
-  nether_brick_stairs: nether brick stairs
-  nether_brick_wall: nether brick wall
-  nether_bricks: nether bricks
-  nether_gold_ore: nether gold ore
-  nether_portal: nether portal
-  nether_quartz_ore: nether quartz ore
-  nether_sprouts: nether sprouts
-  nether_star: nether star
-  nether_wart: nether wart
-  nether_wart_block: nether wart block
-  netherite_axe: netherite axe
-  netherite_block: netherite block
-  netherite_boots: netherite boots
-  netherite_chestplate: netherite chestplate
-  netherite_helmet: netherite helmet
-  netherite_hoe: netherite hoe
-  netherite_ingot: netherite ingot
-  netherite_leggings: netherite leggings
-  netherite_pickaxe: netherite pickaxe
-  netherite_scrap: netherite scrap
-  netherite_shovel: netherite shovel
-  netherite_sword: netherite sword
-  netherite_upgrade_smithing_template: netherite upgrade smithing template
-  netherrack: netherrack
-  note_block: note block
-  oak_boat: oak boat
-  oak_button: oak button
-  oak_chest_boat: oak chest boat
-  oak_door: oak door
-  oak_fence: oak fence
-  oak_fence_gate: oak fence gate
-  oak_hanging_sign: oak hanging sign
-  oak_leaves: oak leaves
-  oak_log: oak log
-  oak_planks: oak planks
-  oak_pressure_plate: oak pressure plate
-  oak_sapling: oak sapling
-  oak_shelf: oak shelf
-  oak_sign: oak sign
-  oak_slab: oak slab
-  oak_stairs: oak stairs
-  oak_trapdoor: oak trapdoor
-  oak_wall_hanging_sign: oak wall hanging sign
-  oak_wall_sign: oak wall sign
-  oak_wood: oak wood
-  observer: observer
-  obsidian: obsidian
-  ocelot_spawn_egg: ocelot spawn egg
-  ochre_froglight: ochre froglight
-  ominous_bottle: ominous bottle
-  ominous_trial_key: ominous trial key
-  open_eyeblossom: open eyeblossom
-  orange_banner: orange banner
-  orange_bed: orange bed
-  orange_bundle: orange bundle
-  orange_candle: orange candle
-  orange_candle_cake: orange candle cake
-  orange_carpet: orange carpet
-  orange_concrete: orange concrete
-  orange_concrete_powder: orange concrete powder
-  orange_dye: orange dye
-  orange_glazed_terracotta: orange glazed terracotta
-  orange_harness: orange harness
-  orange_shulker_box: orange shulker box
-  orange_stained_glass: orange stained glass
-  orange_stained_glass_pane: orange stained glass pane
-  orange_terracotta: orange terracotta
-  orange_tulip: orange tulip
-  orange_wall_banner: orange wall banner
-  orange_wool: orange wool
-  oxeye_daisy: oxeye daisy
-  oxidized_chiseled_copper: oxidized chiseled copper
-  oxidized_copper: oxidized copper
-  oxidized_copper_bars: oxidized copper bars
-  oxidized_copper_bulb: oxidized copper bulb
-  oxidized_copper_chain: oxidized copper chain
-  oxidized_copper_chest: oxidized copper chest
-  oxidized_copper_door: oxidized copper door
-  oxidized_copper_golem_statue: oxidized copper golem statue
-  oxidized_copper_grate: oxidized copper grate
-  oxidized_copper_lantern: oxidized copper lantern
-  oxidized_copper_trapdoor: oxidized copper trapdoor
-  oxidized_cut_copper: oxidized cut copper
-  oxidized_cut_copper_slab: oxidized cut copper slab
-  oxidized_cut_copper_stairs: oxidized cut copper stairs
-  oxidized_lightning_rod: oxidized lightning rod
-  packed_ice: packed ice
-  packed_mud: packed mud
-  painting: painting
-  pale_hanging_moss: pale hanging moss
-  pale_moss_block: pale moss block
-  pale_moss_carpet: pale moss carpet
-  pale_oak_boat: pale oak boat
-  pale_oak_button: pale oak button
-  pale_oak_chest_boat: pale oak chest boat
-  pale_oak_door: pale oak door
-  pale_oak_fence: pale oak fence
-  pale_oak_fence_gate: pale oak fence gate
-  pale_oak_hanging_sign: pale oak hanging sign
-  pale_oak_leaves: pale oak leaves
-  pale_oak_log: pale oak log
-  pale_oak_planks: pale oak planks
-  pale_oak_pressure_plate: pale oak pressure plate
-  pale_oak_sapling: pale oak sapling
-  pale_oak_shelf: pale oak shelf
-  pale_oak_sign: pale oak sign
-  pale_oak_slab: pale oak slab
-  pale_oak_stairs: pale oak stairs
-  pale_oak_trapdoor: pale oak trapdoor
-  pale_oak_wall_hanging_sign: pale oak wall hanging sign
-  pale_oak_wall_sign: pale oak wall sign
-  pale_oak_wood: pale oak wood
-  panda_spawn_egg: panda spawn egg
-  paper: paper
-  parrot_spawn_egg: parrot spawn egg
-  pearlescent_froglight: pearlescent froglight
-  peony: peony
-  petrified_oak_slab: petrified oak slab
-  phantom_membrane: phantom membrane
-  phantom_spawn_egg: phantom spawn egg
-  pig_spawn_egg: pig spawn egg
-  piglin_banner_pattern: piglin banner pattern
-  piglin_brute_spawn_egg: piglin brute spawn egg
-  piglin_head: piglin head
-  piglin_spawn_egg: piglin spawn egg
-  piglin_wall_head: piglin wall head
-  pillager_spawn_egg: pillager spawn egg
-  pink_banner: pink banner
-  pink_bed: pink bed
-  pink_bundle: pink bundle
-  pink_candle: pink candle
-  pink_candle_cake: pink candle cake
-  pink_carpet: pink carpet
-  pink_concrete: pink concrete
-  pink_concrete_powder: pink concrete powder
-  pink_dye: pink dye
-  pink_glazed_terracotta: pink glazed terracotta
-  pink_harness: pink harness
-  pink_petals: pink petals
-  pink_shulker_box: pink shulker box
-  pink_stained_glass: pink stained glass
-  pink_stained_glass_pane: pink stained glass pane
-  pink_terracotta: pink terracotta
-  pink_tulip: pink tulip
-  pink_wall_banner: pink wall banner
-  pink_wool: pink wool
-  piston: piston
-  piston_head: piston head
-  pitcher_crop: pitcher crop
-  pitcher_plant: pitcher plant
-  pitcher_pod: pitcher pod
-  player_head: player head
-  player_wall_head: player wall head
-  plenty_pottery_sherd: plenty pottery sherd
-  podzol: podzol
-  pointed_dripstone: pointed dripstone
-  poisonous_potato: poisonous potato
-  polar_bear_spawn_egg: polar bear spawn egg
-  polished_andesite: polished andesite
-  polished_andesite_slab: polished andesite slab
-  polished_andesite_stairs: polished andesite stairs
-  polished_basalt: polished basalt
-  polished_blackstone: polished blackstone
-  polished_blackstone_brick_slab: polished blackstone brick slab
-  polished_blackstone_brick_stairs: polished blackstone brick stairs
-  polished_blackstone_brick_wall: polished blackstone brick wall
-  polished_blackstone_bricks: polished blackstone bricks
-  polished_blackstone_button: polished blackstone button
-  polished_blackstone_pressure_plate: polished blackstone pressure plate
-  polished_blackstone_slab: polished blackstone slab
-  polished_blackstone_stairs: polished blackstone stairs
-  polished_blackstone_wall: polished blackstone wall
-  polished_deepslate: polished deepslate
-  polished_deepslate_slab: polished deepslate slab
-  polished_deepslate_stairs: polished deepslate stairs
-  polished_deepslate_wall: polished deepslate wall
-  polished_diorite: polished diorite
-  polished_diorite_slab: polished diorite slab
-  polished_diorite_stairs: polished diorite stairs
-  polished_granite: polished granite
-  polished_granite_slab: polished granite slab
-  polished_granite_stairs: polished granite stairs
-  polished_tuff: polished tuff
-  polished_tuff_slab: polished tuff slab
-  polished_tuff_stairs: polished tuff stairs
-  polished_tuff_wall: polished tuff wall
-  popped_chorus_fruit: popped chorus fruit
-  poppy: poppy
-  porkchop: porkchop
-  potato: potato
-  potatoes: potatoes
-  potion: potion
-  potted_acacia_sapling: potted acacia sapling
-  potted_allium: potted allium
-  potted_azalea_bush: potted azalea bush
-  potted_azure_bluet: potted azure bluet
-  potted_bamboo: potted bamboo
-  potted_birch_sapling: potted birch sapling
-  potted_blue_orchid: potted blue orchid
-  potted_brown_mushroom: potted brown mushroom
-  potted_cactus: potted cactus
-  potted_cherry_sapling: potted cherry sapling
-  potted_closed_eyeblossom: potted closed eyeblossom
-  potted_cornflower: potted cornflower
-  potted_crimson_fungus: potted crimson fungus
-  potted_crimson_roots: potted crimson roots
-  potted_dandelion: potted dandelion
-  potted_dark_oak_sapling: potted dark oak sapling
-  potted_dead_bush: potted dead bush
-  potted_fern: potted fern
-  potted_flowering_azalea_bush: potted flowering azalea bush
-  potted_jungle_sapling: potted jungle sapling
-  potted_lily_of_the_valley: potted lily of the valley
-  potted_mangrove_propagule: potted mangrove propagule
-  potted_oak_sapling: potted oak sapling
-  potted_open_eyeblossom: potted open eyeblossom
-  potted_orange_tulip: potted orange tulip
-  potted_oxeye_daisy: potted oxeye daisy
-  potted_pale_oak_sapling: potted pale oak sapling
-  potted_pink_tulip: potted pink tulip
-  potted_poppy: potted poppy
-  potted_red_mushroom: potted red mushroom
-  potted_red_tulip: potted red tulip
-  potted_spruce_sapling: potted spruce sapling
-  potted_torchflower: potted torchflower
-  potted_warped_fungus: potted warped fungus
-  potted_warped_roots: potted warped roots
-  potted_white_tulip: potted white tulip
-  potted_wither_rose: potted wither rose
-  powder_snow: powder snow
-  powder_snow_bucket: powder snow bucket
-  powder_snow_cauldron: powder snow cauldron
-  powered_rail: powered rail
-  prismarine: prismarine
-  prismarine_brick_slab: prismarine brick slab
-  prismarine_brick_stairs: prismarine brick stairs
-  prismarine_bricks: prismarine bricks
-  prismarine_crystals: prismarine crystals
-  prismarine_shard: prismarine shard
-  prismarine_slab: prismarine slab
-  prismarine_stairs: prismarine stairs
-  prismarine_wall: prismarine wall
-  prize_pottery_sherd: prize pottery sherd
-  pufferfish: pufferfish
-  pufferfish_bucket: pufferfish bucket
-  pufferfish_spawn_egg: pufferfish spawn egg
-  pumpkin: pumpkin
-  pumpkin_pie: pumpkin pie
-  pumpkin_seeds: pumpkin seeds
-  pumpkin_stem: pumpkin stem
-  purple_banner: purple banner
-  purple_bed: purple bed
-  purple_bundle: purple bundle
-  purple_candle: purple candle
-  purple_candle_cake: purple candle cake
-  purple_carpet: purple carpet
-  purple_concrete: purple concrete
-  purple_concrete_powder: purple concrete powder
-  purple_dye: purple dye
-  purple_glazed_terracotta: purple glazed terracotta
-  purple_harness: purple harness
-  purple_shulker_box: purple shulker box
-  purple_stained_glass: purple stained glass
-  purple_stained_glass_pane: purple stained glass pane
-  purple_terracotta: purple terracotta
-  purple_wall_banner: purple wall banner
-  purple_wool: purple wool
-  purpur_block: purpur block
-  purpur_pillar: purpur pillar
-  purpur_slab: purpur slab
-  purpur_stairs: purpur stairs
-  quartz: quartz
-  quartz_block: quartz block
-  quartz_bricks: quartz bricks
-  quartz_pillar: quartz pillar
-  quartz_slab: quartz slab
-  quartz_stairs: quartz stairs
-  rabbit: rabbit
-  rabbit_foot: rabbit foot
-  rabbit_hide: rabbit hide
-  rabbit_spawn_egg: rabbit spawn egg
-  rabbit_stew: rabbit stew
-  rail: rail
-  raiser_armor_trim_smithing_template: raiser armor trim smithing template
-  ravager_spawn_egg: ravager spawn egg
-  raw_copper: raw copper
-  raw_copper_block: raw copper block
-  raw_gold: raw gold
-  raw_gold_block: raw gold block
-  raw_iron: raw iron
-  raw_iron_block: raw iron block
-  recovery_compass: recovery compass
-  red_banner: red banner
-  red_bed: red bed
-  red_bundle: red bundle
-  red_candle: red candle
-  red_candle_cake: red candle cake
-  red_carpet: red carpet
-  red_concrete: red concrete
-  red_concrete_powder: red concrete powder
-  red_dye: red dye
-  red_glazed_terracotta: red glazed terracotta
-  red_harness: red harness
-  red_mushroom: red mushroom
-  red_mushroom_block: red mushroom block
-  red_nether_brick_slab: red nether brick slab
-  red_nether_brick_stairs: red nether brick stairs
-  red_nether_brick_wall: red nether brick wall
-  red_nether_bricks: red nether bricks
-  red_sand: red sand
-  red_sandstone: red sandstone
-  red_sandstone_slab: red sandstone slab
-  red_sandstone_stairs: red sandstone stairs
-  red_sandstone_wall: red sandstone wall
-  red_shulker_box: red shulker box
-  red_stained_glass: red stained glass
-  red_stained_glass_pane: red stained glass pane
-  red_terracotta: red terracotta
-  red_tulip: red tulip
-  red_wall_banner: red wall banner
-  red_wool: red wool
-  redstone: redstone
-  redstone_block: redstone block
-  redstone_lamp: redstone lamp
-  redstone_ore: redstone ore
-  redstone_torch: redstone torch
-  redstone_wall_torch: redstone wall torch
-  redstone_wire: redstone wire
-  reinforced_deepslate: reinforced deepslate
-  repeater: repeater
-  repeating_command_block: repeating command block
-  resin_block: resin block
-  resin_brick: resin brick
-  resin_brick_slab: resin brick slab
-  resin_brick_stairs: resin brick stairs
-  resin_brick_wall: resin brick wall
-  resin_bricks: resin bricks
-  resin_clump: resin clump
-  respawn_anchor: respawn anchor
-  rib_armor_trim_smithing_template: rib armor trim smithing template
-  rooted_dirt: rooted dirt
-  rose_bush: rose bush
-  rotten_flesh: rotten flesh
-  saddle: saddle
-  salmon: salmon
-  salmon_bucket: salmon bucket
-  salmon_spawn_egg: salmon spawn egg
-  sand: sand
-  sandstone: sandstone
-  sandstone_slab: sandstone slab
-  sandstone_stairs: sandstone stairs
-  sandstone_wall: sandstone wall
-  scaffolding: scaffolding
-  scrape_pottery_sherd: scrape pottery sherd
-  sculk: sculk
-  sculk_catalyst: sculk catalyst
-  sculk_sensor: sculk sensor
-  sculk_shrieker: sculk shrieker
-  sculk_vein: sculk vein
-  sea_lantern: sea lantern
-  sea_pickle: sea pickle
-  seagrass: seagrass
-  sentry_armor_trim_smithing_template: sentry armor trim smithing template
-  shaper_armor_trim_smithing_template: shaper armor trim smithing template
-  sheaf_pottery_sherd: sheaf pottery sherd
-  shears: shears
-  sheep_spawn_egg: sheep spawn egg
-  shelter_pottery_sherd: shelter pottery sherd
-  shield: shield
-  short_dry_grass: short dry grass
-  short_grass: short grass
-  shroomlight: shroomlight
-  shulker_box: shulker box
-  shulker_shell: shulker shell
-  shulker_spawn_egg: shulker spawn egg
-  silence_armor_trim_smithing_template: silence armor trim smithing template
-  silverfish_spawn_egg: silverfish spawn egg
-  skeleton_horse_spawn_egg: skeleton horse spawn egg
-  skeleton_skull: skeleton skull
-  skeleton_spawn_egg: skeleton spawn egg
-  skeleton_wall_skull: skeleton wall skull
-  skull_banner_pattern: skull banner pattern
-  skull_pottery_sherd: skull pottery sherd
-  slime_ball: slime ball
-  slime_block: slime block
-  slime_spawn_egg: slime spawn egg
-  small_amethyst_bud: small amethyst bud
-  small_dripleaf: small dripleaf
-  smithing_table: smithing table
-  smoker: smoker
-  smooth_basalt: smooth basalt
-  smooth_quartz: smooth quartz
-  smooth_quartz_slab: smooth quartz slab
-  smooth_quartz_stairs: smooth quartz stairs
-  smooth_red_sandstone: smooth red sandstone
-  smooth_red_sandstone_slab: smooth red sandstone slab
-  smooth_red_sandstone_stairs: smooth red sandstone stairs
-  smooth_sandstone: smooth sandstone
-  smooth_sandstone_slab: smooth sandstone slab
-  smooth_sandstone_stairs: smooth sandstone stairs
-  smooth_stone: smooth stone
-  smooth_stone_slab: smooth stone slab
-  sniffer_egg: sniffer egg
-  sniffer_spawn_egg: sniffer spawn egg
-  snort_pottery_sherd: snort pottery sherd
-  snout_armor_trim_smithing_template: snout armor trim smithing template
-  snow: snow
-  snow_block: snow block
-  snow_golem_spawn_egg: snow golem spawn egg
-  snowball: snowball
-  soul_campfire: soul campfire
-  soul_fire: soul fire
-  soul_lantern: soul lantern
-  soul_sand: soul sand
-  soul_soil: soul soil
-  soul_torch: soul torch
-  soul_wall_torch: soul wall torch
-  spawner: spawner
-  spectral_arrow: spectral arrow
-  spider_eye: spider eye
-  spider_spawn_egg: spider spawn egg
-  spire_armor_trim_smithing_template: spire armor trim smithing template
-  splash_potion: splash potion
-  sponge: sponge
-  spore_blossom: spore blossom
-  spruce_boat: spruce boat
-  spruce_button: spruce button
-  spruce_chest_boat: spruce chest boat
-  spruce_door: spruce door
-  spruce_fence: spruce fence
-  spruce_fence_gate: spruce fence gate
-  spruce_hanging_sign: spruce hanging sign
-  spruce_leaves: spruce leaves
-  spruce_log: spruce log
-  spruce_planks: spruce planks
-  spruce_pressure_plate: spruce pressure plate
-  spruce_sapling: spruce sapling
-  spruce_shelf: spruce shelf
-  spruce_sign: spruce sign
-  spruce_slab: spruce slab
-  spruce_stairs: spruce stairs
-  spruce_trapdoor: spruce trapdoor
-  spruce_wall_hanging_sign: spruce wall hanging sign
-  spruce_wall_sign: spruce wall sign
-  spruce_wood: spruce wood
-  spyglass: spyglass
-  squid_spawn_egg: squid spawn egg
-  stick: stick
-  sticky_piston: sticky piston
-  stone: stone
-  stone_axe: stone axe
-  stone_brick_slab: stone brick slab
-  stone_brick_stairs: stone brick stairs
-  stone_brick_wall: stone brick wall
-  stone_bricks: stone bricks
-  stone_button: stone button
-  stone_hoe: stone hoe
-  stone_pickaxe: stone pickaxe
-  stone_pressure_plate: stone pressure plate
-  stone_shovel: stone shovel
-  stone_slab: stone slab
-  stone_stairs: stone stairs
-  stone_sword: stone sword
-  stonecutter: stonecutter
-  stray_spawn_egg: stray spawn egg
-  strider_spawn_egg: strider spawn egg
-  string: string
-  stripped_acacia_log: stripped acacia log
-  stripped_acacia_wood: stripped acacia wood
-  stripped_bamboo_block: stripped bamboo block
-  stripped_birch_log: stripped birch log
-  stripped_birch_wood: stripped birch wood
-  stripped_cherry_log: stripped cherry log
-  stripped_cherry_wood: stripped cherry wood
-  stripped_crimson_hyphae: stripped crimson hyphae
-  stripped_crimson_stem: stripped crimson stem
-  stripped_dark_oak_log: stripped dark oak log
-  stripped_dark_oak_wood: stripped dark oak wood
-  stripped_jungle_log: stripped jungle log
-  stripped_jungle_wood: stripped jungle wood
-  stripped_mangrove_log: stripped mangrove log
-  stripped_mangrove_wood: stripped mangrove wood
-  stripped_oak_log: stripped oak log
-  stripped_oak_wood: stripped oak wood
-  stripped_pale_oak_log: stripped pale oak log
-  stripped_pale_oak_wood: stripped pale oak wood
-  stripped_spruce_log: stripped spruce log
-  stripped_spruce_wood: stripped spruce wood
-  stripped_warped_hyphae: stripped warped hyphae
-  stripped_warped_stem: stripped warped stem
-  structure_block: structure block
-  structure_void: structure void
-  sugar: sugar
-  sugar_cane: sugar cane
-  sunflower: sunflower
-  suspicious_gravel: suspicious gravel
-  suspicious_sand: suspicious sand
-  suspicious_stew: suspicious stew
-  sweet_berries: sweet berries
-  sweet_berry_bush: sweet berry bush
-  tadpole_bucket: tadpole bucket
-  tadpole_spawn_egg: tadpole spawn egg
-  tall_dry_grass: tall dry grass
-  tall_grass: tall grass
-  tall_seagrass: tall seagrass
-  target: target
-  terracotta: terracotta
-  test_block: test block
-  test_instance_block: test instance block
-  tide_armor_trim_smithing_template: tide armor trim smithing template
-  tinted_glass: tinted glass
-  tipped_arrow: tipped arrow
-  tnt: tnt
-  tnt_minecart: tnt minecart
-  torch: torch
-  torchflower: torchflower
-  torchflower_crop: torchflower crop
-  torchflower_seeds: torchflower seeds
-  totem_of_undying: totem of undying
-  trader_llama_spawn_egg: trader llama spawn egg
-  trapped_chest: trapped chest
-  trial_key: trial key
-  trial_spawner: trial spawner
-  trident: trident
-  tripwire: tripwire
-  tripwire_hook: tripwire hook
-  tropical_fish: tropical fish
-  tropical_fish_bucket: tropical fish bucket
-  tropical_fish_spawn_egg: tropical fish spawn egg
-  tube_coral: tube coral
-  tube_coral_block: tube coral block
-  tube_coral_fan: tube coral fan
-  tube_coral_wall_fan: tube coral wall fan
-  tuff: tuff
-  tuff_brick_slab: tuff brick slab
-  tuff_brick_stairs: tuff brick stairs
-  tuff_brick_wall: tuff brick wall
-  tuff_bricks: tuff bricks
-  tuff_slab: tuff slab
-  tuff_stairs: tuff stairs
-  tuff_wall: tuff wall
-  turtle_egg: turtle egg
-  turtle_helmet: turtle helmet
-  turtle_scute: turtle scute
-  turtle_spawn_egg: turtle spawn egg
-  twisting_vines: twisting vines
-  twisting_vines_plant: twisting vines plant
-  vault: vault
-  verdant_froglight: verdant froglight
-  vex_armor_trim_smithing_template: vex armor trim smithing template
-  vex_spawn_egg: vex spawn egg
-  villager_spawn_egg: villager spawn egg
-  vindicator_spawn_egg: vindicator spawn egg
-  vine: vine
-  void_air: void air
-  wall_torch: wall torch
-  wandering_trader_spawn_egg: wandering trader spawn egg
-  ward_armor_trim_smithing_template: ward armor trim smithing template
-  warden_spawn_egg: warden spawn egg
-  warped_button: warped button
-  warped_door: warped door
-  warped_fence: warped fence
-  warped_fence_gate: warped fence gate
-  warped_fungus: warped fungus
-  warped_fungus_on_a_stick: warped fungus on a stick
-  warped_hanging_sign: warped hanging sign
-  warped_hyphae: warped hyphae
-  warped_nylium: warped nylium
-  warped_planks: warped planks
-  warped_pressure_plate: warped pressure plate
-  warped_roots: warped roots
-  warped_shelf: warped shelf
-  warped_sign: warped sign
-  warped_slab: warped slab
-  warped_stairs: warped stairs
-  warped_stem: warped stem
-  warped_trapdoor: warped trapdoor
-  warped_wall_hanging_sign: warped wall hanging sign
-  warped_wall_sign: warped wall sign
-  warped_wart_block: warped wart block
-  water: water
-  water_bucket: water bucket
-  water_cauldron: water cauldron
-  waxed_chiseled_copper: waxed chiseled copper
-  waxed_copper_bars: waxed copper bars
-  waxed_copper_block: waxed copper block
-  waxed_copper_bulb: waxed copper bulb
-  waxed_copper_chain: waxed copper chain
-  waxed_copper_chest: waxed copper chest
-  waxed_copper_door: waxed copper door
-  waxed_copper_golem_statue: waxed copper golem statue
-  waxed_copper_grate: waxed copper grate
-  waxed_copper_lantern: waxed copper lantern
-  waxed_copper_trapdoor: waxed copper trapdoor
-  waxed_cut_copper: waxed cut copper
-  waxed_cut_copper_slab: waxed cut copper slab
-  waxed_cut_copper_stairs: waxed cut copper stairs
-  waxed_exposed_chiseled_copper: waxed exposed chiseled copper
-  waxed_exposed_copper: waxed exposed copper
-  waxed_exposed_copper_bars: waxed exposed copper bars
-  waxed_exposed_copper_bulb: waxed exposed copper bulb
-  waxed_exposed_copper_chain: waxed exposed copper chain
-  waxed_exposed_copper_chest: waxed exposed copper chest
-  waxed_exposed_copper_door: waxed exposed copper door
-  waxed_exposed_copper_golem_statue: waxed exposed copper golem statue
-  waxed_exposed_copper_grate: waxed exposed copper grate
-  waxed_exposed_copper_lantern: waxed exposed copper lantern
-  waxed_exposed_copper_trapdoor: waxed exposed copper trapdoor
-  waxed_exposed_cut_copper: waxed exposed cut copper
-  waxed_exposed_cut_copper_slab: waxed exposed cut copper slab
-  waxed_exposed_cut_copper_stairs: waxed exposed cut copper stairs
-  waxed_exposed_lightning_rod: waxed exposed lightning rod
-  waxed_lightning_rod: waxed lightning rod
-  waxed_oxidized_chiseled_copper: waxed oxidized chiseled copper
-  waxed_oxidized_copper: waxed oxidized copper
-  waxed_oxidized_copper_bars: waxed oxidized copper bars
-  waxed_oxidized_copper_bulb: waxed oxidized copper bulb
-  waxed_oxidized_copper_chain: waxed oxidized copper chain
-  waxed_oxidized_copper_chest: waxed oxidized copper chest
-  waxed_oxidized_copper_door: waxed oxidized copper door
-  waxed_oxidized_copper_golem_statue: waxed oxidized copper golem statue
-  waxed_oxidized_copper_grate: waxed oxidized copper grate
-  waxed_oxidized_copper_lantern: waxed oxidized copper lantern
-  waxed_oxidized_copper_trapdoor: waxed oxidized copper trapdoor
-  waxed_oxidized_cut_copper: waxed oxidized cut copper
-  waxed_oxidized_cut_copper_slab: waxed oxidized cut copper slab
-  waxed_oxidized_cut_copper_stairs: waxed oxidized cut copper stairs
-  waxed_oxidized_lightning_rod: waxed oxidized lightning rod
-  waxed_weathered_chiseled_copper: waxed weathered chiseled copper
-  waxed_weathered_copper: waxed weathered copper
-  waxed_weathered_copper_bars: waxed weathered copper bars
-  waxed_weathered_copper_bulb: waxed weathered copper bulb
-  waxed_weathered_copper_chain: waxed weathered copper chain
-  waxed_weathered_copper_chest: waxed weathered copper chest
-  waxed_weathered_copper_door: waxed weathered copper door
-  waxed_weathered_copper_golem_statue: waxed weathered copper golem statue
-  waxed_weathered_copper_grate: waxed weathered copper grate
-  waxed_weathered_copper_lantern: waxed weathered copper lantern
-  waxed_weathered_copper_trapdoor: waxed weathered copper trapdoor
-  waxed_weathered_cut_copper: waxed weathered cut copper
-  waxed_weathered_cut_copper_slab: waxed weathered cut copper slab
-  waxed_weathered_cut_copper_stairs: waxed weathered cut copper stairs
-  waxed_weathered_lightning_rod: waxed weathered lightning rod
-  wayfinder_armor_trim_smithing_template: wayfinder armor trim smithing template
-  weathered_chiseled_copper: weathered chiseled copper
-  weathered_copper: weathered copper
-  weathered_copper_bars: weathered copper bars
-  weathered_copper_bulb: weathered copper bulb
-  weathered_copper_chain: weathered copper chain
-  weathered_copper_chest: weathered copper chest
-  weathered_copper_door: weathered copper door
-  weathered_copper_golem_statue: weathered copper golem statue
-  weathered_copper_grate: weathered copper grate
-  weathered_copper_lantern: weathered copper lantern
-  weathered_copper_trapdoor: weathered copper trapdoor
-  weathered_cut_copper: weathered cut copper
-  weathered_cut_copper_slab: weathered cut copper slab
-  weathered_cut_copper_stairs: weathered cut copper stairs
-  weathered_lightning_rod: weathered lightning rod
-  weeping_vines: weeping vines
-  weeping_vines_plant: weeping vines plant
-  wet_sponge: wet sponge
-  wheat: wheat
-  wheat_seeds: wheat seeds
-  white_banner: white banner
-  white_bed: white bed
-  white_bundle: white bundle
-  white_candle: white candle
-  white_candle_cake: white candle cake
-  white_carpet: white carpet
-  white_concrete: white concrete
-  white_concrete_powder: white concrete powder
-  white_dye: white dye
-  white_glazed_terracotta: white glazed terracotta
-  white_harness: white harness
-  white_shulker_box: white shulker box
-  white_stained_glass: white stained glass
-  white_stained_glass_pane: white stained glass pane
-  white_terracotta: white terracotta
-  white_tulip: white tulip
-  white_wall_banner: white wall banner
-  white_wool: white wool
-  wild_armor_trim_smithing_template: wild armor trim smithing template
-  wildflowers: wildflowers
-  wind_charge: wind charge
-  witch_spawn_egg: witch spawn egg
-  wither_rose: wither rose
-  wither_skeleton_skull: wither skeleton skull
-  wither_skeleton_spawn_egg: wither skeleton spawn egg
-  wither_skeleton_wall_skull: wither skeleton wall skull
-  wither_spawn_egg: wither spawn egg
-  wolf_armor: wolf armor
-  wolf_spawn_egg: wolf spawn egg
-  wooden_axe: wooden axe
-  wooden_hoe: wooden hoe
-  wooden_pickaxe: wooden pickaxe
-  wooden_shovel: wooden shovel
-  wooden_sword: wooden sword
-  writable_book: writable book
-  written_book: written book
-  yellow_banner: yellow banner
-  yellow_bed: yellow bed
-  yellow_bundle: yellow bundle
-  yellow_candle: yellow candle
-  yellow_candle_cake: yellow candle cake
-  yellow_carpet: yellow carpet
-  yellow_concrete: yellow concrete
-  yellow_concrete_powder: yellow concrete powder
-  yellow_dye: yellow dye
-  yellow_glazed_terracotta: yellow glazed terracotta
-  yellow_harness: yellow harness
-  yellow_shulker_box: yellow shulker box
-  yellow_stained_glass: yellow stained glass
-  yellow_stained_glass_pane: yellow stained glass pane
-  yellow_terracotta: yellow terracotta
-  yellow_wall_banner: yellow wall banner
-  yellow_wool: yellow wool
-  zoglin_spawn_egg: zoglin spawn egg
-  zombie_head: zombie head
-  zombie_horse_spawn_egg: zombie horse spawn egg
-  zombie_spawn_egg: zombie spawn egg
-  zombie_villager_spawn_egg: zombie villager spawn egg
-  zombie_wall_head: zombie wall head
-  zombified_piglin_spawn_egg: zombified piglin spawn egg
+--- # Materials
+acacia_boat: acacia boat
+acacia_button: acacia button
+acacia_chest_boat: acacia chest boat
+acacia_door: acacia door
+acacia_fence: acacia fence
+acacia_fence_gate: acacia fence gate
+acacia_hanging_sign: acacia hanging sign
+acacia_leaves: acacia leaves
+acacia_log: acacia log
+acacia_planks: acacia planks
+acacia_pressure_plate: acacia pressure plate
+acacia_sapling: acacia sapling
+acacia_shelf: acacia shelf
+acacia_sign: acacia sign
+acacia_slab: acacia slab
+acacia_stairs: acacia stairs
+acacia_trapdoor: acacia trapdoor
+acacia_wall_hanging_sign: acacia wall hanging sign
+acacia_wall_sign: acacia wall sign
+acacia_wood: acacia wood
+activator_rail: activator rail
+air: air
+allay_spawn_egg: allay spawn egg
+allium: allium
+amethyst_block: amethyst block
+amethyst_cluster: amethyst cluster
+amethyst_shard: amethyst shard
+ancient_debris: ancient debris
+andesite: andesite
+andesite_slab: andesite slab
+andesite_stairs: andesite stairs
+andesite_wall: andesite wall
+angler_pottery_sherd: angler pottery sherd
+anvil: anvil
+apple: apple
+archer_pottery_sherd: archer pottery sherd
+armadillo_scute: armadillo scute
+armadillo_spawn_egg: armadillo spawn egg
+armor_stand: armor stand
+arms_up_pottery_sherd: arms up pottery sherd
+arrow: arrow
+attached_melon_stem: attached melon stem
+attached_pumpkin_stem: attached pumpkin stem
+axolotl_bucket: axolotl bucket
+axolotl_spawn_egg: axolotl spawn egg
+azalea: azalea
+azalea_leaves: azalea leaves
+azure_bluet: azure bluet
+baked_potato: baked potato
+bamboo: bamboo
+bamboo_block: bamboo block
+bamboo_button: bamboo button
+bamboo_chest_raft: bamboo chest raft
+bamboo_door: bamboo door
+bamboo_fence: bamboo fence
+bamboo_fence_gate: bamboo fence gate
+bamboo_hanging_sign: bamboo hanging sign
+bamboo_mosaic: bamboo mosaic
+bamboo_mosaic_slab: bamboo mosaic slab
+bamboo_mosaic_stairs: bamboo mosaic stairs
+bamboo_planks: bamboo planks
+bamboo_pressure_plate: bamboo pressure plate
+bamboo_raft: bamboo raft
+bamboo_sapling: bamboo sapling
+bamboo_shelf: bamboo shelf
+bamboo_sign: bamboo sign
+bamboo_slab: bamboo slab
+bamboo_stairs: bamboo stairs
+bamboo_trapdoor: bamboo trapdoor
+bamboo_wall_hanging_sign: bamboo wall hanging sign
+bamboo_wall_sign: bamboo wall sign
+barrel: barrel
+barrier: barrier
+basalt: basalt
+bat_spawn_egg: bat spawn egg
+beacon: beacon
+bedrock: bedrock
+bee_nest: bee nest
+bee_spawn_egg: bee spawn egg
+beef: beef
+beehive: beehive
+beetroot: beetroot
+beetroot_seeds: beetroot seeds
+beetroot_soup: beetroot soup
+beetroots: beetroots
+bell: bell
+big_dripleaf: big dripleaf
+big_dripleaf_stem: big dripleaf stem
+birch_boat: birch boat
+birch_button: birch button
+birch_chest_boat: birch chest boat
+birch_door: birch door
+birch_fence: birch fence
+birch_fence_gate: birch fence gate
+birch_hanging_sign: birch hanging sign
+birch_leaves: birch leaves
+birch_log: birch log
+birch_planks: birch planks
+birch_pressure_plate: birch pressure plate
+birch_sapling: birch sapling
+birch_shelf: birch shelf
+birch_sign: birch sign
+birch_slab: birch slab
+birch_stairs: birch stairs
+birch_trapdoor: birch trapdoor
+birch_wall_hanging_sign: birch wall hanging sign
+birch_wall_sign: birch wall sign
+birch_wood: birch wood
+black_banner: black banner
+black_bed: black bed
+black_bundle: black bundle
+black_candle: black candle
+black_candle_cake: black candle cake
+black_carpet: black carpet
+black_concrete: black concrete
+black_concrete_powder: black concrete powder
+black_dye: black dye
+black_glazed_terracotta: black glazed terracotta
+black_harness: black harness
+black_shulker_box: black shulker box
+black_stained_glass: black stained glass
+black_stained_glass_pane: black stained glass pane
+black_terracotta: black terracotta
+black_wall_banner: black wall banner
+black_wool: black wool
+blackstone: blackstone
+blackstone_slab: blackstone slab
+blackstone_stairs: blackstone stairs
+blackstone_wall: blackstone wall
+blade_pottery_sherd: blade pottery sherd
+blast_furnace: blast furnace
+blaze_powder: blaze powder
+blaze_rod: blaze rod
+blaze_spawn_egg: blaze spawn egg
+blue_banner: blue banner
+blue_bed: blue bed
+blue_bundle: blue bundle
+blue_candle: blue candle
+blue_candle_cake: blue candle cake
+blue_carpet: blue carpet
+blue_concrete: blue concrete
+blue_concrete_powder: blue concrete powder
+blue_dye: blue dye
+blue_egg: blue egg
+blue_glazed_terracotta: blue glazed terracotta
+blue_harness: blue harness
+blue_ice: blue ice
+blue_orchid: blue orchid
+blue_shulker_box: blue shulker box
+blue_stained_glass: blue stained glass
+blue_stained_glass_pane: blue stained glass pane
+blue_terracotta: blue terracotta
+blue_wall_banner: blue wall banner
+blue_wool: blue wool
+bogged_spawn_egg: bogged spawn egg
+bolt_armor_trim_smithing_template: bolt armor trim smithing template
+bone: bone
+bone_block: bone block
+bone_meal: bone meal
+book: book
+bookshelf: bookshelf
+bordure_indented_banner_pattern: bordure indented banner pattern
+bow: bow
+bowl: bowl
+brain_coral: brain coral
+brain_coral_block: brain coral block
+brain_coral_fan: brain coral fan
+brain_coral_wall_fan: brain coral wall fan
+bread: bread
+breeze_rod: breeze rod
+breeze_spawn_egg: breeze spawn egg
+brewer_pottery_sherd: brewer pottery sherd
+brewing_stand: brewing stand
+brick: brick
+brick_slab: brick slab
+brick_stairs: brick stairs
+brick_wall: brick wall
+bricks: bricks
+brown_banner: brown banner
+brown_bed: brown bed
+brown_bundle: brown bundle
+brown_candle: brown candle
+brown_candle_cake: brown candle cake
+brown_carpet: brown carpet
+brown_concrete: brown concrete
+brown_concrete_powder: brown concrete powder
+brown_dye: brown dye
+brown_egg: brown egg
+brown_glazed_terracotta: brown glazed terracotta
+brown_harness: brown harness
+brown_mushroom: brown mushroom
+brown_mushroom_block: brown mushroom block
+brown_shulker_box: brown shulker box
+brown_stained_glass: brown stained glass
+brown_stained_glass_pane: brown stained glass pane
+brown_terracotta: brown terracotta
+brown_wall_banner: brown wall banner
+brown_wool: brown wool
+brush: brush
+bubble_column: bubble column
+bubble_coral: bubble coral
+bubble_coral_block: bubble coral block
+bubble_coral_fan: bubble coral fan
+bubble_coral_wall_fan: bubble coral wall fan
+bucket: bucket
+budding_amethyst: budding amethyst
+bundle: bundle
+burn_pottery_sherd: burn pottery sherd
+bush: bush
+cactus: cactus
+cactus_flower: cactus flower
+cake: cake
+calcite: calcite
+calibrated_sculk_sensor: calibrated sculk sensor
+camel_spawn_egg: camel spawn egg
+campfire: campfire
+candle: candle
+candle_cake: candle cake
+carrot: carrot
+carrot_on_a_stick: carrot on a stick
+carrots: carrots
+cartography_table: cartography table
+carved_pumpkin: carved pumpkin
+cat_spawn_egg: cat spawn egg
+cauldron: cauldron
+cave_air: cave air
+cave_spider_spawn_egg: cave spider spawn egg
+cave_vines: cave vines
+cave_vines_plant: cave vines plant
+chain_command_block: chain command block
+chainmail_boots: chainmail boots
+chainmail_chestplate: chainmail chestplate
+chainmail_helmet: chainmail helmet
+chainmail_leggings: chainmail leggings
+charcoal: charcoal
+cherry_boat: cherry boat
+cherry_button: cherry button
+cherry_chest_boat: cherry chest boat
+cherry_door: cherry door
+cherry_fence: cherry fence
+cherry_fence_gate: cherry fence gate
+cherry_hanging_sign: cherry hanging sign
+cherry_leaves: cherry leaves
+cherry_log: cherry log
+cherry_planks: cherry planks
+cherry_pressure_plate: cherry pressure plate
+cherry_sapling: cherry sapling
+cherry_shelf: cherry shelf
+cherry_sign: cherry sign
+cherry_slab: cherry slab
+cherry_stairs: cherry stairs
+cherry_trapdoor: cherry trapdoor
+cherry_wall_hanging_sign: cherry wall hanging sign
+cherry_wall_sign: cherry wall sign
+cherry_wood: cherry wood
+chest: chest
+chest_minecart: chest minecart
+chicken: chicken
+chicken_spawn_egg: chicken spawn egg
+chipped_anvil: chipped anvil
+chiseled_bookshelf: chiseled bookshelf
+chiseled_copper: chiseled copper
+chiseled_deepslate: chiseled deepslate
+chiseled_nether_bricks: chiseled nether bricks
+chiseled_polished_blackstone: chiseled polished blackstone
+chiseled_quartz_block: chiseled quartz block
+chiseled_red_sandstone: chiseled red sandstone
+chiseled_resin_bricks: chiseled resin bricks
+chiseled_sandstone: chiseled sandstone
+chiseled_stone_bricks: chiseled stone bricks
+chiseled_tuff: chiseled tuff
+chiseled_tuff_bricks: chiseled tuff bricks
+chorus_flower: chorus flower
+chorus_fruit: chorus fruit
+chorus_plant: chorus plant
+clay: clay
+clay_ball: clay ball
+clock: clock
+closed_eyeblossom: closed eyeblossom
+coal: coal
+coal_block: coal block
+coal_ore: coal ore
+coarse_dirt: coarse dirt
+coast_armor_trim_smithing_template: coast armor trim smithing template
+cobbled_deepslate: cobbled deepslate
+cobbled_deepslate_slab: cobbled deepslate slab
+cobbled_deepslate_stairs: cobbled deepslate stairs
+cobbled_deepslate_wall: cobbled deepslate wall
+cobblestone: cobblestone
+cobblestone_slab: cobblestone slab
+cobblestone_stairs: cobblestone stairs
+cobblestone_wall: cobblestone wall
+cobweb: cobweb
+cocoa: cocoa
+cocoa_beans: cocoa beans
+cod: cod
+cod_bucket: cod bucket
+cod_spawn_egg: cod spawn egg
+command_block: command block
+command_block_minecart: command block minecart
+comparator: comparator
+compass: compass
+composter: composter
+conduit: conduit
+cooked_beef: cooked beef
+cooked_chicken: cooked chicken
+cooked_cod: cooked cod
+cooked_mutton: cooked mutton
+cooked_porkchop: cooked porkchop
+cooked_rabbit: cooked rabbit
+cooked_salmon: cooked salmon
+cookie: cookie
+copper_axe: copper axe
+copper_bars: copper bars
+copper_block: copper block
+copper_boots: copper boots
+copper_bulb: copper bulb
+copper_chain: copper chain
+copper_chest: copper chest
+copper_chestplate: copper chestplate
+copper_door: copper door
+copper_golem_spawn_egg: copper golem spawn egg
+copper_golem_statue: copper golem statue
+copper_grate: copper grate
+copper_helmet: copper helmet
+copper_hoe: copper hoe
+copper_horse_armor: copper horse armor
+copper_ingot: copper ingot
+copper_lantern: copper lantern
+copper_leggings: copper leggings
+copper_nugget: copper nugget
+copper_ore: copper ore
+copper_pickaxe: copper pickaxe
+copper_shovel: copper shovel
+copper_sword: copper sword
+copper_torch: copper torch
+copper_trapdoor: copper trapdoor
+copper_wall_torch: copper wall torch
+cornflower: cornflower
+cow_spawn_egg: cow spawn egg
+cracked_deepslate_bricks: cracked deepslate bricks
+cracked_deepslate_tiles: cracked deepslate tiles
+cracked_nether_bricks: cracked nether bricks
+cracked_polished_blackstone_bricks: cracked polished blackstone bricks
+cracked_stone_bricks: cracked stone bricks
+crafter: crafter
+crafting_table: crafting table
+creaking_heart: creaking heart
+creaking_spawn_egg: creaking spawn egg
+creeper_banner_pattern: creeper banner pattern
+creeper_head: creeper head
+creeper_spawn_egg: creeper spawn egg
+creeper_wall_head: creeper wall head
+crimson_button: crimson button
+crimson_door: crimson door
+crimson_fence: crimson fence
+crimson_fence_gate: crimson fence gate
+crimson_fungus: crimson fungus
+crimson_hanging_sign: crimson hanging sign
+crimson_hyphae: crimson hyphae
+crimson_nylium: crimson nylium
+crimson_planks: crimson planks
+crimson_pressure_plate: crimson pressure plate
+crimson_roots: crimson roots
+crimson_shelf: crimson shelf
+crimson_sign: crimson sign
+crimson_slab: crimson slab
+crimson_stairs: crimson stairs
+crimson_stem: crimson stem
+crimson_trapdoor: crimson trapdoor
+crimson_wall_hanging_sign: crimson wall hanging sign
+crimson_wall_sign: crimson wall sign
+crossbow: crossbow
+crying_obsidian: crying obsidian
+cut_copper: cut copper
+cut_copper_slab: cut copper slab
+cut_copper_stairs: cut copper stairs
+cut_red_sandstone: cut red sandstone
+cut_red_sandstone_slab: cut red sandstone slab
+cut_sandstone: cut sandstone
+cut_sandstone_slab: cut sandstone slab
+cyan_banner: cyan banner
+cyan_bed: cyan bed
+cyan_bundle: cyan bundle
+cyan_candle: cyan candle
+cyan_candle_cake: cyan candle cake
+cyan_carpet: cyan carpet
+cyan_concrete: cyan concrete
+cyan_concrete_powder: cyan concrete powder
+cyan_dye: cyan dye
+cyan_glazed_terracotta: cyan glazed terracotta
+cyan_harness: cyan harness
+cyan_shulker_box: cyan shulker box
+cyan_stained_glass: cyan stained glass
+cyan_stained_glass_pane: cyan stained glass pane
+cyan_terracotta: cyan terracotta
+cyan_wall_banner: cyan wall banner
+cyan_wool: cyan wool
+damaged_anvil: damaged anvil
+dandelion: dandelion
+danger_pottery_sherd: danger pottery sherd
+dark_oak_boat: dark oak boat
+dark_oak_button: dark oak button
+dark_oak_chest_boat: dark oak chest boat
+dark_oak_door: dark oak door
+dark_oak_fence: dark oak fence
+dark_oak_fence_gate: dark oak fence gate
+dark_oak_hanging_sign: dark oak hanging sign
+dark_oak_leaves: dark oak leaves
+dark_oak_log: dark oak log
+dark_oak_planks: dark oak planks
+dark_oak_pressure_plate: dark oak pressure plate
+dark_oak_sapling: dark oak sapling
+dark_oak_shelf: dark oak shelf
+dark_oak_sign: dark oak sign
+dark_oak_slab: dark oak slab
+dark_oak_stairs: dark oak stairs
+dark_oak_trapdoor: dark oak trapdoor
+dark_oak_wall_hanging_sign: dark oak wall hanging sign
+dark_oak_wall_sign: dark oak wall sign
+dark_oak_wood: dark oak wood
+dark_prismarine: dark prismarine
+dark_prismarine_slab: dark prismarine slab
+dark_prismarine_stairs: dark prismarine stairs
+daylight_detector: daylight detector
+dead_brain_coral: dead brain coral
+dead_brain_coral_block: dead brain coral block
+dead_brain_coral_fan: dead brain coral fan
+dead_brain_coral_wall_fan: dead brain coral wall fan
+dead_bubble_coral: dead bubble coral
+dead_bubble_coral_block: dead bubble coral block
+dead_bubble_coral_fan: dead bubble coral fan
+dead_bubble_coral_wall_fan: dead bubble coral wall fan
+dead_bush: dead bush
+dead_fire_coral: dead fire coral
+dead_fire_coral_block: dead fire coral block
+dead_fire_coral_fan: dead fire coral fan
+dead_fire_coral_wall_fan: dead fire coral wall fan
+dead_horn_coral: dead horn coral
+dead_horn_coral_block: dead horn coral block
+dead_horn_coral_fan: dead horn coral fan
+dead_horn_coral_wall_fan: dead horn coral wall fan
+dead_tube_coral: dead tube coral
+dead_tube_coral_block: dead tube coral block
+dead_tube_coral_fan: dead tube coral fan
+dead_tube_coral_wall_fan: dead tube coral wall fan
+debug_stick: debug stick
+decorated_pot: decorated pot
+deepslate: deepslate
+deepslate_brick_slab: deepslate brick slab
+deepslate_brick_stairs: deepslate brick stairs
+deepslate_brick_wall: deepslate brick wall
+deepslate_bricks: deepslate bricks
+deepslate_coal_ore: deepslate coal ore
+deepslate_copper_ore: deepslate copper ore
+deepslate_diamond_ore: deepslate diamond ore
+deepslate_emerald_ore: deepslate emerald ore
+deepslate_gold_ore: deepslate gold ore
+deepslate_iron_ore: deepslate iron ore
+deepslate_lapis_ore: deepslate lapis ore
+deepslate_redstone_ore: deepslate redstone ore
+deepslate_tile_slab: deepslate tile slab
+deepslate_tile_stairs: deepslate tile stairs
+deepslate_tile_wall: deepslate tile wall
+deepslate_tiles: deepslate tiles
+detector_rail: detector rail
+diamond: diamond
+diamond_axe: diamond axe
+diamond_block: diamond block
+diamond_boots: diamond boots
+diamond_chestplate: diamond chestplate
+diamond_helmet: diamond helmet
+diamond_hoe: diamond hoe
+diamond_horse_armor: diamond horse armor
+diamond_leggings: diamond leggings
+diamond_ore: diamond ore
+diamond_pickaxe: diamond pickaxe
+diamond_shovel: diamond shovel
+diamond_sword: diamond sword
+diorite: diorite
+diorite_slab: diorite slab
+diorite_stairs: diorite stairs
+diorite_wall: diorite wall
+dirt: dirt
+dirt_path: dirt path
+disc_fragment_5: disc fragment 5
+dispenser: dispenser
+dolphin_spawn_egg: dolphin spawn egg
+donkey_spawn_egg: donkey spawn egg
+dragon_breath: dragon breath
+dragon_egg: dragon egg
+dragon_head: dragon head
+dragon_wall_head: dragon wall head
+dried_ghast: dried ghast
+dried_kelp: dried kelp
+dried_kelp_block: dried kelp block
+dripstone_block: dripstone block
+dropper: dropper
+drowned_spawn_egg: drowned spawn egg
+dune_armor_trim_smithing_template: dune armor trim smithing template
+echo_shard: echo shard
+egg: egg
+elder_guardian_spawn_egg: elder guardian spawn egg
+elytra: elytra
+emerald: emerald
+emerald_block: emerald block
+emerald_ore: emerald ore
+enchanted_book: enchanted book
+enchanted_golden_apple: enchanted golden apple
+enchanting_table: enchanting table
+end_crystal: end crystal
+end_gateway: end gateway
+end_portal: end portal
+end_portal_frame: end portal frame
+end_rod: end rod
+end_stone: end stone
+end_stone_brick_slab: end stone brick slab
+end_stone_brick_stairs: end stone brick stairs
+end_stone_brick_wall: end stone brick wall
+end_stone_bricks: end stone bricks
+ender_chest: ender chest
+ender_dragon_spawn_egg: ender dragon spawn egg
+ender_eye: ender eye
+ender_pearl: ender pearl
+enderman_spawn_egg: enderman spawn egg
+endermite_spawn_egg: endermite spawn egg
+evoker_spawn_egg: evoker spawn egg
+experience_bottle: experience bottle
+explorer_pottery_sherd: explorer pottery sherd
+exposed_chiseled_copper: exposed chiseled copper
+exposed_copper: exposed copper
+exposed_copper_bars: exposed copper bars
+exposed_copper_bulb: exposed copper bulb
+exposed_copper_chain: exposed copper chain
+exposed_copper_chest: exposed copper chest
+exposed_copper_door: exposed copper door
+exposed_copper_golem_statue: exposed copper golem statue
+exposed_copper_grate: exposed copper grate
+exposed_copper_lantern: exposed copper lantern
+exposed_copper_trapdoor: exposed copper trapdoor
+exposed_cut_copper: exposed cut copper
+exposed_cut_copper_slab: exposed cut copper slab
+exposed_cut_copper_stairs: exposed cut copper stairs
+exposed_lightning_rod: exposed lightning rod
+eye_armor_trim_smithing_template: eye armor trim smithing template
+farmland: farmland
+feather: feather
+fermented_spider_eye: fermented spider eye
+fern: fern
+field_masoned_banner_pattern: field masoned banner pattern
+filled_map: filled map
+fire: fire
+fire_charge: fire charge
+fire_coral: fire coral
+fire_coral_block: fire coral block
+fire_coral_fan: fire coral fan
+fire_coral_wall_fan: fire coral wall fan
+firefly_bush: firefly bush
+firework_rocket: firework rocket
+firework_star: firework star
+fishing_rod: fishing rod
+fletching_table: fletching table
+flint: flint
+flint_and_steel: flint and steel
+flow_armor_trim_smithing_template: flow armor trim smithing template
+flow_banner_pattern: flow banner pattern
+flow_pottery_sherd: flow pottery sherd
+flower_banner_pattern: flower banner pattern
+flower_pot: flower pot
+flowering_azalea: flowering azalea
+flowering_azalea_leaves: flowering azalea leaves
+fox_spawn_egg: fox spawn egg
+friend_pottery_sherd: friend pottery sherd
+frog_spawn_egg: frog spawn egg
+frogspawn: frogspawn
+frosted_ice: frosted ice
+furnace: furnace
+furnace_minecart: furnace minecart
+ghast_spawn_egg: ghast spawn egg
+ghast_tear: ghast tear
+gilded_blackstone: gilded blackstone
+glass: glass
+glass_bottle: glass bottle
+glass_pane: glass pane
+glistering_melon_slice: glistering melon slice
+globe_banner_pattern: globe banner pattern
+glow_berries: glow berries
+glow_ink_sac: glow ink sac
+glow_item_frame: glow item frame
+glow_lichen: glow lichen
+glow_squid_spawn_egg: glow squid spawn egg
+glowstone: glowstone
+glowstone_dust: glowstone dust
+goat_horn: goat horn
+goat_spawn_egg: goat spawn egg
+gold_block: gold block
+gold_ingot: gold ingot
+gold_nugget: gold nugget
+gold_ore: gold ore
+golden_apple: golden apple
+golden_axe: golden axe
+golden_boots: golden boots
+golden_carrot: golden carrot
+golden_chestplate: golden chestplate
+golden_helmet: golden helmet
+golden_hoe: golden hoe
+golden_horse_armor: golden horse armor
+golden_leggings: golden leggings
+golden_pickaxe: golden pickaxe
+golden_shovel: golden shovel
+golden_sword: golden sword
+granite: granite
+granite_slab: granite slab
+granite_stairs: granite stairs
+granite_wall: granite wall
+grass_block: grass block
+gravel: gravel
+gray_banner: gray banner
+gray_bed: gray bed
+gray_bundle: gray bundle
+gray_candle: gray candle
+gray_candle_cake: gray candle cake
+gray_carpet: gray carpet
+gray_concrete: gray concrete
+gray_concrete_powder: gray concrete powder
+gray_dye: gray dye
+gray_glazed_terracotta: gray glazed terracotta
+gray_harness: gray harness
+gray_shulker_box: gray shulker box
+gray_stained_glass: gray stained glass
+gray_stained_glass_pane: gray stained glass pane
+gray_terracotta: gray terracotta
+gray_wall_banner: gray wall banner
+gray_wool: gray wool
+green_banner: green banner
+green_bed: green bed
+green_bundle: green bundle
+green_candle: green candle
+green_candle_cake: green candle cake
+green_carpet: green carpet
+green_concrete: green concrete
+green_concrete_powder: green concrete powder
+green_dye: green dye
+green_glazed_terracotta: green glazed terracotta
+green_harness: green harness
+green_shulker_box: green shulker box
+green_stained_glass: green stained glass
+green_stained_glass_pane: green stained glass pane
+green_terracotta: green terracotta
+green_wall_banner: green wall banner
+green_wool: green wool
+grindstone: grindstone
+guardian_spawn_egg: guardian spawn egg
+gunpowder: gunpowder
+guster_banner_pattern: guster banner pattern
+guster_pottery_sherd: guster pottery sherd
+hanging_roots: hanging roots
+happy_ghast_spawn_egg: happy ghast spawn egg
+hay_block: hay block
+heart_of_the_sea: heart of the sea
+heart_pottery_sherd: heart pottery sherd
+heartbreak_pottery_sherd: heartbreak pottery sherd
+heavy_core: heavy core
+heavy_weighted_pressure_plate: heavy weighted pressure plate
+hoglin_spawn_egg: hoglin spawn egg
+honey_block: honey block
+honey_bottle: honey bottle
+honeycomb: honeycomb
+honeycomb_block: honeycomb block
+hopper: hopper
+hopper_minecart: hopper minecart
+horn_coral: horn coral
+horn_coral_block: horn coral block
+horn_coral_fan: horn coral fan
+horn_coral_wall_fan: horn coral wall fan
+horse_spawn_egg: horse spawn egg
+host_armor_trim_smithing_template: host armor trim smithing template
+howl_pottery_sherd: howl pottery sherd
+husk_spawn_egg: husk spawn egg
+ice: ice
+infested_chiseled_stone_bricks: infested chiseled stone bricks
+infested_cobblestone: infested cobblestone
+infested_cracked_stone_bricks: infested cracked stone bricks
+infested_deepslate: infested deepslate
+infested_mossy_stone_bricks: infested mossy stone bricks
+infested_stone: infested stone
+infested_stone_bricks: infested stone bricks
+ink_sac: ink sac
+iron_axe: iron axe
+iron_bars: iron bars
+iron_block: iron block
+iron_boots: iron boots
+iron_chain: iron chain
+iron_chestplate: iron chestplate
+iron_door: iron door
+iron_golem_spawn_egg: iron golem spawn egg
+iron_helmet: iron helmet
+iron_hoe: iron hoe
+iron_horse_armor: iron horse armor
+iron_ingot: iron ingot
+iron_leggings: iron leggings
+iron_nugget: iron nugget
+iron_ore: iron ore
+iron_pickaxe: iron pickaxe
+iron_shovel: iron shovel
+iron_sword: iron sword
+iron_trapdoor: iron trapdoor
+item_frame: item frame
+jack_o_lantern: jack o lantern
+jigsaw: jigsaw
+jukebox: jukebox
+jungle_boat: jungle boat
+jungle_button: jungle button
+jungle_chest_boat: jungle chest boat
+jungle_door: jungle door
+jungle_fence: jungle fence
+jungle_fence_gate: jungle fence gate
+jungle_hanging_sign: jungle hanging sign
+jungle_leaves: jungle leaves
+jungle_log: jungle log
+jungle_planks: jungle planks
+jungle_pressure_plate: jungle pressure plate
+jungle_sapling: jungle sapling
+jungle_shelf: jungle shelf
+jungle_sign: jungle sign
+jungle_slab: jungle slab
+jungle_stairs: jungle stairs
+jungle_trapdoor: jungle trapdoor
+jungle_wall_hanging_sign: jungle wall hanging sign
+jungle_wall_sign: jungle wall sign
+jungle_wood: jungle wood
+kelp: kelp
+kelp_plant: kelp plant
+knowledge_book: knowledge book
+ladder: ladder
+lantern: lantern
+lapis_block: lapis block
+lapis_lazuli: lapis lazuli
+lapis_ore: lapis ore
+large_amethyst_bud: large amethyst bud
+large_fern: large fern
+lava: lava
+lava_bucket: lava bucket
+lava_cauldron: lava cauldron
+lead: lead
+leaf_litter: leaf litter
+leather: leather
+leather_boots: leather boots
+leather_chestplate: leather chestplate
+leather_helmet: leather helmet
+leather_horse_armor: leather horse armor
+leather_leggings: leather leggings
+lectern: lectern
+legacy_acacia_door: legacy acacia door
+legacy_acacia_door_item: legacy acacia door item
+legacy_acacia_fence: legacy acacia fence
+legacy_acacia_fence_gate: legacy acacia fence gate
+legacy_acacia_stairs: legacy acacia stairs
+legacy_activator_rail: legacy activator rail
+legacy_air: legacy air
+legacy_anvil: legacy anvil
+legacy_apple: legacy apple
+legacy_armor_stand: legacy armor stand
+legacy_arrow: legacy arrow
+legacy_baked_potato: legacy baked potato
+legacy_banner: legacy banner
+legacy_barrier: legacy barrier
+legacy_beacon: legacy beacon
+legacy_bed: legacy bed
+legacy_bed_block: legacy bed block
+legacy_bedrock: legacy bedrock
+legacy_beetroot: legacy beetroot
+legacy_beetroot_block: legacy beetroot block
+legacy_beetroot_seeds: legacy beetroot seeds
+legacy_beetroot_soup: legacy beetroot soup
+legacy_birch_door: legacy birch door
+legacy_birch_door_item: legacy birch door item
+legacy_birch_fence: legacy birch fence
+legacy_birch_fence_gate: legacy birch fence gate
+legacy_birch_wood_stairs: legacy birch wood stairs
+legacy_black_glazed_terracotta: legacy black glazed terracotta
+legacy_black_shulker_box: legacy black shulker box
+legacy_blaze_powder: legacy blaze powder
+legacy_blaze_rod: legacy blaze rod
+legacy_blue_glazed_terracotta: legacy blue glazed terracotta
+legacy_blue_shulker_box: legacy blue shulker box
+legacy_boat: legacy boat
+legacy_boat_acacia: legacy boat acacia
+legacy_boat_birch: legacy boat birch
+legacy_boat_dark_oak: legacy boat dark oak
+legacy_boat_jungle: legacy boat jungle
+legacy_boat_spruce: legacy boat spruce
+legacy_bone: legacy bone
+legacy_bone_block: legacy bone block
+legacy_book: legacy book
+legacy_book_and_quill: legacy book and quill
+legacy_bookshelf: legacy bookshelf
+legacy_bow: legacy bow
+legacy_bowl: legacy bowl
+legacy_bread: legacy bread
+legacy_brewing_stand: legacy brewing stand
+legacy_brewing_stand_item: legacy brewing stand item
+legacy_brick: legacy brick
+legacy_brick_stairs: legacy brick stairs
+legacy_brown_glazed_terracotta: legacy brown glazed terracotta
+legacy_brown_mushroom: legacy brown mushroom
+legacy_brown_shulker_box: legacy brown shulker box
+legacy_bucket: legacy bucket
+legacy_burning_furnace: legacy burning furnace
+legacy_cactus: legacy cactus
+legacy_cake: legacy cake
+legacy_cake_block: legacy cake block
+legacy_carpet: legacy carpet
+legacy_carrot: legacy carrot
+legacy_carrot_item: legacy carrot item
+legacy_carrot_stick: legacy carrot stick
+legacy_cauldron: legacy cauldron
+legacy_cauldron_item: legacy cauldron item
+legacy_chainmail_boots: legacy chainmail boots
+legacy_chainmail_chestplate: legacy chainmail chestplate
+legacy_chainmail_helmet: legacy chainmail helmet
+legacy_chainmail_leggings: legacy chainmail leggings
+legacy_chest: legacy chest
+legacy_chorus_flower: legacy chorus flower
+legacy_chorus_fruit: legacy chorus fruit
+legacy_chorus_fruit_popped: legacy chorus fruit popped
+legacy_chorus_plant: legacy chorus plant
+legacy_clay: legacy clay
+legacy_clay_ball: legacy clay ball
+legacy_clay_brick: legacy clay brick
+legacy_coal: legacy coal
+legacy_coal_block: legacy coal block
+legacy_coal_ore: legacy coal ore
+legacy_cobble_wall: legacy cobble wall
+legacy_cobblestone: legacy cobblestone
+legacy_cobblestone_stairs: legacy cobblestone stairs
+legacy_cocoa: legacy cocoa
+legacy_command: legacy command
+legacy_command_chain: legacy command chain
+legacy_command_minecart: legacy command minecart
+legacy_command_repeating: legacy command repeating
+legacy_compass: legacy compass
+legacy_concrete: legacy concrete
+legacy_concrete_powder: legacy concrete powder
+legacy_cooked_beef: legacy cooked beef
+legacy_cooked_chicken: legacy cooked chicken
+legacy_cooked_fish: legacy cooked fish
+legacy_cooked_mutton: legacy cooked mutton
+legacy_cooked_rabbit: legacy cooked rabbit
+legacy_cookie: legacy cookie
+legacy_crops: legacy crops
+legacy_cyan_glazed_terracotta: legacy cyan glazed terracotta
+legacy_cyan_shulker_box: legacy cyan shulker box
+legacy_dark_oak_door: legacy dark oak door
+legacy_dark_oak_door_item: legacy dark oak door item
+legacy_dark_oak_fence: legacy dark oak fence
+legacy_dark_oak_fence_gate: legacy dark oak fence gate
+legacy_dark_oak_stairs: legacy dark oak stairs
+legacy_daylight_detector: legacy daylight detector
+legacy_daylight_detector_inverted: legacy daylight detector inverted
+legacy_dead_bush: legacy dead bush
+legacy_detector_rail: legacy detector rail
+legacy_diamond: legacy diamond
+legacy_diamond_axe: legacy diamond axe
+legacy_diamond_barding: legacy diamond barding
+legacy_diamond_block: legacy diamond block
+legacy_diamond_boots: legacy diamond boots
+legacy_diamond_chestplate: legacy diamond chestplate
+legacy_diamond_helmet: legacy diamond helmet
+legacy_diamond_hoe: legacy diamond hoe
+legacy_diamond_leggings: legacy diamond leggings
+legacy_diamond_ore: legacy diamond ore
+legacy_diamond_pickaxe: legacy diamond pickaxe
+legacy_diamond_spade: legacy diamond spade
+legacy_diamond_sword: legacy diamond sword
+legacy_diode: legacy diode
+legacy_diode_block_off: legacy diode block off
+legacy_diode_block_on: legacy diode block on
+legacy_dirt: legacy dirt
+legacy_dispenser: legacy dispenser
+legacy_double_plant: legacy double plant
+legacy_double_step: legacy double step
+legacy_double_stone_slab2: legacy double stone slab2
+legacy_dragon_egg: legacy dragon egg
+legacy_dragons_breath: legacy dragons breath
+legacy_dropper: legacy dropper
+legacy_egg: legacy egg
+legacy_elytra: legacy elytra
+legacy_emerald: legacy emerald
+legacy_emerald_block: legacy emerald block
+legacy_emerald_ore: legacy emerald ore
+legacy_empty_map: legacy empty map
+legacy_enchanted_book: legacy enchanted book
+legacy_enchantment_table: legacy enchantment table
+legacy_end_bricks: legacy end bricks
+legacy_end_crystal: legacy end crystal
+legacy_end_gateway: legacy end gateway
+legacy_end_rod: legacy end rod
+legacy_ender_chest: legacy ender chest
+legacy_ender_pearl: legacy ender pearl
+legacy_ender_portal: legacy ender portal
+legacy_ender_portal_frame: legacy ender portal frame
+legacy_ender_stone: legacy ender stone
+legacy_exp_bottle: legacy exp bottle
+legacy_explosive_minecart: legacy explosive minecart
+legacy_eye_of_ender: legacy eye of ender
+legacy_feather: legacy feather
+legacy_fence: legacy fence
+legacy_fence_gate: legacy fence gate
+legacy_fermented_spider_eye: legacy fermented spider eye
+legacy_fire: legacy fire
+legacy_fireball: legacy fireball
+legacy_firework: legacy firework
+legacy_firework_charge: legacy firework charge
+legacy_fishing_rod: legacy fishing rod
+legacy_flint: legacy flint
+legacy_flint_and_steel: legacy flint and steel
+legacy_flower_pot: legacy flower pot
+legacy_flower_pot_item: legacy flower pot item
+legacy_frosted_ice: legacy frosted ice
+legacy_furnace: legacy furnace
+legacy_ghast_tear: legacy ghast tear
+legacy_glass: legacy glass
+legacy_glass_bottle: legacy glass bottle
+legacy_glowing_redstone_ore: legacy glowing redstone ore
+legacy_glowstone: legacy glowstone
+legacy_glowstone_dust: legacy glowstone dust
+legacy_gold_axe: legacy gold axe
+legacy_gold_barding: legacy gold barding
+legacy_gold_block: legacy gold block
+legacy_gold_boots: legacy gold boots
+legacy_gold_chestplate: legacy gold chestplate
+legacy_gold_helmet: legacy gold helmet
+legacy_gold_hoe: legacy gold hoe
+legacy_gold_ingot: legacy gold ingot
+legacy_gold_leggings: legacy gold leggings
+legacy_gold_nugget: legacy gold nugget
+legacy_gold_ore: legacy gold ore
+legacy_gold_pickaxe: legacy gold pickaxe
+legacy_gold_plate: legacy gold plate
+legacy_gold_record: legacy gold record
+legacy_gold_spade: legacy gold spade
+legacy_gold_sword: legacy gold sword
+legacy_golden_apple: legacy golden apple
+legacy_golden_carrot: legacy golden carrot
+legacy_grass: legacy grass
+legacy_grass_path: legacy grass path
+legacy_gravel: legacy gravel
+legacy_gray_glazed_terracotta: legacy gray glazed terracotta
+legacy_gray_shulker_box: legacy gray shulker box
+legacy_green_glazed_terracotta: legacy green glazed terracotta
+legacy_green_record: legacy green record
+legacy_green_shulker_box: legacy green shulker box
+legacy_grilled_pork: legacy grilled pork
+legacy_hard_clay: legacy hard clay
+legacy_hay_block: legacy hay block
+legacy_hopper: legacy hopper
+legacy_hopper_minecart: legacy hopper minecart
+legacy_huge_mushroom_1: legacy huge mushroom 1
+legacy_huge_mushroom_2: legacy huge mushroom 2
+legacy_ice: legacy ice
+legacy_ink_sack: legacy ink sack
+legacy_iron_axe: legacy iron axe
+legacy_iron_barding: legacy iron barding
+legacy_iron_block: legacy iron block
+legacy_iron_boots: legacy iron boots
+legacy_iron_chestplate: legacy iron chestplate
+legacy_iron_door: legacy iron door
+legacy_iron_door_block: legacy iron door block
+legacy_iron_fence: legacy iron fence
+legacy_iron_helmet: legacy iron helmet
+legacy_iron_hoe: legacy iron hoe
+legacy_iron_ingot: legacy iron ingot
+legacy_iron_leggings: legacy iron leggings
+legacy_iron_nugget: legacy iron nugget
+legacy_iron_ore: legacy iron ore
+legacy_iron_pickaxe: legacy iron pickaxe
+legacy_iron_plate: legacy iron plate
+legacy_iron_spade: legacy iron spade
+legacy_iron_sword: legacy iron sword
+legacy_iron_trapdoor: legacy iron trapdoor
+legacy_item_frame: legacy item frame
+legacy_jack_o_lantern: legacy jack o lantern
+legacy_jukebox: legacy jukebox
+legacy_jungle_door: legacy jungle door
+legacy_jungle_door_item: legacy jungle door item
+legacy_jungle_fence: legacy jungle fence
+legacy_jungle_fence_gate: legacy jungle fence gate
+legacy_jungle_wood_stairs: legacy jungle wood stairs
+legacy_knowledge_book: legacy knowledge book
+legacy_ladder: legacy ladder
+legacy_lapis_block: legacy lapis block
+legacy_lapis_ore: legacy lapis ore
+legacy_lava: legacy lava
+legacy_lava_bucket: legacy lava bucket
+legacy_leash: legacy leash
+legacy_leather: legacy leather
+legacy_leather_boots: legacy leather boots
+legacy_leather_chestplate: legacy leather chestplate
+legacy_leather_helmet: legacy leather helmet
+legacy_leather_leggings: legacy leather leggings
+legacy_leaves: legacy leaves
+legacy_leaves_2: legacy leaves 2
+legacy_lever: legacy lever
+legacy_light_blue_glazed_terracotta: legacy light blue glazed terracotta
+legacy_light_blue_shulker_box: legacy light blue shulker box
+legacy_lime_glazed_terracotta: legacy lime glazed terracotta
+legacy_lime_shulker_box: legacy lime shulker box
+legacy_lingering_potion: legacy lingering potion
+legacy_log: legacy log
+legacy_log_2: legacy log 2
+legacy_long_grass: legacy long grass
+legacy_magenta_glazed_terracotta: legacy magenta glazed terracotta
+legacy_magenta_shulker_box: legacy magenta shulker box
+legacy_magma: legacy magma
+legacy_magma_cream: legacy magma cream
+legacy_map: legacy map
+legacy_melon: legacy melon
+legacy_melon_block: legacy melon block
+legacy_melon_seeds: legacy melon seeds
+legacy_melon_stem: legacy melon stem
+legacy_milk_bucket: legacy milk bucket
+legacy_minecart: legacy minecart
+legacy_mob_spawner: legacy mob spawner
+legacy_monster_egg: legacy monster egg
+legacy_monster_eggs: legacy monster eggs
+legacy_mossy_cobblestone: legacy mossy cobblestone
+legacy_mushroom_soup: legacy mushroom soup
+legacy_mutton: legacy mutton
+legacy_mycel: legacy mycel
+legacy_name_tag: legacy name tag
+legacy_nether_brick: legacy nether brick
+legacy_nether_brick_item: legacy nether brick item
+legacy_nether_brick_stairs: legacy nether brick stairs
+legacy_nether_fence: legacy nether fence
+legacy_nether_stalk: legacy nether stalk
+legacy_nether_star: legacy nether star
+legacy_nether_wart_block: legacy nether wart block
+legacy_nether_warts: legacy nether warts
+legacy_netherrack: legacy netherrack
+legacy_note_block: legacy note block
+legacy_observer: legacy observer
+legacy_obsidian: legacy obsidian
+legacy_orange_glazed_terracotta: legacy orange glazed terracotta
+legacy_orange_shulker_box: legacy orange shulker box
+legacy_packed_ice: legacy packed ice
+legacy_painting: legacy painting
+legacy_paper: legacy paper
+legacy_pink_glazed_terracotta: legacy pink glazed terracotta
+legacy_pink_shulker_box: legacy pink shulker box
+legacy_piston_base: legacy piston base
+legacy_piston_extension: legacy piston extension
+legacy_piston_moving_piece: legacy piston moving piece
+legacy_piston_sticky_base: legacy piston sticky base
+legacy_poisonous_potato: legacy poisonous potato
+legacy_pork: legacy pork
+legacy_portal: legacy portal
+legacy_potato: legacy potato
+legacy_potato_item: legacy potato item
+legacy_potion: legacy potion
+legacy_powered_minecart: legacy powered minecart
+legacy_powered_rail: legacy powered rail
+legacy_prismarine: legacy prismarine
+legacy_prismarine_crystals: legacy prismarine crystals
+legacy_prismarine_shard: legacy prismarine shard
+legacy_pumpkin: legacy pumpkin
+legacy_pumpkin_pie: legacy pumpkin pie
+legacy_pumpkin_seeds: legacy pumpkin seeds
+legacy_pumpkin_stem: legacy pumpkin stem
+legacy_purple_glazed_terracotta: legacy purple glazed terracotta
+legacy_purple_shulker_box: legacy purple shulker box
+legacy_purpur_block: legacy purpur block
+legacy_purpur_double_slab: legacy purpur double slab
+legacy_purpur_pillar: legacy purpur pillar
+legacy_purpur_slab: legacy purpur slab
+legacy_purpur_stairs: legacy purpur stairs
+legacy_quartz: legacy quartz
+legacy_quartz_block: legacy quartz block
+legacy_quartz_ore: legacy quartz ore
+legacy_quartz_stairs: legacy quartz stairs
+legacy_rabbit: legacy rabbit
+legacy_rabbit_foot: legacy rabbit foot
+legacy_rabbit_hide: legacy rabbit hide
+legacy_rabbit_stew: legacy rabbit stew
+legacy_rails: legacy rails
+legacy_raw_beef: legacy raw beef
+legacy_raw_chicken: legacy raw chicken
+legacy_raw_fish: legacy raw fish
+legacy_record_10: legacy record 10
+legacy_record_11: legacy record 11
+legacy_record_12: legacy record 12
+legacy_record_3: legacy record 3
+legacy_record_4: legacy record 4
+legacy_record_5: legacy record 5
+legacy_record_6: legacy record 6
+legacy_record_7: legacy record 7
+legacy_record_8: legacy record 8
+legacy_record_9: legacy record 9
+legacy_red_glazed_terracotta: legacy red glazed terracotta
+legacy_red_mushroom: legacy red mushroom
+legacy_red_nether_brick: legacy red nether brick
+legacy_red_rose: legacy red rose
+legacy_red_sandstone: legacy red sandstone
+legacy_red_sandstone_stairs: legacy red sandstone stairs
+legacy_red_shulker_box: legacy red shulker box
+legacy_redstone: legacy redstone
+legacy_redstone_block: legacy redstone block
+legacy_redstone_comparator: legacy redstone comparator
+legacy_redstone_comparator_off: legacy redstone comparator off
+legacy_redstone_comparator_on: legacy redstone comparator on
+legacy_redstone_lamp_off: legacy redstone lamp off
+legacy_redstone_lamp_on: legacy redstone lamp on
+legacy_redstone_ore: legacy redstone ore
+legacy_redstone_torch_off: legacy redstone torch off
+legacy_redstone_torch_on: legacy redstone torch on
+legacy_redstone_wire: legacy redstone wire
+legacy_rotten_flesh: legacy rotten flesh
+legacy_saddle: legacy saddle
+legacy_sand: legacy sand
+legacy_sandstone: legacy sandstone
+legacy_sandstone_stairs: legacy sandstone stairs
+legacy_sapling: legacy sapling
+legacy_sea_lantern: legacy sea lantern
+legacy_seeds: legacy seeds
+legacy_shears: legacy shears
+legacy_shield: legacy shield
+legacy_shulker_shell: legacy shulker shell
+legacy_sign: legacy sign
+legacy_sign_post: legacy sign post
+legacy_silver_glazed_terracotta: legacy silver glazed terracotta
+legacy_silver_shulker_box: legacy silver shulker box
+legacy_skull: legacy skull
+legacy_skull_item: legacy skull item
+legacy_slime_ball: legacy slime ball
+legacy_slime_block: legacy slime block
+legacy_smooth_brick: legacy smooth brick
+legacy_smooth_stairs: legacy smooth stairs
+legacy_snow: legacy snow
+legacy_snow_ball: legacy snow ball
+legacy_snow_block: legacy snow block
+legacy_soil: legacy soil
+legacy_soul_sand: legacy soul sand
+legacy_speckled_melon: legacy speckled melon
+legacy_spectral_arrow: legacy spectral arrow
+legacy_spider_eye: legacy spider eye
+legacy_splash_potion: legacy splash potion
+legacy_sponge: legacy sponge
+legacy_spruce_door: legacy spruce door
+legacy_spruce_door_item: legacy spruce door item
+legacy_spruce_fence: legacy spruce fence
+legacy_spruce_fence_gate: legacy spruce fence gate
+legacy_spruce_wood_stairs: legacy spruce wood stairs
+legacy_stained_clay: legacy stained clay
+legacy_stained_glass: legacy stained glass
+legacy_stained_glass_pane: legacy stained glass pane
+legacy_standing_banner: legacy standing banner
+legacy_stationary_lava: legacy stationary lava
+legacy_stationary_water: legacy stationary water
+legacy_step: legacy step
+legacy_stick: legacy stick
+legacy_stone: legacy stone
+legacy_stone_axe: legacy stone axe
+legacy_stone_button: legacy stone button
+legacy_stone_hoe: legacy stone hoe
+legacy_stone_pickaxe: legacy stone pickaxe
+legacy_stone_plate: legacy stone plate
+legacy_stone_slab2: legacy stone slab2
+legacy_stone_spade: legacy stone spade
+legacy_stone_sword: legacy stone sword
+legacy_storage_minecart: legacy storage minecart
+legacy_string: legacy string
+legacy_structure_block: legacy structure block
+legacy_structure_void: legacy structure void
+legacy_sugar: legacy sugar
+legacy_sugar_cane: legacy sugar cane
+legacy_sugar_cane_block: legacy sugar cane block
+legacy_sulphur: legacy sulphur
+legacy_thin_glass: legacy thin glass
+legacy_tipped_arrow: legacy tipped arrow
+legacy_tnt: legacy tnt
+legacy_torch: legacy torch
+legacy_totem: legacy totem
+legacy_trap_door: legacy trap door
+legacy_trapped_chest: legacy trapped chest
+legacy_tripwire: legacy tripwire
+legacy_tripwire_hook: legacy tripwire hook
+legacy_vine: legacy vine
+legacy_wall_banner: legacy wall banner
+legacy_wall_sign: legacy wall sign
+legacy_watch: legacy watch
+legacy_water: legacy water
+legacy_water_bucket: legacy water bucket
+legacy_water_lily: legacy water lily
+legacy_web: legacy web
+legacy_wheat: legacy wheat
+legacy_white_glazed_terracotta: legacy white glazed terracotta
+legacy_white_shulker_box: legacy white shulker box
+legacy_wood: legacy wood
+legacy_wood_axe: legacy wood axe
+legacy_wood_button: legacy wood button
+legacy_wood_door: legacy wood door
+legacy_wood_double_step: legacy wood double step
+legacy_wood_hoe: legacy wood hoe
+legacy_wood_pickaxe: legacy wood pickaxe
+legacy_wood_plate: legacy wood plate
+legacy_wood_spade: legacy wood spade
+legacy_wood_stairs: legacy wood stairs
+legacy_wood_step: legacy wood step
+legacy_wood_sword: legacy wood sword
+legacy_wooden_door: legacy wooden door
+legacy_wool: legacy wool
+legacy_workbench: legacy workbench
+legacy_written_book: legacy written book
+legacy_yellow_flower: legacy yellow flower
+legacy_yellow_glazed_terracotta: legacy yellow glazed terracotta
+legacy_yellow_shulker_box: legacy yellow shulker box
+lever: lever
+light: light
+light_blue_banner: light blue banner
+light_blue_bed: light blue bed
+light_blue_bundle: light blue bundle
+light_blue_candle: light blue candle
+light_blue_candle_cake: light blue candle cake
+light_blue_carpet: light blue carpet
+light_blue_concrete: light blue concrete
+light_blue_concrete_powder: light blue concrete powder
+light_blue_dye: light blue dye
+light_blue_glazed_terracotta: light blue glazed terracotta
+light_blue_harness: light blue harness
+light_blue_shulker_box: light blue shulker box
+light_blue_stained_glass: light blue stained glass
+light_blue_stained_glass_pane: light blue stained glass pane
+light_blue_terracotta: light blue terracotta
+light_blue_wall_banner: light blue wall banner
+light_blue_wool: light blue wool
+light_gray_banner: light gray banner
+light_gray_bed: light gray bed
+light_gray_bundle: light gray bundle
+light_gray_candle: light gray candle
+light_gray_candle_cake: light gray candle cake
+light_gray_carpet: light gray carpet
+light_gray_concrete: light gray concrete
+light_gray_concrete_powder: light gray concrete powder
+light_gray_dye: light gray dye
+light_gray_glazed_terracotta: light gray glazed terracotta
+light_gray_harness: light gray harness
+light_gray_shulker_box: light gray shulker box
+light_gray_stained_glass: light gray stained glass
+light_gray_stained_glass_pane: light gray stained glass pane
+light_gray_terracotta: light gray terracotta
+light_gray_wall_banner: light gray wall banner
+light_gray_wool: light gray wool
+light_weighted_pressure_plate: light weighted pressure plate
+lightning_rod: lightning rod
+lilac: lilac
+lily_of_the_valley: lily of the valley
+lily_pad: lily pad
+lime_banner: lime banner
+lime_bed: lime bed
+lime_bundle: lime bundle
+lime_candle: lime candle
+lime_candle_cake: lime candle cake
+lime_carpet: lime carpet
+lime_concrete: lime concrete
+lime_concrete_powder: lime concrete powder
+lime_dye: lime dye
+lime_glazed_terracotta: lime glazed terracotta
+lime_harness: lime harness
+lime_shulker_box: lime shulker box
+lime_stained_glass: lime stained glass
+lime_stained_glass_pane: lime stained glass pane
+lime_terracotta: lime terracotta
+lime_wall_banner: lime wall banner
+lime_wool: lime wool
+lingering_potion: lingering potion
+llama_spawn_egg: llama spawn egg
+lodestone: lodestone
+loom: loom
+mace: mace
+magenta_banner: magenta banner
+magenta_bed: magenta bed
+magenta_bundle: magenta bundle
+magenta_candle: magenta candle
+magenta_candle_cake: magenta candle cake
+magenta_carpet: magenta carpet
+magenta_concrete: magenta concrete
+magenta_concrete_powder: magenta concrete powder
+magenta_dye: magenta dye
+magenta_glazed_terracotta: magenta glazed terracotta
+magenta_harness: magenta harness
+magenta_shulker_box: magenta shulker box
+magenta_stained_glass: magenta stained glass
+magenta_stained_glass_pane: magenta stained glass pane
+magenta_terracotta: magenta terracotta
+magenta_wall_banner: magenta wall banner
+magenta_wool: magenta wool
+magma_block: magma block
+magma_cream: magma cream
+magma_cube_spawn_egg: magma cube spawn egg
+mangrove_boat: mangrove boat
+mangrove_button: mangrove button
+mangrove_chest_boat: mangrove chest boat
+mangrove_door: mangrove door
+mangrove_fence: mangrove fence
+mangrove_fence_gate: mangrove fence gate
+mangrove_hanging_sign: mangrove hanging sign
+mangrove_leaves: mangrove leaves
+mangrove_log: mangrove log
+mangrove_planks: mangrove planks
+mangrove_pressure_plate: mangrove pressure plate
+mangrove_propagule: mangrove propagule
+mangrove_roots: mangrove roots
+mangrove_shelf: mangrove shelf
+mangrove_sign: mangrove sign
+mangrove_slab: mangrove slab
+mangrove_stairs: mangrove stairs
+mangrove_trapdoor: mangrove trapdoor
+mangrove_wall_hanging_sign: mangrove wall hanging sign
+mangrove_wall_sign: mangrove wall sign
+mangrove_wood: mangrove wood
+map: map
+medium_amethyst_bud: medium amethyst bud
+melon: melon
+melon_seeds: melon seeds
+melon_slice: melon slice
+melon_stem: melon stem
+milk_bucket: milk bucket
+minecart: minecart
+miner_pottery_sherd: miner pottery sherd
+mojang_banner_pattern: mojang banner pattern
+mooshroom_spawn_egg: mooshroom spawn egg
+moss_block: moss block
+moss_carpet: moss carpet
+mossy_cobblestone: mossy cobblestone
+mossy_cobblestone_slab: mossy cobblestone slab
+mossy_cobblestone_stairs: mossy cobblestone stairs
+mossy_cobblestone_wall: mossy cobblestone wall
+mossy_stone_brick_slab: mossy stone brick slab
+mossy_stone_brick_stairs: mossy stone brick stairs
+mossy_stone_brick_wall: mossy stone brick wall
+mossy_stone_bricks: mossy stone bricks
+mourner_pottery_sherd: mourner pottery sherd
+moving_piston: moving piston
+mud: mud
+mud_brick_slab: mud brick slab
+mud_brick_stairs: mud brick stairs
+mud_brick_wall: mud brick wall
+mud_bricks: mud bricks
+muddy_mangrove_roots: muddy mangrove roots
+mule_spawn_egg: mule spawn egg
+mushroom_stem: mushroom stem
+mushroom_stew: mushroom stew
+music_disc_11: music disc 11
+music_disc_13: music disc 13
+music_disc_5: music disc 5
+music_disc_blocks: music disc blocks
+music_disc_cat: music disc cat
+music_disc_chirp: music disc chirp
+music_disc_creator: music disc creator
+music_disc_creator_music_box: music disc creator music box
+music_disc_far: music disc far
+music_disc_lava_chicken: music disc lava chicken
+music_disc_mall: music disc mall
+music_disc_mellohi: music disc mellohi
+music_disc_otherside: music disc otherside
+music_disc_pigstep: music disc pigstep
+music_disc_precipice: music disc precipice
+music_disc_relic: music disc relic
+music_disc_stal: music disc stal
+music_disc_strad: music disc strad
+music_disc_tears: music disc tears
+music_disc_wait: music disc wait
+music_disc_ward: music disc ward
+mutton: mutton
+mycelium: mycelium
+name_tag: name tag
+nautilus_shell: nautilus shell
+nether_brick: nether brick
+nether_brick_fence: nether brick fence
+nether_brick_slab: nether brick slab
+nether_brick_stairs: nether brick stairs
+nether_brick_wall: nether brick wall
+nether_bricks: nether bricks
+nether_gold_ore: nether gold ore
+nether_portal: nether portal
+nether_quartz_ore: nether quartz ore
+nether_sprouts: nether sprouts
+nether_star: nether star
+nether_wart: nether wart
+nether_wart_block: nether wart block
+netherite_axe: netherite axe
+netherite_block: netherite block
+netherite_boots: netherite boots
+netherite_chestplate: netherite chestplate
+netherite_helmet: netherite helmet
+netherite_hoe: netherite hoe
+netherite_ingot: netherite ingot
+netherite_leggings: netherite leggings
+netherite_pickaxe: netherite pickaxe
+netherite_scrap: netherite scrap
+netherite_shovel: netherite shovel
+netherite_sword: netherite sword
+netherite_upgrade_smithing_template: netherite upgrade smithing template
+netherrack: netherrack
+note_block: note block
+oak_boat: oak boat
+oak_button: oak button
+oak_chest_boat: oak chest boat
+oak_door: oak door
+oak_fence: oak fence
+oak_fence_gate: oak fence gate
+oak_hanging_sign: oak hanging sign
+oak_leaves: oak leaves
+oak_log: oak log
+oak_planks: oak planks
+oak_pressure_plate: oak pressure plate
+oak_sapling: oak sapling
+oak_shelf: oak shelf
+oak_sign: oak sign
+oak_slab: oak slab
+oak_stairs: oak stairs
+oak_trapdoor: oak trapdoor
+oak_wall_hanging_sign: oak wall hanging sign
+oak_wall_sign: oak wall sign
+oak_wood: oak wood
+observer: observer
+obsidian: obsidian
+ocelot_spawn_egg: ocelot spawn egg
+ochre_froglight: ochre froglight
+ominous_bottle: ominous bottle
+ominous_trial_key: ominous trial key
+open_eyeblossom: open eyeblossom
+orange_banner: orange banner
+orange_bed: orange bed
+orange_bundle: orange bundle
+orange_candle: orange candle
+orange_candle_cake: orange candle cake
+orange_carpet: orange carpet
+orange_concrete: orange concrete
+orange_concrete_powder: orange concrete powder
+orange_dye: orange dye
+orange_glazed_terracotta: orange glazed terracotta
+orange_harness: orange harness
+orange_shulker_box: orange shulker box
+orange_stained_glass: orange stained glass
+orange_stained_glass_pane: orange stained glass pane
+orange_terracotta: orange terracotta
+orange_tulip: orange tulip
+orange_wall_banner: orange wall banner
+orange_wool: orange wool
+oxeye_daisy: oxeye daisy
+oxidized_chiseled_copper: oxidized chiseled copper
+oxidized_copper: oxidized copper
+oxidized_copper_bars: oxidized copper bars
+oxidized_copper_bulb: oxidized copper bulb
+oxidized_copper_chain: oxidized copper chain
+oxidized_copper_chest: oxidized copper chest
+oxidized_copper_door: oxidized copper door
+oxidized_copper_golem_statue: oxidized copper golem statue
+oxidized_copper_grate: oxidized copper grate
+oxidized_copper_lantern: oxidized copper lantern
+oxidized_copper_trapdoor: oxidized copper trapdoor
+oxidized_cut_copper: oxidized cut copper
+oxidized_cut_copper_slab: oxidized cut copper slab
+oxidized_cut_copper_stairs: oxidized cut copper stairs
+oxidized_lightning_rod: oxidized lightning rod
+packed_ice: packed ice
+packed_mud: packed mud
+painting: painting
+pale_hanging_moss: pale hanging moss
+pale_moss_block: pale moss block
+pale_moss_carpet: pale moss carpet
+pale_oak_boat: pale oak boat
+pale_oak_button: pale oak button
+pale_oak_chest_boat: pale oak chest boat
+pale_oak_door: pale oak door
+pale_oak_fence: pale oak fence
+pale_oak_fence_gate: pale oak fence gate
+pale_oak_hanging_sign: pale oak hanging sign
+pale_oak_leaves: pale oak leaves
+pale_oak_log: pale oak log
+pale_oak_planks: pale oak planks
+pale_oak_pressure_plate: pale oak pressure plate
+pale_oak_sapling: pale oak sapling
+pale_oak_shelf: pale oak shelf
+pale_oak_sign: pale oak sign
+pale_oak_slab: pale oak slab
+pale_oak_stairs: pale oak stairs
+pale_oak_trapdoor: pale oak trapdoor
+pale_oak_wall_hanging_sign: pale oak wall hanging sign
+pale_oak_wall_sign: pale oak wall sign
+pale_oak_wood: pale oak wood
+panda_spawn_egg: panda spawn egg
+paper: paper
+parrot_spawn_egg: parrot spawn egg
+pearlescent_froglight: pearlescent froglight
+peony: peony
+petrified_oak_slab: petrified oak slab
+phantom_membrane: phantom membrane
+phantom_spawn_egg: phantom spawn egg
+pig_spawn_egg: pig spawn egg
+piglin_banner_pattern: piglin banner pattern
+piglin_brute_spawn_egg: piglin brute spawn egg
+piglin_head: piglin head
+piglin_spawn_egg: piglin spawn egg
+piglin_wall_head: piglin wall head
+pillager_spawn_egg: pillager spawn egg
+pink_banner: pink banner
+pink_bed: pink bed
+pink_bundle: pink bundle
+pink_candle: pink candle
+pink_candle_cake: pink candle cake
+pink_carpet: pink carpet
+pink_concrete: pink concrete
+pink_concrete_powder: pink concrete powder
+pink_dye: pink dye
+pink_glazed_terracotta: pink glazed terracotta
+pink_harness: pink harness
+pink_petals: pink petals
+pink_shulker_box: pink shulker box
+pink_stained_glass: pink stained glass
+pink_stained_glass_pane: pink stained glass pane
+pink_terracotta: pink terracotta
+pink_tulip: pink tulip
+pink_wall_banner: pink wall banner
+pink_wool: pink wool
+piston: piston
+piston_head: piston head
+pitcher_crop: pitcher crop
+pitcher_plant: pitcher plant
+pitcher_pod: pitcher pod
+player_head: player head
+player_wall_head: player wall head
+plenty_pottery_sherd: plenty pottery sherd
+podzol: podzol
+pointed_dripstone: pointed dripstone
+poisonous_potato: poisonous potato
+polar_bear_spawn_egg: polar bear spawn egg
+polished_andesite: polished andesite
+polished_andesite_slab: polished andesite slab
+polished_andesite_stairs: polished andesite stairs
+polished_basalt: polished basalt
+polished_blackstone: polished blackstone
+polished_blackstone_brick_slab: polished blackstone brick slab
+polished_blackstone_brick_stairs: polished blackstone brick stairs
+polished_blackstone_brick_wall: polished blackstone brick wall
+polished_blackstone_bricks: polished blackstone bricks
+polished_blackstone_button: polished blackstone button
+polished_blackstone_pressure_plate: polished blackstone pressure plate
+polished_blackstone_slab: polished blackstone slab
+polished_blackstone_stairs: polished blackstone stairs
+polished_blackstone_wall: polished blackstone wall
+polished_deepslate: polished deepslate
+polished_deepslate_slab: polished deepslate slab
+polished_deepslate_stairs: polished deepslate stairs
+polished_deepslate_wall: polished deepslate wall
+polished_diorite: polished diorite
+polished_diorite_slab: polished diorite slab
+polished_diorite_stairs: polished diorite stairs
+polished_granite: polished granite
+polished_granite_slab: polished granite slab
+polished_granite_stairs: polished granite stairs
+polished_tuff: polished tuff
+polished_tuff_slab: polished tuff slab
+polished_tuff_stairs: polished tuff stairs
+polished_tuff_wall: polished tuff wall
+popped_chorus_fruit: popped chorus fruit
+poppy: poppy
+porkchop: porkchop
+potato: potato
+potatoes: potatoes
+potion: potion
+potted_acacia_sapling: potted acacia sapling
+potted_allium: potted allium
+potted_azalea_bush: potted azalea bush
+potted_azure_bluet: potted azure bluet
+potted_bamboo: potted bamboo
+potted_birch_sapling: potted birch sapling
+potted_blue_orchid: potted blue orchid
+potted_brown_mushroom: potted brown mushroom
+potted_cactus: potted cactus
+potted_cherry_sapling: potted cherry sapling
+potted_closed_eyeblossom: potted closed eyeblossom
+potted_cornflower: potted cornflower
+potted_crimson_fungus: potted crimson fungus
+potted_crimson_roots: potted crimson roots
+potted_dandelion: potted dandelion
+potted_dark_oak_sapling: potted dark oak sapling
+potted_dead_bush: potted dead bush
+potted_fern: potted fern
+potted_flowering_azalea_bush: potted flowering azalea bush
+potted_jungle_sapling: potted jungle sapling
+potted_lily_of_the_valley: potted lily of the valley
+potted_mangrove_propagule: potted mangrove propagule
+potted_oak_sapling: potted oak sapling
+potted_open_eyeblossom: potted open eyeblossom
+potted_orange_tulip: potted orange tulip
+potted_oxeye_daisy: potted oxeye daisy
+potted_pale_oak_sapling: potted pale oak sapling
+potted_pink_tulip: potted pink tulip
+potted_poppy: potted poppy
+potted_red_mushroom: potted red mushroom
+potted_red_tulip: potted red tulip
+potted_spruce_sapling: potted spruce sapling
+potted_torchflower: potted torchflower
+potted_warped_fungus: potted warped fungus
+potted_warped_roots: potted warped roots
+potted_white_tulip: potted white tulip
+potted_wither_rose: potted wither rose
+powder_snow: powder snow
+powder_snow_bucket: powder snow bucket
+powder_snow_cauldron: powder snow cauldron
+powered_rail: powered rail
+prismarine: prismarine
+prismarine_brick_slab: prismarine brick slab
+prismarine_brick_stairs: prismarine brick stairs
+prismarine_bricks: prismarine bricks
+prismarine_crystals: prismarine crystals
+prismarine_shard: prismarine shard
+prismarine_slab: prismarine slab
+prismarine_stairs: prismarine stairs
+prismarine_wall: prismarine wall
+prize_pottery_sherd: prize pottery sherd
+pufferfish: pufferfish
+pufferfish_bucket: pufferfish bucket
+pufferfish_spawn_egg: pufferfish spawn egg
+pumpkin: pumpkin
+pumpkin_pie: pumpkin pie
+pumpkin_seeds: pumpkin seeds
+pumpkin_stem: pumpkin stem
+purple_banner: purple banner
+purple_bed: purple bed
+purple_bundle: purple bundle
+purple_candle: purple candle
+purple_candle_cake: purple candle cake
+purple_carpet: purple carpet
+purple_concrete: purple concrete
+purple_concrete_powder: purple concrete powder
+purple_dye: purple dye
+purple_glazed_terracotta: purple glazed terracotta
+purple_harness: purple harness
+purple_shulker_box: purple shulker box
+purple_stained_glass: purple stained glass
+purple_stained_glass_pane: purple stained glass pane
+purple_terracotta: purple terracotta
+purple_wall_banner: purple wall banner
+purple_wool: purple wool
+purpur_block: purpur block
+purpur_pillar: purpur pillar
+purpur_slab: purpur slab
+purpur_stairs: purpur stairs
+quartz: quartz
+quartz_block: quartz block
+quartz_bricks: quartz bricks
+quartz_pillar: quartz pillar
+quartz_slab: quartz slab
+quartz_stairs: quartz stairs
+rabbit: rabbit
+rabbit_foot: rabbit foot
+rabbit_hide: rabbit hide
+rabbit_spawn_egg: rabbit spawn egg
+rabbit_stew: rabbit stew
+rail: rail
+raiser_armor_trim_smithing_template: raiser armor trim smithing template
+ravager_spawn_egg: ravager spawn egg
+raw_copper: raw copper
+raw_copper_block: raw copper block
+raw_gold: raw gold
+raw_gold_block: raw gold block
+raw_iron: raw iron
+raw_iron_block: raw iron block
+recovery_compass: recovery compass
+red_banner: red banner
+red_bed: red bed
+red_bundle: red bundle
+red_candle: red candle
+red_candle_cake: red candle cake
+red_carpet: red carpet
+red_concrete: red concrete
+red_concrete_powder: red concrete powder
+red_dye: red dye
+red_glazed_terracotta: red glazed terracotta
+red_harness: red harness
+red_mushroom: red mushroom
+red_mushroom_block: red mushroom block
+red_nether_brick_slab: red nether brick slab
+red_nether_brick_stairs: red nether brick stairs
+red_nether_brick_wall: red nether brick wall
+red_nether_bricks: red nether bricks
+red_sand: red sand
+red_sandstone: red sandstone
+red_sandstone_slab: red sandstone slab
+red_sandstone_stairs: red sandstone stairs
+red_sandstone_wall: red sandstone wall
+red_shulker_box: red shulker box
+red_stained_glass: red stained glass
+red_stained_glass_pane: red stained glass pane
+red_terracotta: red terracotta
+red_tulip: red tulip
+red_wall_banner: red wall banner
+red_wool: red wool
+redstone: redstone
+redstone_block: redstone block
+redstone_lamp: redstone lamp
+redstone_ore: redstone ore
+redstone_torch: redstone torch
+redstone_wall_torch: redstone wall torch
+redstone_wire: redstone wire
+reinforced_deepslate: reinforced deepslate
+repeater: repeater
+repeating_command_block: repeating command block
+resin_block: resin block
+resin_brick: resin brick
+resin_brick_slab: resin brick slab
+resin_brick_stairs: resin brick stairs
+resin_brick_wall: resin brick wall
+resin_bricks: resin bricks
+resin_clump: resin clump
+respawn_anchor: respawn anchor
+rib_armor_trim_smithing_template: rib armor trim smithing template
+rooted_dirt: rooted dirt
+rose_bush: rose bush
+rotten_flesh: rotten flesh
+saddle: saddle
+salmon: salmon
+salmon_bucket: salmon bucket
+salmon_spawn_egg: salmon spawn egg
+sand: sand
+sandstone: sandstone
+sandstone_slab: sandstone slab
+sandstone_stairs: sandstone stairs
+sandstone_wall: sandstone wall
+scaffolding: scaffolding
+scrape_pottery_sherd: scrape pottery sherd
+sculk: sculk
+sculk_catalyst: sculk catalyst
+sculk_sensor: sculk sensor
+sculk_shrieker: sculk shrieker
+sculk_vein: sculk vein
+sea_lantern: sea lantern
+sea_pickle: sea pickle
+seagrass: seagrass
+sentry_armor_trim_smithing_template: sentry armor trim smithing template
+shaper_armor_trim_smithing_template: shaper armor trim smithing template
+sheaf_pottery_sherd: sheaf pottery sherd
+shears: shears
+sheep_spawn_egg: sheep spawn egg
+shelter_pottery_sherd: shelter pottery sherd
+shield: shield
+short_dry_grass: short dry grass
+short_grass: short grass
+shroomlight: shroomlight
+shulker_box: shulker box
+shulker_shell: shulker shell
+shulker_spawn_egg: shulker spawn egg
+silence_armor_trim_smithing_template: silence armor trim smithing template
+silverfish_spawn_egg: silverfish spawn egg
+skeleton_horse_spawn_egg: skeleton horse spawn egg
+skeleton_skull: skeleton skull
+skeleton_spawn_egg: skeleton spawn egg
+skeleton_wall_skull: skeleton wall skull
+skull_banner_pattern: skull banner pattern
+skull_pottery_sherd: skull pottery sherd
+slime_ball: slime ball
+slime_block: slime block
+slime_spawn_egg: slime spawn egg
+small_amethyst_bud: small amethyst bud
+small_dripleaf: small dripleaf
+smithing_table: smithing table
+smoker: smoker
+smooth_basalt: smooth basalt
+smooth_quartz: smooth quartz
+smooth_quartz_slab: smooth quartz slab
+smooth_quartz_stairs: smooth quartz stairs
+smooth_red_sandstone: smooth red sandstone
+smooth_red_sandstone_slab: smooth red sandstone slab
+smooth_red_sandstone_stairs: smooth red sandstone stairs
+smooth_sandstone: smooth sandstone
+smooth_sandstone_slab: smooth sandstone slab
+smooth_sandstone_stairs: smooth sandstone stairs
+smooth_stone: smooth stone
+smooth_stone_slab: smooth stone slab
+sniffer_egg: sniffer egg
+sniffer_spawn_egg: sniffer spawn egg
+snort_pottery_sherd: snort pottery sherd
+snout_armor_trim_smithing_template: snout armor trim smithing template
+snow: snow
+snow_block: snow block
+snow_golem_spawn_egg: snow golem spawn egg
+snowball: snowball
+soul_campfire: soul campfire
+soul_fire: soul fire
+soul_lantern: soul lantern
+soul_sand: soul sand
+soul_soil: soul soil
+soul_torch: soul torch
+soul_wall_torch: soul wall torch
+spawner: spawner
+spectral_arrow: spectral arrow
+spider_eye: spider eye
+spider_spawn_egg: spider spawn egg
+spire_armor_trim_smithing_template: spire armor trim smithing template
+splash_potion: splash potion
+sponge: sponge
+spore_blossom: spore blossom
+spruce_boat: spruce boat
+spruce_button: spruce button
+spruce_chest_boat: spruce chest boat
+spruce_door: spruce door
+spruce_fence: spruce fence
+spruce_fence_gate: spruce fence gate
+spruce_hanging_sign: spruce hanging sign
+spruce_leaves: spruce leaves
+spruce_log: spruce log
+spruce_planks: spruce planks
+spruce_pressure_plate: spruce pressure plate
+spruce_sapling: spruce sapling
+spruce_shelf: spruce shelf
+spruce_sign: spruce sign
+spruce_slab: spruce slab
+spruce_stairs: spruce stairs
+spruce_trapdoor: spruce trapdoor
+spruce_wall_hanging_sign: spruce wall hanging sign
+spruce_wall_sign: spruce wall sign
+spruce_wood: spruce wood
+spyglass: spyglass
+squid_spawn_egg: squid spawn egg
+stick: stick
+sticky_piston: sticky piston
+stone: stone
+stone_axe: stone axe
+stone_brick_slab: stone brick slab
+stone_brick_stairs: stone brick stairs
+stone_brick_wall: stone brick wall
+stone_bricks: stone bricks
+stone_button: stone button
+stone_hoe: stone hoe
+stone_pickaxe: stone pickaxe
+stone_pressure_plate: stone pressure plate
+stone_shovel: stone shovel
+stone_slab: stone slab
+stone_stairs: stone stairs
+stone_sword: stone sword
+stonecutter: stonecutter
+stray_spawn_egg: stray spawn egg
+strider_spawn_egg: strider spawn egg
+string: string
+stripped_acacia_log: stripped acacia log
+stripped_acacia_wood: stripped acacia wood
+stripped_bamboo_block: stripped bamboo block
+stripped_birch_log: stripped birch log
+stripped_birch_wood: stripped birch wood
+stripped_cherry_log: stripped cherry log
+stripped_cherry_wood: stripped cherry wood
+stripped_crimson_hyphae: stripped crimson hyphae
+stripped_crimson_stem: stripped crimson stem
+stripped_dark_oak_log: stripped dark oak log
+stripped_dark_oak_wood: stripped dark oak wood
+stripped_jungle_log: stripped jungle log
+stripped_jungle_wood: stripped jungle wood
+stripped_mangrove_log: stripped mangrove log
+stripped_mangrove_wood: stripped mangrove wood
+stripped_oak_log: stripped oak log
+stripped_oak_wood: stripped oak wood
+stripped_pale_oak_log: stripped pale oak log
+stripped_pale_oak_wood: stripped pale oak wood
+stripped_spruce_log: stripped spruce log
+stripped_spruce_wood: stripped spruce wood
+stripped_warped_hyphae: stripped warped hyphae
+stripped_warped_stem: stripped warped stem
+structure_block: structure block
+structure_void: structure void
+sugar: sugar
+sugar_cane: sugar cane
+sunflower: sunflower
+suspicious_gravel: suspicious gravel
+suspicious_sand: suspicious sand
+suspicious_stew: suspicious stew
+sweet_berries: sweet berries
+sweet_berry_bush: sweet berry bush
+tadpole_bucket: tadpole bucket
+tadpole_spawn_egg: tadpole spawn egg
+tall_dry_grass: tall dry grass
+tall_grass: tall grass
+tall_seagrass: tall seagrass
+target: target
+terracotta: terracotta
+test_block: test block
+test_instance_block: test instance block
+tide_armor_trim_smithing_template: tide armor trim smithing template
+tinted_glass: tinted glass
+tipped_arrow: tipped arrow
+tnt: tnt
+tnt_minecart: tnt minecart
+torch: torch
+torchflower: torchflower
+torchflower_crop: torchflower crop
+torchflower_seeds: torchflower seeds
+totem_of_undying: totem of undying
+trader_llama_spawn_egg: trader llama spawn egg
+trapped_chest: trapped chest
+trial_key: trial key
+trial_spawner: trial spawner
+trident: trident
+tripwire: tripwire
+tripwire_hook: tripwire hook
+tropical_fish: tropical fish
+tropical_fish_bucket: tropical fish bucket
+tropical_fish_spawn_egg: tropical fish spawn egg
+tube_coral: tube coral
+tube_coral_block: tube coral block
+tube_coral_fan: tube coral fan
+tube_coral_wall_fan: tube coral wall fan
+tuff: tuff
+tuff_brick_slab: tuff brick slab
+tuff_brick_stairs: tuff brick stairs
+tuff_brick_wall: tuff brick wall
+tuff_bricks: tuff bricks
+tuff_slab: tuff slab
+tuff_stairs: tuff stairs
+tuff_wall: tuff wall
+turtle_egg: turtle egg
+turtle_helmet: turtle helmet
+turtle_scute: turtle scute
+turtle_spawn_egg: turtle spawn egg
+twisting_vines: twisting vines
+twisting_vines_plant: twisting vines plant
+vault: vault
+verdant_froglight: verdant froglight
+vex_armor_trim_smithing_template: vex armor trim smithing template
+vex_spawn_egg: vex spawn egg
+villager_spawn_egg: villager spawn egg
+vindicator_spawn_egg: vindicator spawn egg
+vine: vine
+void_air: void air
+wall_torch: wall torch
+wandering_trader_spawn_egg: wandering trader spawn egg
+ward_armor_trim_smithing_template: ward armor trim smithing template
+warden_spawn_egg: warden spawn egg
+warped_button: warped button
+warped_door: warped door
+warped_fence: warped fence
+warped_fence_gate: warped fence gate
+warped_fungus: warped fungus
+warped_fungus_on_a_stick: warped fungus on a stick
+warped_hanging_sign: warped hanging sign
+warped_hyphae: warped hyphae
+warped_nylium: warped nylium
+warped_planks: warped planks
+warped_pressure_plate: warped pressure plate
+warped_roots: warped roots
+warped_shelf: warped shelf
+warped_sign: warped sign
+warped_slab: warped slab
+warped_stairs: warped stairs
+warped_stem: warped stem
+warped_trapdoor: warped trapdoor
+warped_wall_hanging_sign: warped wall hanging sign
+warped_wall_sign: warped wall sign
+warped_wart_block: warped wart block
+water: water
+water_bucket: water bucket
+water_cauldron: water cauldron
+waxed_chiseled_copper: waxed chiseled copper
+waxed_copper_bars: waxed copper bars
+waxed_copper_block: waxed copper block
+waxed_copper_bulb: waxed copper bulb
+waxed_copper_chain: waxed copper chain
+waxed_copper_chest: waxed copper chest
+waxed_copper_door: waxed copper door
+waxed_copper_golem_statue: waxed copper golem statue
+waxed_copper_grate: waxed copper grate
+waxed_copper_lantern: waxed copper lantern
+waxed_copper_trapdoor: waxed copper trapdoor
+waxed_cut_copper: waxed cut copper
+waxed_cut_copper_slab: waxed cut copper slab
+waxed_cut_copper_stairs: waxed cut copper stairs
+waxed_exposed_chiseled_copper: waxed exposed chiseled copper
+waxed_exposed_copper: waxed exposed copper
+waxed_exposed_copper_bars: waxed exposed copper bars
+waxed_exposed_copper_bulb: waxed exposed copper bulb
+waxed_exposed_copper_chain: waxed exposed copper chain
+waxed_exposed_copper_chest: waxed exposed copper chest
+waxed_exposed_copper_door: waxed exposed copper door
+waxed_exposed_copper_golem_statue: waxed exposed copper golem statue
+waxed_exposed_copper_grate: waxed exposed copper grate
+waxed_exposed_copper_lantern: waxed exposed copper lantern
+waxed_exposed_copper_trapdoor: waxed exposed copper trapdoor
+waxed_exposed_cut_copper: waxed exposed cut copper
+waxed_exposed_cut_copper_slab: waxed exposed cut copper slab
+waxed_exposed_cut_copper_stairs: waxed exposed cut copper stairs
+waxed_exposed_lightning_rod: waxed exposed lightning rod
+waxed_lightning_rod: waxed lightning rod
+waxed_oxidized_chiseled_copper: waxed oxidized chiseled copper
+waxed_oxidized_copper: waxed oxidized copper
+waxed_oxidized_copper_bars: waxed oxidized copper bars
+waxed_oxidized_copper_bulb: waxed oxidized copper bulb
+waxed_oxidized_copper_chain: waxed oxidized copper chain
+waxed_oxidized_copper_chest: waxed oxidized copper chest
+waxed_oxidized_copper_door: waxed oxidized copper door
+waxed_oxidized_copper_golem_statue: waxed oxidized copper golem statue
+waxed_oxidized_copper_grate: waxed oxidized copper grate
+waxed_oxidized_copper_lantern: waxed oxidized copper lantern
+waxed_oxidized_copper_trapdoor: waxed oxidized copper trapdoor
+waxed_oxidized_cut_copper: waxed oxidized cut copper
+waxed_oxidized_cut_copper_slab: waxed oxidized cut copper slab
+waxed_oxidized_cut_copper_stairs: waxed oxidized cut copper stairs
+waxed_oxidized_lightning_rod: waxed oxidized lightning rod
+waxed_weathered_chiseled_copper: waxed weathered chiseled copper
+waxed_weathered_copper: waxed weathered copper
+waxed_weathered_copper_bars: waxed weathered copper bars
+waxed_weathered_copper_bulb: waxed weathered copper bulb
+waxed_weathered_copper_chain: waxed weathered copper chain
+waxed_weathered_copper_chest: waxed weathered copper chest
+waxed_weathered_copper_door: waxed weathered copper door
+waxed_weathered_copper_golem_statue: waxed weathered copper golem statue
+waxed_weathered_copper_grate: waxed weathered copper grate
+waxed_weathered_copper_lantern: waxed weathered copper lantern
+waxed_weathered_copper_trapdoor: waxed weathered copper trapdoor
+waxed_weathered_cut_copper: waxed weathered cut copper
+waxed_weathered_cut_copper_slab: waxed weathered cut copper slab
+waxed_weathered_cut_copper_stairs: waxed weathered cut copper stairs
+waxed_weathered_lightning_rod: waxed weathered lightning rod
+wayfinder_armor_trim_smithing_template: wayfinder armor trim smithing template
+weathered_chiseled_copper: weathered chiseled copper
+weathered_copper: weathered copper
+weathered_copper_bars: weathered copper bars
+weathered_copper_bulb: weathered copper bulb
+weathered_copper_chain: weathered copper chain
+weathered_copper_chest: weathered copper chest
+weathered_copper_door: weathered copper door
+weathered_copper_golem_statue: weathered copper golem statue
+weathered_copper_grate: weathered copper grate
+weathered_copper_lantern: weathered copper lantern
+weathered_copper_trapdoor: weathered copper trapdoor
+weathered_cut_copper: weathered cut copper
+weathered_cut_copper_slab: weathered cut copper slab
+weathered_cut_copper_stairs: weathered cut copper stairs
+weathered_lightning_rod: weathered lightning rod
+weeping_vines: weeping vines
+weeping_vines_plant: weeping vines plant
+wet_sponge: wet sponge
+wheat: wheat
+wheat_seeds: wheat seeds
+white_banner: white banner
+white_bed: white bed
+white_bundle: white bundle
+white_candle: white candle
+white_candle_cake: white candle cake
+white_carpet: white carpet
+white_concrete: white concrete
+white_concrete_powder: white concrete powder
+white_dye: white dye
+white_glazed_terracotta: white glazed terracotta
+white_harness: white harness
+white_shulker_box: white shulker box
+white_stained_glass: white stained glass
+white_stained_glass_pane: white stained glass pane
+white_terracotta: white terracotta
+white_tulip: white tulip
+white_wall_banner: white wall banner
+white_wool: white wool
+wild_armor_trim_smithing_template: wild armor trim smithing template
+wildflowers: wildflowers
+wind_charge: wind charge
+witch_spawn_egg: witch spawn egg
+wither_rose: wither rose
+wither_skeleton_skull: wither skeleton skull
+wither_skeleton_spawn_egg: wither skeleton spawn egg
+wither_skeleton_wall_skull: wither skeleton wall skull
+wither_spawn_egg: wither spawn egg
+wolf_armor: wolf armor
+wolf_spawn_egg: wolf spawn egg
+wooden_axe: wooden axe
+wooden_hoe: wooden hoe
+wooden_pickaxe: wooden pickaxe
+wooden_shovel: wooden shovel
+wooden_sword: wooden sword
+writable_book: writable book
+written_book: written book
+yellow_banner: yellow banner
+yellow_bed: yellow bed
+yellow_bundle: yellow bundle
+yellow_candle: yellow candle
+yellow_candle_cake: yellow candle cake
+yellow_carpet: yellow carpet
+yellow_concrete: yellow concrete
+yellow_concrete_powder: yellow concrete powder
+yellow_dye: yellow dye
+yellow_glazed_terracotta: yellow glazed terracotta
+yellow_harness: yellow harness
+yellow_shulker_box: yellow shulker box
+yellow_stained_glass: yellow stained glass
+yellow_stained_glass_pane: yellow stained glass pane
+yellow_terracotta: yellow terracotta
+yellow_wall_banner: yellow wall banner
+yellow_wool: yellow wool
+zoglin_spawn_egg: zoglin spawn egg
+zombie_head: zombie head
+zombie_horse_spawn_egg: zombie horse spawn egg
+zombie_spawn_egg: zombie spawn egg
+zombie_villager_spawn_egg: zombie villager spawn egg
+zombie_wall_head: zombie wall head
+zombified_piglin_spawn_egg: zombified piglin spawn egg
