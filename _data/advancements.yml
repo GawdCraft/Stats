@@ -1,0 +1,910 @@
+--- # Minecraft
+story:
+
+  root:
+    name: Minecraft
+    parent: —
+    description: >
+      The heart and story of the game
+    requirements: >
+      Have a crafting table in your inventory.
+
+  mine_stone:
+    name: Stone Age
+    parent: Minecraft
+    description: Mine Stone with your new Pickaxe
+    requirements: >
+      Have one of these 3 stones in the #stone_tool_materials item tag:
+      - Cobblestone
+      - Blackstone
+      - Cobbled Deepslate
+       in your inventory.
+
+  upgrade_tools:
+    name: Getting an Upgrade
+    parent: Stone Age
+    description: >
+      Construct a better Pickaxe
+    requirements: >
+      Have a stone pickaxe in your inventory.
+
+  smelt_iron:
+    name: Acquire Hardware
+    parent: Getting an Upgrade
+    description: >
+      Smelt an Iron Ingot
+    requirements: >
+      Have an iron ingot in your inventory.
+
+  obtain_armor:
+    name: Suit Up
+    parent: Acquire Hardware
+    description: >
+      Protect yourself with a piece of iron armor
+    requirements: >
+      Have any type of iron armor in your inventory.
+
+  lava_bucket:
+    name: Hot Stuff
+    parent: Acquire Hardware
+    description: >
+      Fill a Bucket with lava
+    requirements: >
+      Have a lava bucket in your inventory.
+
+  iron_tools:
+    name: Isn't It Iron Pick
+    parent: Acquire Hardware
+    description: >
+      Upgrade your Pickaxe
+    requirements: >
+      Have an iron pickaxe in your inventory.
+
+  deflect_arrow:
+    name: Not Today, Thank You
+    parent: Suit Up
+    description: >
+      Deflect a projectile with a Shield
+    requirements: >
+      Block any projectile with a shield.
+
+  form_obsidian:
+    name: Ice Bucket Challenge
+    parent: Hot Stuff
+    description: >
+      Obtain a block of Obsidian
+    requirements: >
+      Have a block of obsidian in your inventory.
+
+  mine_diamond:
+    name: Diamonds!
+    parent: Isn't It Iron Pick
+    description: >
+      Acquire diamonds
+    requirements: >
+      Have a diamond in your inventory.
+
+  enter_the_nether:
+    name: We Need to Go Deeper
+    parent: Ice Bucket Challenge
+    description: >
+      Build, light and enter a Nether Portal
+    requirements: >
+      Enter the Nether dimension.
+
+  shiny_gear:
+    name: Cover Me with Diamonds
+    parent: Diamonds!
+    description: >
+      Diamond armor saves lives
+    requirements: >
+      Have any type of diamond armor in your inventory.
+
+  enchant_item:
+    name: Enchanter
+    parent: Diamonds!
+    description: >
+      Enchant an item at an Enchanting Table
+    requirements: >
+      Insert an item in an enchanting table, then apply an enchantment.
+
+  cure_zombie_villager:
+    name: Zombie Doctor
+    parent: We Need to Go Deeper
+    description: >
+      Weaken and then cure a Zombie Villager
+    requirements: >
+      Use a golden apple on a zombie villager under the Weakness effect; the advancement is granted when the zombie villager converts into a villager.
+      In multiplayer, only the player that feeds the golden apple gets the advancement.
+
+  follow_ender_eye:
+    name: Eye Spy
+    parent: We Need to Go Deeper
+    description: >
+      Follow an Eye of Ender
+    requirements: >
+      Enter a stronghold.
+
+  enter_the_end:
+    name: The End?
+    parent: Eye Spy
+    description: >
+      Enter the End Portal
+    requirements: >
+      Enter the End dimension.
+
+
+
+--- # Nether
+nether:
+
+  root:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  return_to_sender:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  find_bastion:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  obtain_ancient_debris:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  fast_travel:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  find_fortress:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  obtain_crying_obsidian:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  distract_piglin:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  ride_strider:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  uneasy_alliance:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  loot_bastion:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  use_lodestone:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  netherite_armor:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  get_wither_skull:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  obtain_blaze_rod:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  charge_respawn_anchor:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  ride_strider_in_overworld_lava:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  explore_nether:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  summon_wither:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  brew_potion:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  create_beacon:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  all_potions:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  create_full_beacon:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  all_effects:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+
+
+
+--- # The End
+end:
+
+  root:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  kill_dragon:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  dragon_egg:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  enter_end_gateway:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  respawn_dragon:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  dragon_breath:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  find_end_city:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  elytra:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  levitate:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+
+
+
+--- # Adventure
+adventure:
+
+  root:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  voluntary_exile:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  spyglass_at_parrot:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  kill_a_mob:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  read_power_of_chiseled_bookshelf:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  trade:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  trim_with_any_armor_pattern:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  honey_block_slide:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  ol_betsy:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  lightning_rod_with_villager_no_fire:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  fall_from_world_height:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  salvage_sherd:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  avoid_vibration:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  sleep_in_bed:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  hero_of_the_village:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  spyglass_at_ghast:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  throw_trident:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  kill_mob_near_sculk_catalyst:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  shoot_arrow:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  kill_all_mobs:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  totem_of_undying:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  summon_iron_golem:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  trade_at_world_height:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  trim_with_all_exclusive_armor_patterns:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  two_birds_one_arrow:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  whos_the_pillager_now:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  arbalistic:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  craft_decorated_pot_using_only_sherds:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  adventuring_time:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  play_jukebox_in_meadows:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  walk_on_powder_snow_with_leather_boots:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  spyglass_at_dragon:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  very_very_frightening:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  sniper_duel:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  bullseye:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+
+
+
+--- # Husbandry
+husbandry:
+
+  root:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  safely_harvest_honey:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  breed_an_animal:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  allay_deliver_item_to_player:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  ride_a_boat_with_a_goat:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  tame_an_animal:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  make_a_sign_glow:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  fishy_business:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  silk_touch_nest:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  tadpole_in_a_bucket:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  obtain_sniffer_egg:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  plant_seed:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  wax_on:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  bred_all_animals:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  allay_deliver_cake_to_note_block:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  complete_catalogue:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  tactical_fishing:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  leash_all_frog_variants:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  feed_snifflet:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  balanced_diet:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  obtain_netherite_hoe:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  wax_off:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  axolotl_in_a_bucket:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  froglights:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  plant_any_sniffer_seed:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
+  kill_axolotl_target:
+    name: 
+    parent: 
+    description: >
+      
+    requirements: >
+      
+
