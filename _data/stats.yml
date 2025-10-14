@@ -1,0 +1,378 @@
+--- # Stats
+stats:
+
+  animals_bred:
+    name: Animals Bred
+    description: >
+      
+
+  clean_armor:
+    name: Armor Pieces Cleaned
+    description: >
+      
+
+  clean_banner:
+    name: Banners Cleaned
+    description: >
+      
+
+  open_barrel:
+    name: Barrels Opened
+    description: >
+      
+
+  bell_ring:
+    name: Bells Rung
+    description: >
+      
+
+  eat_cake_slice:
+    name: Cake Slices Eaten
+    description: >
+      
+
+  fill_cauldron:
+    name: Cauldrons Filled
+    description: >
+      
+
+  open_chest:
+    name: Chests Opened
+    description: >
+      
+
+  damage_absorbed:
+    name: Damage Absorbed
+    description: >
+      
+
+  damage_blocked_by_shield:
+    name: Damage Blocked By Shield
+    description: >
+      
+
+  damage_dealt:
+    name: Damage Dealt
+    description: >
+      
+
+  damage_dealt_absorbed:
+    name: Damage Dealt (Absorbed)
+    description: >
+      
+
+  damage_dealt_resisted:
+    name: Damage Dealt (Resisted)
+    description: >
+      
+
+  damage_resisted:
+    name: Damage Resisted
+    description: >
+      
+
+  damage_taken:
+    name: Damage Taken
+    description: >
+      
+
+  inspect_dispenser:
+    name: Dispensers Searched
+    description: >
+      
+
+  climb_one_cm:
+    name: Distance Climbed
+    description: >
+      
+
+  crouch_one_cm:
+    name: Distance Crouched
+    description: >
+      
+
+  fall_one_cm:
+    name: Distance Fallen
+    description: >
+      
+
+  fly_one_cm:
+    name: Distance Flown
+    description: >
+      
+
+  sprint_one_cm:
+    name: Distance Sprinted
+    description: >
+      
+
+  swim_one_cm:
+    name: Distance Swum
+    description: >
+      
+
+  walk_one_cm:
+    name: Distance Walked
+    description: >
+      
+
+  walk_on_water_one_cm:
+    name: Distance Walked on Water
+    description: >
+      
+
+  walk_under_water_one_cm:
+    name: Distance Walked under Water
+    description: >
+      
+
+  boat_one_cm:
+    name: Distance by Boat
+    description: >
+      
+
+  aviate_one_cm:
+    name: Distance by Elytra
+    description: >
+      
+
+  horse_one_cm:
+    name: Distance by Horse
+    description: >
+      
+
+  minecart_one_cm:
+    name: Distance by Minecart
+    description: >
+      
+
+  pig_one_cm:
+    name: Distance by Pig
+    description: >
+      
+
+  strider_one_cm:
+    name: Distance by Strider
+    description: >
+      
+
+  inspect_dropper:
+    name: Droppers Searched
+    description: >
+      
+
+  open_enderchest:
+    name: Ender Chests Opened
+    description: >
+      
+
+  fish_caught:
+    name: Fish Caught
+    description: >
+      
+
+  leave_game:
+    name: Games Quit
+    description: >
+      
+
+  inspect_hopper:
+    name: Hoppers Searched
+    description: >
+      
+
+  interact_with_anvil:
+    name: Interactions with Anvil
+    description: >
+      
+
+  interact_with_beacon:
+    name: Interactions with Beacon
+    description: >
+      
+
+  interact_with_blast_furnace:
+    name: Interactions with Blast Furnace
+    description: >
+      
+
+  interact_with_brewingstand:
+    name: Interactions with Brewing Stand
+    description: >
+      
+
+  interact_with_campfire:
+    name: Interactions with Campfire
+    description: >
+      
+
+  interact_with_cartography_table:
+    name: Interactions with Cartography Table
+    description: >
+      
+
+  interact_with_crafting_table:
+    name: Interactions with Crafting Table
+    description: >
+      
+
+  interact_with_furnace:
+    name: Interactions with Furnace
+    description: >
+      
+
+  interact_with_grindstone:
+    name: Interactions with Grindstone
+    description: >
+      
+
+  interact_with_lectern:
+    name: Interactions with Lectern
+    description: >
+      
+
+  interact_with_loom:
+    name: Interactions with Loom
+    description: >
+      
+
+  interact_with_smithing_table:
+    name: Interactions with Smithing Table
+    description: >
+      
+
+  interact_with_smoker:
+    name: Interactions with Smoker
+    description: >
+      
+
+  interact_with_stonecutter:
+    name: Interactions with Stonecutter
+    description: >
+      
+
+  drop:
+    name: Items Dropped
+    description: >
+      
+
+  enchant_item:
+    name: Items Enchanted
+    description: >
+      
+
+  jump:
+    name: Jumps
+    description: >
+      
+
+  mob_kills:
+    name: Mob Kills
+    description: >
+      
+
+  play_record:
+    name: Music Discs Played
+    description: >
+      
+
+  play_noteblock:
+    name: Note Blocks Played
+    description: >
+      
+
+  tune_noteblock:
+    name: Note Blocks Tuned
+    description: >
+      
+
+  deaths:
+    name: Number of Deaths
+    description: >
+      
+
+  pot_flower:
+    name: Plants Potted
+    description: >
+      
+
+  player_kills:
+    name: Player Kills
+    description: >
+      
+
+  raid_trigger:
+    name: Raids Triggered
+    description: >
+      
+
+  raid_win:
+    name: Raids Won
+    description: >
+      
+
+  clean_shulker_box:
+    name: Shulker Boxes Cleaned
+    description: >
+      
+
+  open_shulker_box:
+    name: Shulker Boxes Opened
+    description: >
+      
+
+  sneak_time:
+    name: Sneak Time
+    description: >
+      
+
+  talked_to_villager:
+    name: Talked to Villagers
+    description: >
+      
+
+  target_hit:
+    name: Targets Hit
+    description: >
+      
+
+  play_time:
+    name: Time Played
+    description: >
+      
+
+  time_since_death:
+    name: Time Since Last Death
+    description: >
+      
+
+  time_since_rest:
+    name: Time Since Last Rest
+    description: >
+      
+
+  total_world_time:
+    name: Time with World Open
+    description: >
+      
+
+  sleep_in_bed:
+    name: Times Slept in a Bed
+    description: >
+      
+
+  traded_with_villager:
+    name: Traded with Villagers
+    description: >
+      
+
+  trigger_trapped_chest:
+    name: Trapped Chests Triggered
+    description: >
+      
+
+  use_cauldron:
+    name: Water Taken from Cauldron
+    description: >
+      
+
